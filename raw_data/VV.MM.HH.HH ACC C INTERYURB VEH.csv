@@ -1,0 +1,738 @@
+﻿year,infoAcciden,ambito,nombreVehiculo,valor,Textbox22,Textbox19,Textbox23
+2000,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,565,4.706,866,5.776
+2000,Víctimas mortales,Vías interurbanas,Turismos,3.022,4.706,3.294,5.776
+2000,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,492,4.706,516,5.776
+2000,Víctimas mortales,Vías interurbanas,Autobuses,44,4.706,44,5.776
+2000,Víctimas mortales,Vías interurbanas,Bicicletas,61,4.706,84,5.776
+2000,Víctimas mortales,Vías interurbanas,VMP,,4.706,,5.776
+2000,Víctimas mortales,Vías interurbanas,Otros vehículos,71,4.706,74,5.776
+2000,Víctimas mortales,Vías interurbanas,Peatones,451,4.706,898,5.776
+2000,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,301,1.070,866,5.776
+2000,Víctimas mortales,Vías urbanas,Turismos,272,1.070,3.294,5.776
+2000,Víctimas mortales,Vías urbanas,Camiones y furgonetas,24,1.070,516,5.776
+2000,Víctimas mortales,Vías urbanas,Autobuses,0,1.070,44,5.776
+2000,Víctimas mortales,Vías urbanas,Bicicletas,23,1.070,84,5.776
+2000,Víctimas mortales,Vías urbanas,VMP,,1.070,,5.776
+2000,Víctimas mortales,Vías urbanas,Otros vehículos,3,1.070,74,5.776
+2000,Víctimas mortales,Vías urbanas,Peatones,447,1.070,898,5.776
+2000,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,3.207,18.524,7.323,27.764
+2000,Heridos hospitalizados,Vías interurbanas,Turismos,12.077,18.524,14.255,27.764
+2000,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.872,18.524,2.062,27.764
+2000,Heridos hospitalizados,Vías interurbanas,Autobuses,112,18.524,149,27.764
+2000,Heridos hospitalizados,Vías interurbanas,Bicicletas,294,18.524,475,27.764
+2000,Heridos hospitalizados,Vías interurbanas,VMP,,18.524,,27.764
+2000,Heridos hospitalizados,Vías interurbanas,Otros vehículos,159,18.524,212,27.764
+2000,Heridos hospitalizados,Vías interurbanas,Peatones,803,18.524,3.288,27.764
+2000,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,4.116,9.240,7.323,27.764
+2000,Heridos hospitalizados,Vías urbanas,Turismos,2.178,9.240,14.255,27.764
+2000,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,190,9.240,2.062,27.764
+2000,Heridos hospitalizados,Vías urbanas,Autobuses,37,9.240,149,27.764
+2000,Heridos hospitalizados,Vías urbanas,Bicicletas,181,9.240,475,27.764
+2000,Heridos hospitalizados,Vías urbanas,VMP,,9.240,,27.764
+2000,Heridos hospitalizados,Vías urbanas,Otros vehículos,53,9.240,212,27.764
+2000,Heridos hospitalizados,Vías urbanas,Peatones,2.485,9.240,3.288,27.764
+2001,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,532,4.543,833,5.517
+2001,Víctimas mortales,Vías interurbanas,Turismos,2.903,4.543,3.148,5.517
+2001,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,455,4.543,474,5.517
+2001,Víctimas mortales,Vías interurbanas,Autobuses,47,4.543,50,5.517
+2001,Víctimas mortales,Vías interurbanas,Bicicletas,78,4.543,100,5.517
+2001,Víctimas mortales,Vías interurbanas,VMP,,4.543,,5.517
+2001,Víctimas mortales,Vías interurbanas,Otros vehículos,59,4.543,66,5.517
+2001,Víctimas mortales,Vías interurbanas,Peatones,469,4.543,846,5.517
+2001,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,301,974,833,5.517
+2001,Víctimas mortales,Vías urbanas,Turismos,245,974,3.148,5.517
+2001,Víctimas mortales,Vías urbanas,Camiones y furgonetas,19,974,474,5.517
+2001,Víctimas mortales,Vías urbanas,Autobuses,3,974,50,5.517
+2001,Víctimas mortales,Vías urbanas,Bicicletas,22,974,100,5.517
+2001,Víctimas mortales,Vías urbanas,VMP,,974,,5.517
+2001,Víctimas mortales,Vías urbanas,Otros vehículos,7,974,66,5.517
+2001,Víctimas mortales,Vías urbanas,Peatones,377,974,846,5.517
+2001,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,3.129,18.468,6.635,26.566
+2001,Heridos hospitalizados,Vías interurbanas,Turismos,12.179,18.468,14.199,26.566
+2001,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.901,18.468,2.048,26.566
+2001,Heridos hospitalizados,Vías interurbanas,Autobuses,102,18.468,136,26.566
+2001,Heridos hospitalizados,Vías interurbanas,Bicicletas,272,18.468,468,26.566
+2001,Heridos hospitalizados,Vías interurbanas,VMP,,18.468,,26.566
+2001,Heridos hospitalizados,Vías interurbanas,Otros vehículos,134,18.468,173,26.566
+2001,Heridos hospitalizados,Vías interurbanas,Peatones,751,18.468,2.907,26.566
+2001,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,3.506,8.098,6.635,26.566
+2001,Heridos hospitalizados,Vías urbanas,Turismos,2.020,8.098,14.199,26.566
+2001,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,147,8.098,2.048,26.566
+2001,Heridos hospitalizados,Vías urbanas,Autobuses,34,8.098,136,26.566
+2001,Heridos hospitalizados,Vías urbanas,Bicicletas,196,8.098,468,26.566
+2001,Heridos hospitalizados,Vías urbanas,VMP,,8.098,,26.566
+2001,Heridos hospitalizados,Vías urbanas,Otros vehículos,39,8.098,173,26.566
+2001,Heridos hospitalizados,Vías urbanas,Peatones,2.156,8.098,2.907,26.566
+2002,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,503,4.435,784,5.347
+2002,Víctimas mortales,Vías interurbanas,Turismos,2.875,4.435,3.118,5.347
+2002,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,492,4.435,515,5.347
+2002,Víctimas mortales,Vías interurbanas,Autobuses,14,4.435,15,5.347
+2002,Víctimas mortales,Vías interurbanas,Bicicletas,78,4.435,96,5.347
+2002,Víctimas mortales,Vías interurbanas,VMP,,4.435,,5.347
+2002,Víctimas mortales,Vías interurbanas,Otros vehículos,40,4.435,43,5.347
+2002,Víctimas mortales,Vías interurbanas,Peatones,433,4.435,776,5.347
+2002,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,281,912,784,5.347
+2002,Víctimas mortales,Vías urbanas,Turismos,243,912,3.118,5.347
+2002,Víctimas mortales,Vías urbanas,Camiones y furgonetas,23,912,515,5.347
+2002,Víctimas mortales,Vías urbanas,Autobuses,1,912,15,5.347
+2002,Víctimas mortales,Vías urbanas,Bicicletas,18,912,96,5.347
+2002,Víctimas mortales,Vías urbanas,VMP,,912,,5.347
+2002,Víctimas mortales,Vías urbanas,Otros vehículos,3,912,43,5.347
+2002,Víctimas mortales,Vías urbanas,Peatones,343,912,776,5.347
+2002,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,3.135,18.225,6.479,26.156
+2002,Heridos hospitalizados,Vías interurbanas,Turismos,11.933,18.225,13.941,26.156
+2002,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.897,18.225,2.073,26.156
+2002,Heridos hospitalizados,Vías interurbanas,Autobuses,105,18.225,144,26.156
+2002,Heridos hospitalizados,Vías interurbanas,Bicicletas,309,18.225,502,26.156
+2002,Heridos hospitalizados,Vías interurbanas,VMP,,18.225,,26.156
+2002,Heridos hospitalizados,Vías interurbanas,Otros vehículos,143,18.225,173,26.156
+2002,Heridos hospitalizados,Vías interurbanas,Peatones,703,18.225,2.844,26.156
+2002,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,3.344,7.931,6.479,26.156
+2002,Heridos hospitalizados,Vías urbanas,Turismos,2.008,7.931,13.941,26.156
+2002,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,176,7.931,2.073,26.156
+2002,Heridos hospitalizados,Vías urbanas,Autobuses,39,7.931,144,26.156
+2002,Heridos hospitalizados,Vías urbanas,Bicicletas,193,7.931,502,26.156
+2002,Heridos hospitalizados,Vías urbanas,VMP,,7.931,,26.156
+2002,Heridos hospitalizados,Vías urbanas,Otros vehículos,30,7.931,173,26.156
+2002,Heridos hospitalizados,Vías urbanas,Peatones,2.141,7.931,2.844,26.156
+2003,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,486,4.480,758,5.399
+2003,Víctimas mortales,Vías interurbanas,Turismos,2.976,4.480,3.216,5.399
+2003,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,455,4.480,476,5.399
+2003,Víctimas mortales,Vías interurbanas,Autobuses,24,4.480,27,5.399
+2003,Víctimas mortales,Vías interurbanas,Bicicletas,63,4.480,78,5.399
+2003,Víctimas mortales,Vías interurbanas,VMP,,4.480,,5.399
+2003,Víctimas mortales,Vías interurbanas,Otros vehículos,52,4.480,57,5.399
+2003,Víctimas mortales,Vías interurbanas,Peatones,424,4.480,787,5.399
+2003,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,272,919,758,5.399
+2003,Víctimas mortales,Vías urbanas,Turismos,240,919,3.216,5.399
+2003,Víctimas mortales,Vías urbanas,Camiones y furgonetas,21,919,476,5.399
+2003,Víctimas mortales,Vías urbanas,Autobuses,3,919,27,5.399
+2003,Víctimas mortales,Vías urbanas,Bicicletas,15,919,78,5.399
+2003,Víctimas mortales,Vías urbanas,VMP,,919,,5.399
+2003,Víctimas mortales,Vías urbanas,Otros vehículos,5,919,57,5.399
+2003,Víctimas mortales,Vías urbanas,Peatones,363,919,787,5.399
+2003,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,3.164,19.006,6.126,26.305
+2003,Heridos hospitalizados,Vías interurbanas,Turismos,12.572,19.006,14.443,26.305
+2003,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.933,19.006,2.076,26.305
+2003,Heridos hospitalizados,Vías interurbanas,Autobuses,174,19.006,226,26.305
+2003,Heridos hospitalizados,Vías interurbanas,Bicicletas,272,19.006,474,26.305
+2003,Heridos hospitalizados,Vías interurbanas,VMP,,19.006,,26.305
+2003,Heridos hospitalizados,Vías interurbanas,Otros vehículos,163,19.006,193,26.305
+2003,Heridos hospitalizados,Vías interurbanas,Peatones,728,19.006,2.767,26.305
+2003,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,2.962,7.299,6.126,26.305
+2003,Heridos hospitalizados,Vías urbanas,Turismos,1.871,7.299,14.443,26.305
+2003,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,143,7.299,2.076,26.305
+2003,Heridos hospitalizados,Vías urbanas,Autobuses,52,7.299,226,26.305
+2003,Heridos hospitalizados,Vías urbanas,Bicicletas,202,7.299,474,26.305
+2003,Heridos hospitalizados,Vías urbanas,VMP,,7.299,,26.305
+2003,Heridos hospitalizados,Vías urbanas,Otros vehículos,30,7.299,193,26.305
+2003,Heridos hospitalizados,Vías urbanas,Peatones,2.039,7.299,2.767,26.305
+2004,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,490,3.841,761,4.741
+2004,Víctimas mortales,Vías interurbanas,Turismos,2.467,3.841,2.693,4.741
+2004,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,414,3.841,442,4.741
+2004,Víctimas mortales,Vías interurbanas,Autobuses,4,3.841,4,4.741
+2004,Víctimas mortales,Vías interurbanas,Bicicletas,68,3.841,89,4.741
+2004,Víctimas mortales,Vías interurbanas,VMP,,3.841,,4.741
+2004,Víctimas mortales,Vías interurbanas,Otros vehículos,58,3.841,69,4.741
+2004,Víctimas mortales,Vías interurbanas,Peatones,340,3.841,683,4.741
+2004,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,271,900,761,4.741
+2004,Víctimas mortales,Vías urbanas,Turismos,226,900,2.693,4.741
+2004,Víctimas mortales,Vías urbanas,Camiones y furgonetas,28,900,442,4.741
+2004,Víctimas mortales,Vías urbanas,Autobuses,0,900,4,4.741
+2004,Víctimas mortales,Vías urbanas,Bicicletas,21,900,89,4.741
+2004,Víctimas mortales,Vías urbanas,VMP,,900,,4.741
+2004,Víctimas mortales,Vías urbanas,Otros vehículos,11,900,69,4.741
+2004,Víctimas mortales,Vías urbanas,Peatones,343,900,683,4.741
+2004,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,2.543,14.631,5.592,21.805
+2004,Heridos hospitalizados,Vías interurbanas,Turismos,9.500,14.631,11.083,21.805
+2004,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.495,14.631,1.599,21.805
+2004,Heridos hospitalizados,Vías interurbanas,Autobuses,53,14.631,91,21.805
+2004,Heridos hospitalizados,Vías interurbanas,Bicicletas,270,14.631,470,21.805
+2004,Heridos hospitalizados,Vías interurbanas,VMP,,14.631,,21.805
+2004,Heridos hospitalizados,Vías interurbanas,Otros vehículos,191,14.631,255,21.805
+2004,Heridos hospitalizados,Vías interurbanas,Peatones,579,14.631,2.715,21.805
+2004,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,3.049,7.174,5.592,21.805
+2004,Heridos hospitalizados,Vías urbanas,Turismos,1.583,7.174,11.083,21.805
+2004,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,104,7.174,1.599,21.805
+2004,Heridos hospitalizados,Vías urbanas,Autobuses,38,7.174,91,21.805
+2004,Heridos hospitalizados,Vías urbanas,Bicicletas,200,7.174,470,21.805
+2004,Heridos hospitalizados,Vías urbanas,VMP,,7.174,,21.805
+2004,Heridos hospitalizados,Vías urbanas,Otros vehículos,64,7.174,255,21.805
+2004,Heridos hospitalizados,Vías urbanas,Peatones,2.136,7.174,2.715,21.805
+2005,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,532,3.652,785,4.442
+2005,Víctimas mortales,Vías interurbanas,Turismos,2.245,3.652,2.393,4.442
+2005,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,371,3.652,385,4.442
+2005,Víctimas mortales,Vías interurbanas,Autobuses,25,3.652,26,4.442
+2005,Víctimas mortales,Vías interurbanas,Bicicletas,59,3.652,82,4.442
+2005,Víctimas mortales,Vías interurbanas,VMP,,3.652,,4.442
+2005,Víctimas mortales,Vías interurbanas,Otros vehículos,72,3.652,91,4.442
+2005,Víctimas mortales,Vías interurbanas,Peatones,348,3.652,680,4.442
+2005,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,253,790,785,4.442
+2005,Víctimas mortales,Vías urbanas,Turismos,148,790,2.393,4.442
+2005,Víctimas mortales,Vías urbanas,Camiones y furgonetas,14,790,385,4.442
+2005,Víctimas mortales,Vías urbanas,Autobuses,1,790,26,4.442
+2005,Víctimas mortales,Vías urbanas,Bicicletas,23,790,82,4.442
+2005,Víctimas mortales,Vías urbanas,VMP,,790,,4.442
+2005,Víctimas mortales,Vías urbanas,Otros vehículos,19,790,91,4.442
+2005,Víctimas mortales,Vías urbanas,Peatones,332,790,680,4.442
+2005,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,2.891,14.920,6.024,21.859
+2005,Heridos hospitalizados,Vías interurbanas,Turismos,9.206,14.920,10.530,21.859
+2005,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.604,14.920,1.702,21.859
+2005,Heridos hospitalizados,Vías interurbanas,Autobuses,125,14.920,153,21.859
+2005,Heridos hospitalizados,Vías interurbanas,Bicicletas,234,14.920,448,21.859
+2005,Heridos hospitalizados,Vías interurbanas,VMP,,14.920,,21.859
+2005,Heridos hospitalizados,Vías interurbanas,Otros vehículos,285,14.920,376,21.859
+2005,Heridos hospitalizados,Vías interurbanas,Peatones,575,14.920,2.626,21.859
+2005,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,3.133,6.939,6.024,21.859
+2005,Heridos hospitalizados,Vías urbanas,Turismos,1.324,6.939,10.530,21.859
+2005,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,98,6.939,1.702,21.859
+2005,Heridos hospitalizados,Vías urbanas,Autobuses,28,6.939,153,21.859
+2005,Heridos hospitalizados,Vías urbanas,Bicicletas,214,6.939,448,21.859
+2005,Heridos hospitalizados,Vías urbanas,VMP,,6.939,,21.859
+2005,Heridos hospitalizados,Vías urbanas,Otros vehículos,91,6.939,376,21.859
+2005,Heridos hospitalizados,Vías urbanas,Peatones,2.051,6.939,2.626,21.859
+2006,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,543,3.367,789,4.104
+2006,Víctimas mortales,Vías interurbanas,Turismos,1.942,3.367,2.096,4.104
+2006,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,397,3.367,403,4.104
+2006,Víctimas mortales,Vías interurbanas,Autobuses,34,3.367,35,4.104
+2006,Víctimas mortales,Vías interurbanas,Bicicletas,55,3.367,75,4.104
+2006,Víctimas mortales,Vías interurbanas,VMP,,3.367,,4.104
+2006,Víctimas mortales,Vías interurbanas,Otros vehículos,79,3.367,93,4.104
+2006,Víctimas mortales,Vías interurbanas,Peatones,317,3.367,613,4.104
+2006,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,246,737,789,4.104
+2006,Víctimas mortales,Vías urbanas,Turismos,154,737,2.096,4.104
+2006,Víctimas mortales,Vías urbanas,Camiones y furgonetas,6,737,403,4.104
+2006,Víctimas mortales,Vías urbanas,Autobuses,1,737,35,4.104
+2006,Víctimas mortales,Vías urbanas,Bicicletas,20,737,75,4.104
+2006,Víctimas mortales,Vías urbanas,VMP,,737,,4.104
+2006,Víctimas mortales,Vías urbanas,Otros vehículos,14,737,93,4.104
+2006,Víctimas mortales,Vías urbanas,Peatones,296,737,613,4.104
+2006,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,3.296,14.763,6.337,21.382
+2006,Heridos hospitalizados,Vías interurbanas,Turismos,8.490,14.763,9.710,21.382
+2006,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.677,14.763,1.775,21.382
+2006,Heridos hospitalizados,Vías interurbanas,Autobuses,129,14.763,187,21.382
+2006,Heridos hospitalizados,Vías interurbanas,Bicicletas,294,14.763,483,21.382
+2006,Heridos hospitalizados,Vías interurbanas,VMP,,14.763,,21.382
+2006,Heridos hospitalizados,Vías interurbanas,Otros vehículos,337,14.763,431,21.382
+2006,Heridos hospitalizados,Vías interurbanas,Peatones,540,14.763,2.459,21.382
+2006,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,3.041,6.619,6.337,21.382
+2006,Heridos hospitalizados,Vías urbanas,Turismos,1.220,6.619,9.710,21.382
+2006,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,98,6.619,1.775,21.382
+2006,Heridos hospitalizados,Vías urbanas,Autobuses,58,6.619,187,21.382
+2006,Heridos hospitalizados,Vías urbanas,Bicicletas,189,6.619,483,21.382
+2006,Heridos hospitalizados,Vías urbanas,VMP,,6.619,,21.382
+2006,Heridos hospitalizados,Vías urbanas,Otros vehículos,94,6.619,431,21.382
+2006,Heridos hospitalizados,Vías urbanas,Peatones,1.919,6.619,2.459,21.382
+2007,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,612,3.082,880,3.823
+2007,Víctimas mortales,Vías interurbanas,Turismos,1.695,3.082,1.821,3.823
+2007,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,317,3.082,322,3.823
+2007,Víctimas mortales,Vías interurbanas,Autobuses,14,3.082,15,3.823
+2007,Víctimas mortales,Vías interurbanas,Bicicletas,67,3.082,89,3.823
+2007,Víctimas mortales,Vías interurbanas,VMP,,3.082,,3.823
+2007,Víctimas mortales,Vías interurbanas,Otros vehículos,90,3.082,105,3.823
+2007,Víctimas mortales,Vías interurbanas,Peatones,287,3.082,591,3.823
+2007,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,268,741,880,3.823
+2007,Víctimas mortales,Vías urbanas,Turismos,126,741,1.821,3.823
+2007,Víctimas mortales,Vías urbanas,Camiones y furgonetas,5,741,322,3.823
+2007,Víctimas mortales,Vías urbanas,Autobuses,1,741,15,3.823
+2007,Víctimas mortales,Vías urbanas,Bicicletas,22,741,89,3.823
+2007,Víctimas mortales,Vías urbanas,VMP,,741,,3.823
+2007,Víctimas mortales,Vías urbanas,Otros vehículos,15,741,105,3.823
+2007,Víctimas mortales,Vías urbanas,Peatones,304,741,591,3.823
+2007,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,3.217,13.201,6.033,19.295
+2007,Heridos hospitalizados,Vías interurbanas,Turismos,7.352,13.201,8.437,19.295
+2007,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.476,13.201,1.561,19.295
+2007,Heridos hospitalizados,Vías interurbanas,Autobuses,45,13.201,95,19.295
+2007,Heridos hospitalizados,Vías interurbanas,Bicicletas,267,13.201,464,19.295
+2007,Heridos hospitalizados,Vías interurbanas,VMP,,13.201,,19.295
+2007,Heridos hospitalizados,Vías interurbanas,Otros vehículos,315,13.201,393,19.295
+2007,Heridos hospitalizados,Vías interurbanas,Peatones,529,13.201,2.312,19.295
+2007,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,2.816,6.094,6.033,19.295
+2007,Heridos hospitalizados,Vías urbanas,Turismos,1.085,6.094,8.437,19.295
+2007,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,85,6.094,1.561,19.295
+2007,Heridos hospitalizados,Vías urbanas,Autobuses,50,6.094,95,19.295
+2007,Heridos hospitalizados,Vías urbanas,Bicicletas,197,6.094,464,19.295
+2007,Heridos hospitalizados,Vías urbanas,VMP,,6.094,,19.295
+2007,Heridos hospitalizados,Vías urbanas,Otros vehículos,78,6.094,393,19.295
+2007,Heridos hospitalizados,Vías urbanas,Peatones,1.783,6.094,2.312,19.295
+2008,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,464,2.466,678,3.100
+2008,Víctimas mortales,Vías interurbanas,Turismos,1.381,2.466,1.504,3.100
+2008,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,254,2.466,263,3.100
+2008,Víctimas mortales,Vías interurbanas,Autobuses,26,2.466,27,3.100
+2008,Víctimas mortales,Vías interurbanas,Bicicletas,43,2.466,54,3.100
+2008,Víctimas mortales,Vías interurbanas,VMP,,2.466,,3.100
+2008,Víctimas mortales,Vías interurbanas,Otros vehículos,62,2.466,72,3.100
+2008,Víctimas mortales,Vías interurbanas,Peatones,236,2.466,502,3.100
+2008,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,214,634,678,3.100
+2008,Víctimas mortales,Vías urbanas,Turismos,123,634,1.504,3.100
+2008,Víctimas mortales,Vías urbanas,Camiones y furgonetas,9,634,263,3.100
+2008,Víctimas mortales,Vías urbanas,Autobuses,1,634,27,3.100
+2008,Víctimas mortales,Vías urbanas,Bicicletas,11,634,54,3.100
+2008,Víctimas mortales,Vías urbanas,VMP,,634,,3.100
+2008,Víctimas mortales,Vías urbanas,Otros vehículos,10,634,72,3.100
+2008,Víctimas mortales,Vías urbanas,Peatones,266,634,502,3.100
+2008,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,2.656,11.077,5.122,16.488
+2008,Heridos hospitalizados,Vías interurbanas,Turismos,6.217,11.077,7.130,16.488
+2008,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,1.231,11.077,1.302,16.488
+2008,Heridos hospitalizados,Vías interurbanas,Autobuses,61,11.077,91,16.488
+2008,Heridos hospitalizados,Vías interurbanas,Bicicletas,235,11.077,440,16.488
+2008,Heridos hospitalizados,Vías interurbanas,VMP,,11.077,,16.488
+2008,Heridos hospitalizados,Vías interurbanas,Otros vehículos,249,11.077,341,16.488
+2008,Heridos hospitalizados,Vías interurbanas,Peatones,428,11.077,2.062,16.488
+2008,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,2.466,5.411,5.122,16.488
+2008,Heridos hospitalizados,Vías urbanas,Turismos,913,5.411,7.130,16.488
+2008,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,71,5.411,1.302,16.488
+2008,Heridos hospitalizados,Vías urbanas,Autobuses,30,5.411,91,16.488
+2008,Heridos hospitalizados,Vías urbanas,Bicicletas,205,5.411,440,16.488
+2008,Heridos hospitalizados,Vías urbanas,VMP,,5.411,,16.488
+2008,Heridos hospitalizados,Vías urbanas,Otros vehículos,92,5.411,341,16.488
+2008,Heridos hospitalizados,Vías urbanas,Peatones,1.634,5.411,2.062,16.488
+2009,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,413,2.130,594,2.714
+2009,Víctimas mortales,Vías interurbanas,Turismos,1.166,2.130,1.267,2.714
+2009,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,230,2.130,239,2.714
+2009,Víctimas mortales,Vías interurbanas,Autobuses,20,2.130,21,2.714
+2009,Víctimas mortales,Vías interurbanas,Bicicletas,43,2.130,56,2.714
+2009,Víctimas mortales,Vías interurbanas,VMP,,2.130,,2.714
+2009,Víctimas mortales,Vías interurbanas,Otros vehículos,57,2.130,67,2.714
+2009,Víctimas mortales,Vías interurbanas,Peatones,201,2.130,470,2.714
+2009,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,181,584,594,2.714
+2009,Víctimas mortales,Vías urbanas,Turismos,101,584,1.267,2.714
+2009,Víctimas mortales,Vías urbanas,Camiones y furgonetas,9,584,239,2.714
+2009,Víctimas mortales,Vías urbanas,Autobuses,1,584,21,2.714
+2009,Víctimas mortales,Vías urbanas,Bicicletas,13,584,56,2.714
+2009,Víctimas mortales,Vías urbanas,VMP,,584,,2.714
+2009,Víctimas mortales,Vías urbanas,Otros vehículos,10,584,67,2.714
+2009,Víctimas mortales,Vías urbanas,Peatones,269,584,470,2.714
+2009,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,2.224,8.748,4.499,13.923
+2009,Heridos hospitalizados,Vías interurbanas,Turismos,4.808,8.748,5.701,13.923
+2009,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,807,8.748,880,13.923
+2009,Heridos hospitalizados,Vías interurbanas,Autobuses,75,8.748,123,13.923
+2009,Heridos hospitalizados,Vías interurbanas,Bicicletas,268,8.748,489,13.923
+2009,Heridos hospitalizados,Vías interurbanas,VMP,,8.748,,13.923
+2009,Heridos hospitalizados,Vías interurbanas,Otros vehículos,198,8.748,278,13.923
+2009,Heridos hospitalizados,Vías interurbanas,Peatones,368,8.748,1.953,13.923
+2009,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,2.275,5.175,4.499,13.923
+2009,Heridos hospitalizados,Vías urbanas,Turismos,893,5.175,5.701,13.923
+2009,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,73,5.175,880,13.923
+2009,Heridos hospitalizados,Vías urbanas,Autobuses,48,5.175,123,13.923
+2009,Heridos hospitalizados,Vías urbanas,Bicicletas,221,5.175,489,13.923
+2009,Heridos hospitalizados,Vías urbanas,VMP,,5.175,,13.923
+2009,Heridos hospitalizados,Vías urbanas,Otros vehículos,80,5.175,278,13.923
+2009,Heridos hospitalizados,Vías urbanas,Peatones,1.585,5.175,1.953,13.923
+2010,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,333,1.928,486,2.478
+2010,Víctimas mortales,Vías interurbanas,Turismos,1.114,1.928,1.198,2.478
+2010,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,180,1.928,185,2.478
+2010,Víctimas mortales,Vías interurbanas,Autobuses,2,1.928,4,2.478
+2010,Víctimas mortales,Vías interurbanas,Bicicletas,49,1.928,67,2.478
+2010,Víctimas mortales,Vías interurbanas,VMP,,1.928,,2.478
+2010,Víctimas mortales,Vías interurbanas,Otros vehículos,57,1.928,67,2.478
+2010,Víctimas mortales,Vías interurbanas,Peatones,193,1.928,471,2.478
+2010,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,153,550,486,2.478
+2010,Víctimas mortales,Vías urbanas,Turismos,84,550,1.198,2.478
+2010,Víctimas mortales,Vías urbanas,Camiones y furgonetas,5,550,185,2.478
+2010,Víctimas mortales,Vías urbanas,Autobuses,2,550,4,2.478
+2010,Víctimas mortales,Vías urbanas,Bicicletas,18,550,67,2.478
+2010,Víctimas mortales,Vías urbanas,VMP,,550,,2.478
+2010,Víctimas mortales,Vías urbanas,Otros vehículos,10,550,67,2.478
+2010,Víctimas mortales,Vías urbanas,Peatones,278,550,471,2.478
+2010,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.837,7.642,3.544,11.995
+2010,Heridos hospitalizados,Vías interurbanas,Turismos,4.325,7.642,4.989,11.995
+2010,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,650,7.642,714,11.995
+2010,Heridos hospitalizados,Vías interurbanas,Autobuses,25,7.642,77,11.995
+2010,Heridos hospitalizados,Vías interurbanas,Bicicletas,258,7.642,467,11.995
+2010,Heridos hospitalizados,Vías interurbanas,VMP,,7.642,,11.995
+2010,Heridos hospitalizados,Vías interurbanas,Otros vehículos,174,7.642,245,11.995
+2010,Heridos hospitalizados,Vías interurbanas,Peatones,373,7.642,1.959,11.995
+2010,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.707,4.353,3.544,11.995
+2010,Heridos hospitalizados,Vías urbanas,Turismos,664,4.353,4.989,11.995
+2010,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,64,4.353,714,11.995
+2010,Heridos hospitalizados,Vías urbanas,Autobuses,52,4.353,77,11.995
+2010,Heridos hospitalizados,Vías urbanas,Bicicletas,209,4.353,467,11.995
+2010,Heridos hospitalizados,Vías urbanas,VMP,,4.353,,11.995
+2010,Heridos hospitalizados,Vías urbanas,Otros vehículos,71,4.353,245,11.995
+2010,Heridos hospitalizados,Vías urbanas,Peatones,1.586,4.353,1.959,11.995
+2011,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,288,1.603,422,2.060
+2011,Víctimas mortales,Vías interurbanas,Turismos,904,1.603,979,2.060
+2011,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,163,1.603,172,2.060
+2011,Víctimas mortales,Vías interurbanas,Autobuses,3,1.603,3,2.060
+2011,Víctimas mortales,Vías interurbanas,Bicicletas,37,1.603,49,2.060
+2011,Víctimas mortales,Vías interurbanas,VMP,,1.603,,2.060
+2011,Víctimas mortales,Vías interurbanas,Otros vehículos,50,1.603,55,2.060
+2011,Víctimas mortales,Vías interurbanas,Peatones,158,1.603,380,2.060
+2011,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,134,457,422,2.060
+2011,Víctimas mortales,Vías urbanas,Turismos,75,457,979,2.060
+2011,Víctimas mortales,Vías urbanas,Camiones y furgonetas,9,457,172,2.060
+2011,Víctimas mortales,Vías urbanas,Autobuses,0,457,3,2.060
+2011,Víctimas mortales,Vías urbanas,Bicicletas,12,457,49,2.060
+2011,Víctimas mortales,Vías urbanas,VMP,,457,,2.060
+2011,Víctimas mortales,Vías urbanas,Otros vehículos,5,457,55,2.060
+2011,Víctimas mortales,Vías urbanas,Peatones,222,457,380,2.060
+2011,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.751,6.825,3.576,11.347
+2011,Heridos hospitalizados,Vías interurbanas,Turismos,3.692,6.825,4.345,11.347
+2011,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,614,6.825,667,11.347
+2011,Heridos hospitalizados,Vías interurbanas,Autobuses,23,6.825,65,11.347
+2011,Heridos hospitalizados,Vías interurbanas,Bicicletas,304,6.825,589,11.347
+2011,Heridos hospitalizados,Vías interurbanas,VMP,,6.825,,11.347
+2011,Heridos hospitalizados,Vías interurbanas,Otros vehículos,141,6.825,189,11.347
+2011,Heridos hospitalizados,Vías interurbanas,Peatones,300,6.825,1.916,11.347
+2011,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.825,4.522,3.576,11.347
+2011,Heridos hospitalizados,Vías urbanas,Turismos,653,4.522,4.345,11.347
+2011,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,53,4.522,667,11.347
+2011,Heridos hospitalizados,Vías urbanas,Autobuses,42,4.522,65,11.347
+2011,Heridos hospitalizados,Vías urbanas,Bicicletas,285,4.522,589,11.347
+2011,Heridos hospitalizados,Vías urbanas,VMP,,4.522,,11.347
+2011,Heridos hospitalizados,Vías urbanas,Otros vehículos,48,4.522,189,11.347
+2011,Heridos hospitalizados,Vías urbanas,Peatones,1.616,4.522,1.916,11.347
+2012,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,250,1.442,369,1.903
+2012,Víctimas mortales,Vías interurbanas,Turismos,801,1.442,874,1.903
+2012,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,143,1.442,147,1.903
+2012,Víctimas mortales,Vías interurbanas,Autobuses,1,1.442,3,1.903
+2012,Víctimas mortales,Vías interurbanas,Bicicletas,53,1.442,72,1.903
+2012,Víctimas mortales,Vías interurbanas,VMP,,1.442,,1.903
+2012,Víctimas mortales,Vías interurbanas,Otros vehículos,50,1.442,62,1.903
+2012,Víctimas mortales,Vías interurbanas,Peatones,144,1.442,376,1.903
+2012,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,119,461,369,1.903
+2012,Víctimas mortales,Vías urbanas,Turismos,73,461,874,1.903
+2012,Víctimas mortales,Vías urbanas,Camiones y furgonetas,4,461,147,1.903
+2012,Víctimas mortales,Vías urbanas,Autobuses,2,461,3,1.903
+2012,Víctimas mortales,Vías urbanas,Bicicletas,19,461,72,1.903
+2012,Víctimas mortales,Vías urbanas,VMP,,461,,1.903
+2012,Víctimas mortales,Vías urbanas,Otros vehículos,12,461,62,1.903
+2012,Víctimas mortales,Vías urbanas,Peatones,232,461,376,1.903
+2012,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.531,6.044,3.230,10.444
+2012,Heridos hospitalizados,Vías interurbanas,Turismos,3.240,6.044,3.929,10.444
+2012,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,495,6.044,538,10.444
+2012,Heridos hospitalizados,Vías interurbanas,Autobuses,12,6.044,43,10.444
+2012,Heridos hospitalizados,Vías interurbanas,Bicicletas,304,6.044,572,10.444
+2012,Heridos hospitalizados,Vías interurbanas,VMP,,6.044,,10.444
+2012,Heridos hospitalizados,Vías interurbanas,Otros vehículos,145,6.044,216,10.444
+2012,Heridos hospitalizados,Vías interurbanas,Peatones,317,6.044,1.916,10.444
+2012,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.699,4.400,3.230,10.444
+2012,Heridos hospitalizados,Vías urbanas,Turismos,689,4.400,3.929,10.444
+2012,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,43,4.400,538,10.444
+2012,Heridos hospitalizados,Vías urbanas,Autobuses,31,4.400,43,10.444
+2012,Heridos hospitalizados,Vías urbanas,Bicicletas,268,4.400,572,10.444
+2012,Heridos hospitalizados,Vías urbanas,VMP,,4.400,,10.444
+2012,Heridos hospitalizados,Vías urbanas,Otros vehículos,71,4.400,216,10.444
+2012,Heridos hospitalizados,Vías urbanas,Peatones,1.599,4.400,1.916,10.444
+2013,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,237,1.230,355,1.680
+2013,Víctimas mortales,Vías interurbanas,Turismos,644,1.230,716,1.680
+2013,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,107,1.230,111,1.680
+2013,Víctimas mortales,Vías interurbanas,Autobuses,10,1.230,11,1.680
+2013,Víctimas mortales,Vías interurbanas,Bicicletas,45,1.230,69,1.680
+2013,Víctimas mortales,Vías interurbanas,VMP,,1.230,,1.680
+2013,Víctimas mortales,Vías interurbanas,Otros vehículos,33,1.230,40,1.680
+2013,Víctimas mortales,Vías interurbanas,Peatones,154,1.230,378,1.680
+2013,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,118,450,355,1.680
+2013,Víctimas mortales,Vías urbanas,Turismos,72,450,716,1.680
+2013,Víctimas mortales,Vías urbanas,Camiones y furgonetas,4,450,111,1.680
+2013,Víctimas mortales,Vías urbanas,Autobuses,1,450,11,1.680
+2013,Víctimas mortales,Vías urbanas,Bicicletas,24,450,69,1.680
+2013,Víctimas mortales,Vías urbanas,VMP,,450,,1.680
+2013,Víctimas mortales,Vías urbanas,Otros vehículos,7,450,40,1.680
+2013,Víctimas mortales,Vías urbanas,Peatones,224,450,378,1.680
+2013,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.419,5.182,3.330,10.086
+2013,Heridos hospitalizados,Vías interurbanas,Turismos,2.596,5.182,3.332,10.086
+2013,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,431,5.182,477,10.086
+2013,Heridos hospitalizados,Vías interurbanas,Autobuses,28,5.182,74,10.086
+2013,Heridos hospitalizados,Vías interurbanas,Bicicletas,297,5.182,646,10.086
+2013,Heridos hospitalizados,Vías interurbanas,VMP,,5.182,,10.086
+2013,Heridos hospitalizados,Vías interurbanas,Otros vehículos,133,5.182,174,10.086
+2013,Heridos hospitalizados,Vías interurbanas,Peatones,278,5.182,2.053,10.086
+2013,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.911,4.904,3.330,10.086
+2013,Heridos hospitalizados,Vías urbanas,Turismos,736,4.904,3.332,10.086
+2013,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,46,4.904,477,10.086
+2013,Heridos hospitalizados,Vías urbanas,Autobuses,46,4.904,74,10.086
+2013,Heridos hospitalizados,Vías urbanas,Bicicletas,349,4.904,646,10.086
+2013,Heridos hospitalizados,Vías urbanas,VMP,,4.904,,10.086
+2013,Heridos hospitalizados,Vías urbanas,Otros vehículos,41,4.904,174,10.086
+2013,Heridos hospitalizados,Vías urbanas,Peatones,1.775,4.904,2.053,10.086
+2014,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,209,1.247,340,1.688
+2014,Víctimas mortales,Vías interurbanas,Turismos,651,1.247,722,1.688
+2014,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,152,1.247,160,1.688
+2014,Víctimas mortales,Vías interurbanas,Autobuses,23,1.247,26,1.688
+2014,Víctimas mortales,Vías interurbanas,Bicicletas,54,1.247,75,1.688
+2014,Víctimas mortales,Vías interurbanas,VMP,,1.247,,1.688
+2014,Víctimas mortales,Vías interurbanas,Otros vehículos,26,1.247,29,1.688
+2014,Víctimas mortales,Vías interurbanas,Peatones,132,1.247,336,1.688
+2014,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,131,441,340,1.688
+2014,Víctimas mortales,Vías urbanas,Turismos,71,441,722,1.688
+2014,Víctimas mortales,Vías urbanas,Camiones y furgonetas,8,441,160,1.688
+2014,Víctimas mortales,Vías urbanas,Autobuses,3,441,26,1.688
+2014,Víctimas mortales,Vías urbanas,Bicicletas,21,441,75,1.688
+2014,Víctimas mortales,Vías urbanas,VMP,,441,,1.688
+2014,Víctimas mortales,Vías urbanas,Otros vehículos,3,441,29,1.688
+2014,Víctimas mortales,Vías urbanas,Peatones,204,441,336,1.688
+2014,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.281,4.834,3.221,9.574
+2014,Heridos hospitalizados,Vías interurbanas,Turismos,2.341,4.834,2.993,9.574
+2014,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,484,4.834,549,9.574
+2014,Heridos hospitalizados,Vías interurbanas,Autobuses,91,4.834,124,9.574
+2014,Heridos hospitalizados,Vías interurbanas,Bicicletas,312,4.834,670,9.574
+2014,Heridos hospitalizados,Vías interurbanas,VMP,,4.834,,9.574
+2014,Heridos hospitalizados,Vías interurbanas,Otros vehículos,72,4.834,115,9.574
+2014,Heridos hospitalizados,Vías interurbanas,Peatones,253,4.834,1.902,9.574
+2014,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.940,4.740,3.221,9.574
+2014,Heridos hospitalizados,Vías urbanas,Turismos,652,4.740,2.993,9.574
+2014,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,65,4.740,549,9.574
+2014,Heridos hospitalizados,Vías urbanas,Autobuses,33,4.740,124,9.574
+2014,Heridos hospitalizados,Vías urbanas,Bicicletas,358,4.740,670,9.574
+2014,Heridos hospitalizados,Vías urbanas,VMP,,4.740,,9.574
+2014,Heridos hospitalizados,Vías urbanas,Otros vehículos,43,4.740,115,9.574
+2014,Heridos hospitalizados,Vías urbanas,Peatones,1.649,4.740,1.902,9.574
+2015,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,275,1.248,385,1.689
+2015,Víctimas mortales,Vías interurbanas,Turismos,632,1.248,693,1.689
+2015,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,142,1.248,152,1.689
+2015,Víctimas mortales,Vías interurbanas,Autobuses,2,1.248,2,1.689
+2015,Víctimas mortales,Vías interurbanas,Bicicletas,48,1.248,58,1.689
+2015,Víctimas mortales,Vías interurbanas,VMP,,1.248,,1.689
+2015,Víctimas mortales,Vías interurbanas,Otros vehículos,29,1.248,32,1.689
+2015,Víctimas mortales,Vías interurbanas,Peatones,120,1.248,367,1.689
+2015,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,110,441,385,1.689
+2015,Víctimas mortales,Vías urbanas,Turismos,61,441,693,1.689
+2015,Víctimas mortales,Vías urbanas,Camiones y furgonetas,10,441,152,1.689
+2015,Víctimas mortales,Vías urbanas,Autobuses,0,441,2,1.689
+2015,Víctimas mortales,Vías urbanas,Bicicletas,10,441,58,1.689
+2015,Víctimas mortales,Vías urbanas,VMP,,441,,1.689
+2015,Víctimas mortales,Vías urbanas,Otros vehículos,3,441,32,1.689
+2015,Víctimas mortales,Vías urbanas,Peatones,247,441,367,1.689
+2015,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.378,4.744,3.268,9.495
+2015,Heridos hospitalizados,Vías interurbanas,Turismos,2.238,4.744,2.831,9.495
+2015,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,485,4.744,551,9.495
+2015,Heridos hospitalizados,Vías interurbanas,Autobuses,3,4.744,49,9.495
+2015,Heridos hospitalizados,Vías interurbanas,Bicicletas,322,4.744,652,9.495
+2015,Heridos hospitalizados,Vías interurbanas,VMP,,4.744,,9.495
+2015,Heridos hospitalizados,Vías interurbanas,Otros vehículos,82,4.744,145,9.495
+2015,Heridos hospitalizados,Vías interurbanas,Peatones,236,4.744,1.999,9.495
+2015,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.890,4.751,3.268,9.495
+2015,Heridos hospitalizados,Vías urbanas,Turismos,593,4.751,2.831,9.495
+2015,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,66,4.751,551,9.495
+2015,Heridos hospitalizados,Vías urbanas,Autobuses,46,4.751,49,9.495
+2015,Heridos hospitalizados,Vías urbanas,Bicicletas,330,4.751,652,9.495
+2015,Heridos hospitalizados,Vías urbanas,VMP,,4.751,,9.495
+2015,Heridos hospitalizados,Vías urbanas,Otros vehículos,63,4.751,145,9.495
+2015,Heridos hospitalizados,Vías urbanas,Peatones,1.763,4.751,1.999,9.495
+2016,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,260,1.291,397,1.810
+2016,Víctimas mortales,Vías interurbanas,Turismos,674,1.291,754,1.810
+2016,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,134,1.291,143,1.810
+2016,Víctimas mortales,Vías interurbanas,Autobuses,18,1.291,21,1.810
+2016,Víctimas mortales,Vías interurbanas,Bicicletas,40,1.291,67,1.810
+2016,Víctimas mortales,Vías interurbanas,VMP,,1.291,,1.810
+2016,Víctimas mortales,Vías interurbanas,Otros vehículos,28,1.291,39,1.810
+2016,Víctimas mortales,Vías interurbanas,Peatones,137,1.291,389,1.810
+2016,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,137,519,397,1.810
+2016,Víctimas mortales,Vías urbanas,Turismos,80,519,754,1.810
+2016,Víctimas mortales,Vías urbanas,Camiones y furgonetas,9,519,143,1.810
+2016,Víctimas mortales,Vías urbanas,Autobuses,3,519,21,1.810
+2016,Víctimas mortales,Vías urbanas,Bicicletas,27,519,67,1.810
+2016,Víctimas mortales,Vías urbanas,VMP,,519,,1.810
+2016,Víctimas mortales,Vías urbanas,Otros vehículos,11,519,39,1.810
+2016,Víctimas mortales,Vías urbanas,Peatones,252,519,389,1.810
+2016,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.381,5.050,3.306,9.755
+2016,Heridos hospitalizados,Vías interurbanas,Turismos,2.456,5.050,2.988,9.755
+2016,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,429,5.050,479,9.755
+2016,Heridos hospitalizados,Vías interurbanas,Autobuses,53,5.050,83,9.755
+2016,Heridos hospitalizados,Vías interurbanas,Bicicletas,356,5.050,736,9.755
+2016,Heridos hospitalizados,Vías interurbanas,VMP,,5.050,,9.755
+2016,Heridos hospitalizados,Vías interurbanas,Otros vehículos,105,5.050,174,9.755
+2016,Heridos hospitalizados,Vías interurbanas,Peatones,270,5.050,1.989,9.755
+2016,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.925,4.705,3.306,9.755
+2016,Heridos hospitalizados,Vías urbanas,Turismos,532,4.705,2.988,9.755
+2016,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,50,4.705,479,9.755
+2016,Heridos hospitalizados,Vías urbanas,Autobuses,30,4.705,83,9.755
+2016,Heridos hospitalizados,Vías urbanas,Bicicletas,380,4.705,736,9.755
+2016,Heridos hospitalizados,Vías urbanas,VMP,,4.705,,9.755
+2016,Heridos hospitalizados,Vías urbanas,Otros vehículos,69,4.705,174,9.755
+2016,Heridos hospitalizados,Vías urbanas,Peatones,1.719,4.705,1.989,9.755
+2017,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,277,1.321,408,1.830
+2017,Víctimas mortales,Vías interurbanas,Turismos,717,1.321,799,1.830
+2017,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,146,1.321,155,1.830
+2017,Víctimas mortales,Vías interurbanas,Autobuses,2,1.321,3,1.830
+2017,Víctimas mortales,Vías interurbanas,Bicicletas,49,1.321,78,1.830
+2017,Víctimas mortales,Vías interurbanas,VMP,,1.321,,1.830
+2017,Víctimas mortales,Vías interurbanas,Otros vehículos,27,1.321,36,1.830
+2017,Víctimas mortales,Vías interurbanas,Peatones,103,1.321,351,1.830
+2017,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,131,509,408,1.830
+2017,Víctimas mortales,Vías urbanas,Turismos,82,509,799,1.830
+2017,Víctimas mortales,Vías urbanas,Camiones y furgonetas,9,509,155,1.830
+2017,Víctimas mortales,Vías urbanas,Autobuses,1,509,3,1.830
+2017,Víctimas mortales,Vías urbanas,Bicicletas,29,509,78,1.830
+2017,Víctimas mortales,Vías urbanas,VMP,,509,,1.830
+2017,Víctimas mortales,Vías urbanas,Otros vehículos,9,509,36,1.830
+2017,Víctimas mortales,Vías urbanas,Peatones,248,509,351,1.830
+2017,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.416,4.766,3.402,9.546
+2017,Heridos hospitalizados,Vías interurbanas,Turismos,2.295,4.766,2.864,9.546
+2017,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,402,4.766,458,9.546
+2017,Heridos hospitalizados,Vías interurbanas,Autobuses,8,4.766,47,9.546
+2017,Heridos hospitalizados,Vías interurbanas,Bicicletas,338,4.766,694,9.546
+2017,Heridos hospitalizados,Vías interurbanas,VMP,,4.766,,9.546
+2017,Heridos hospitalizados,Vías interurbanas,Otros vehículos,84,4.766,141,9.546
+2017,Heridos hospitalizados,Vías interurbanas,Peatones,223,4.766,1.940,9.546
+2017,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.986,4.780,3.402,9.546
+2017,Heridos hospitalizados,Vías urbanas,Turismos,569,4.780,2.864,9.546
+2017,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,56,4.780,458,9.546
+2017,Heridos hospitalizados,Vías urbanas,Autobuses,39,4.780,47,9.546
+2017,Heridos hospitalizados,Vías urbanas,Bicicletas,356,4.780,694,9.546
+2017,Heridos hospitalizados,Vías urbanas,VMP,,4.780,,9.546
+2017,Heridos hospitalizados,Vías urbanas,Otros vehículos,57,4.780,141,9.546
+2017,Heridos hospitalizados,Vías urbanas,Peatones,1.717,4.780,1.940,9.546
+2018,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,276,1.317,421,1.806
+2018,Víctimas mortales,Vías interurbanas,Turismos,663,1.317,732,1.806
+2018,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,140,1.317,151,1.806
+2018,Víctimas mortales,Vías interurbanas,Autobuses,11,1.317,12,1.806
+2018,Víctimas mortales,Vías interurbanas,Bicicletas,43,1.317,58,1.806
+2018,Víctimas mortales,Vías interurbanas,VMP,,1.317,,1.806
+2018,Víctimas mortales,Vías interurbanas,Otros vehículos,35,1.317,46,1.806
+2018,Víctimas mortales,Vías interurbanas,Peatones,149,1.317,386,1.806
+2018,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,145,489,421,1.806
+2018,Víctimas mortales,Vías urbanas,Turismos,69,489,732,1.806
+2018,Víctimas mortales,Vías urbanas,Camiones y furgonetas,11,489,151,1.806
+2018,Víctimas mortales,Vías urbanas,Autobuses,1,489,12,1.806
+2018,Víctimas mortales,Vías urbanas,Bicicletas,15,489,58,1.806
+2018,Víctimas mortales,Vías urbanas,VMP,,489,,1.806
+2018,Víctimas mortales,Vías urbanas,Otros vehículos,11,489,46,1.806
+2018,Víctimas mortales,Vías urbanas,Peatones,237,489,386,1.806
+2018,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.366,4.451,3.210,8.935
+2018,Heridos hospitalizados,Vías interurbanas,Turismos,2.118,4.451,2.662,8.935
+2018,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,359,4.451,396,8.935
+2018,Heridos hospitalizados,Vías interurbanas,Autobuses,40,4.451,76,8.935
+2018,Heridos hospitalizados,Vías interurbanas,Bicicletas,296,4.451,620,8.935
+2018,Heridos hospitalizados,Vías interurbanas,VMP,,4.451,,8.935
+2018,Heridos hospitalizados,Vías interurbanas,Otros vehículos,82,4.451,138,8.935
+2018,Heridos hospitalizados,Vías interurbanas,Peatones,190,4.451,1.833,8.935
+2018,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.844,4.484,3.210,8.935
+2018,Heridos hospitalizados,Vías urbanas,Turismos,544,4.484,2.662,8.935
+2018,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,37,4.484,396,8.935
+2018,Heridos hospitalizados,Vías urbanas,Autobuses,36,4.484,76,8.935
+2018,Heridos hospitalizados,Vías urbanas,Bicicletas,324,4.484,620,8.935
+2018,Heridos hospitalizados,Vías urbanas,VMP,,4.484,,8.935
+2018,Heridos hospitalizados,Vías urbanas,Otros vehículos,56,4.484,138,8.935
+2018,Heridos hospitalizados,Vías urbanas,Peatones,1.643,4.484,1.833,8.935
+2019,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,318,1.236,466,1.755
+2019,Víctimas mortales,Vías interurbanas,Turismos,579,1.236,641,1.755
+2019,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,133,1.236,141,1.755
+2019,Víctimas mortales,Vías interurbanas,Autobuses,1,1.236,3,1.755
+2019,Víctimas mortales,Vías interurbanas,Bicicletas,48,1.236,80,1.755
+2019,Víctimas mortales,Vías interurbanas,VMP,,1.236,,1.755
+2019,Víctimas mortales,Vías interurbanas,Otros vehículos,23,1.236,43,1.755
+2019,Víctimas mortales,Vías interurbanas,Peatones,134,1.236,381,1.755
+2019,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,148,519,466,1.755
+2019,Víctimas mortales,Vías urbanas,Turismos,62,519,641,1.755
+2019,Víctimas mortales,Vías urbanas,Camiones y furgonetas,8,519,141,1.755
+2019,Víctimas mortales,Vías urbanas,Autobuses,2,519,3,1.755
+2019,Víctimas mortales,Vías urbanas,Bicicletas,32,519,80,1.755
+2019,Víctimas mortales,Vías urbanas,VMP,,519,,1.755
+2019,Víctimas mortales,Vías urbanas,Otros vehículos,20,519,43,1.755
+2019,Víctimas mortales,Vías urbanas,Peatones,247,519,381,1.755
+2019,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.349,4.303,3.200,8.613
+2019,Heridos hospitalizados,Vías interurbanas,Turismos,1.996,4.303,2.438,8.613
+2019,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,343,4.303,385,8.613
+2019,Heridos hospitalizados,Vías interurbanas,Autobuses,5,4.303,36,8.613
+2019,Heridos hospitalizados,Vías interurbanas,Bicicletas,324,4.303,646,8.613
+2019,Heridos hospitalizados,Vías interurbanas,VMP,,4.303,,8.613
+2019,Heridos hospitalizados,Vías interurbanas,Otros vehículos,81,4.303,220,8.613
+2019,Heridos hospitalizados,Vías interurbanas,Peatones,205,4.303,1.688,8.613
+2019,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.851,4.310,3.200,8.613
+2019,Heridos hospitalizados,Vías urbanas,Turismos,442,4.310,2.438,8.613
+2019,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,42,4.310,385,8.613
+2019,Heridos hospitalizados,Vías urbanas,Autobuses,31,4.310,36,8.613
+2019,Heridos hospitalizados,Vías urbanas,Bicicletas,322,4.310,646,8.613
+2019,Heridos hospitalizados,Vías urbanas,VMP,,4.310,,8.613
+2019,Heridos hospitalizados,Vías urbanas,Otros vehículos,139,4.310,220,8.613
+2019,Heridos hospitalizados,Vías urbanas,Peatones,1.483,4.310,1.688,8.613
+2020,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,211,975,345,1.370
+2020,Víctimas mortales,Vías interurbanas,Turismos,480,975,544,1.370
+2020,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,96,975,102,1.370
+2020,Víctimas mortales,Vías interurbanas,Autobuses,1,975,3,1.370
+2020,Víctimas mortales,Vías interurbanas,Bicicletas,50,975,71,1.370
+2020,Víctimas mortales,Vías interurbanas,VMP,1,975,8,1.370
+2020,Víctimas mortales,Vías interurbanas,Otros vehículos,29,975,37,1.370
+2020,Víctimas mortales,Vías interurbanas,Peatones,107,975,260,1.370
+2020,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,134,395,345,1.370
+2020,Víctimas mortales,Vías urbanas,Turismos,64,395,544,1.370
+2020,Víctimas mortales,Vías urbanas,Camiones y furgonetas,6,395,102,1.370
+2020,Víctimas mortales,Vías urbanas,Autobuses,2,395,3,1.370
+2020,Víctimas mortales,Vías urbanas,Bicicletas,21,395,71,1.370
+2020,Víctimas mortales,Vías urbanas,VMP,7,395,8,1.370
+2020,Víctimas mortales,Vías urbanas,Otros vehículos,8,395,37,1.370
+2020,Víctimas mortales,Vías urbanas,Peatones,153,395,260,1.370
+2020,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.107,3.361,2.527,6.681
+2020,Heridos hospitalizados,Vías interurbanas,Turismos,1.474,3.361,1.816,6.681
+2020,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,210,3.361,244,6.681
+2020,Heridos hospitalizados,Vías interurbanas,Autobuses,3,3.361,21,6.681
+2020,Heridos hospitalizados,Vías interurbanas,Bicicletas,325,3.361,699,6.681
+2020,Heridos hospitalizados,Vías interurbanas,VMP,4,3.361,97,6.681
+2020,Heridos hospitalizados,Vías interurbanas,Otros vehículos,71,3.361,139,6.681
+2020,Heridos hospitalizados,Vías interurbanas,Peatones,167,3.361,1.138,6.681
+2020,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.420,3.320,2.527,6.681
+2020,Heridos hospitalizados,Vías urbanas,Turismos,342,3.320,1.816,6.681
+2020,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,34,3.320,244,6.681
+2020,Heridos hospitalizados,Vías urbanas,Autobuses,18,3.320,21,6.681
+2020,Heridos hospitalizados,Vías urbanas,Bicicletas,374,3.320,699,6.681
+2020,Heridos hospitalizados,Vías urbanas,VMP,93,3.320,97,6.681
+2020,Heridos hospitalizados,Vías urbanas,Otros vehículos,68,3.320,139,6.681
+2020,Heridos hospitalizados,Vías urbanas,Peatones,971,3.320,1.138,6.681
+2021,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,272,1.116,395,1.533
+2021,Víctimas mortales,Vías interurbanas,Turismos,545,1.116,611,1.533
+2021,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,109,1.116,116,1.533
+2021,Víctimas mortales,Vías interurbanas,Autobuses,1,1.116,5,1.533
+2021,Víctimas mortales,Vías interurbanas,Bicicletas,42,1.116,63,1.533
+2021,Víctimas mortales,Vías interurbanas,VMP,1,1.116,9,1.533
+2021,Víctimas mortales,Vías interurbanas,Otros vehículos,28,1.116,33,1.533
+2021,Víctimas mortales,Vías interurbanas,Peatones,118,1.116,301,1.533
+2021,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,123,417,395,1.533
+2021,Víctimas mortales,Vías urbanas,Turismos,66,417,611,1.533
+2021,Víctimas mortales,Vías urbanas,Camiones y furgonetas,7,417,116,1.533
+2021,Víctimas mortales,Vías urbanas,Autobuses,4,417,5,1.533
+2021,Víctimas mortales,Vías urbanas,Bicicletas,21,417,63,1.533
+2021,Víctimas mortales,Vías urbanas,VMP,8,417,9,1.533
+2021,Víctimas mortales,Vías urbanas,Otros vehículos,5,417,33,1.533
+2021,Víctimas mortales,Vías urbanas,Peatones,183,417,301,1.533
+2021,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.131,3.642,2.848,7.784
+2021,Heridos hospitalizados,Vías interurbanas,Turismos,1.655,3.642,2.095,7.784
+2021,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,295,3.642,343,7.784
+2021,Heridos hospitalizados,Vías interurbanas,Autobuses,9,3.642,45,7.784
+2021,Heridos hospitalizados,Vías interurbanas,Bicicletas,320,3.642,713,7.784
+2021,Heridos hospitalizados,Vías interurbanas,VMP,8,3.642,172,7.784
+2021,Heridos hospitalizados,Vías interurbanas,Otros vehículos,64,3.642,171,7.784
+2021,Heridos hospitalizados,Vías interurbanas,Peatones,160,3.642,1.397,7.784
+2021,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.717,4.142,2.848,7.784
+2021,Heridos hospitalizados,Vías urbanas,Turismos,440,4.142,2.095,7.784
+2021,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,48,4.142,343,7.784
+2021,Heridos hospitalizados,Vías urbanas,Autobuses,36,4.142,45,7.784
+2021,Heridos hospitalizados,Vías urbanas,Bicicletas,393,4.142,713,7.784
+2021,Heridos hospitalizados,Vías urbanas,VMP,164,4.142,172,7.784
+2021,Heridos hospitalizados,Vías urbanas,Otros vehículos,107,4.142,171,7.784
+2021,Heridos hospitalizados,Vías urbanas,Peatones,1.237,4.142,1.397,7.784
+2022,Víctimas mortales,Vías interurbanas,Motocicletas y ciclomotores,295,1.273,437,1.746
+2022,Víctimas mortales,Vías interurbanas,Turismos,614,1.273,681,1.746
+2022,Víctimas mortales,Vías interurbanas,Camiones y furgonetas,139,1.273,149,1.746
+2022,Víctimas mortales,Vías interurbanas,Autobuses,11,1.273,13,1.746
+2022,Víctimas mortales,Vías interurbanas,Bicicletas,60,1.273,81,1.746
+2022,Víctimas mortales,Vías interurbanas,VMP,1,1.273,8,1.746
+2022,Víctimas mortales,Vías interurbanas,Otros vehículos,18,1.273,29,1.746
+2022,Víctimas mortales,Vías interurbanas,Peatones,135,1.273,348,1.746
+2022,Víctimas mortales,Vías urbanas,Motocicletas y ciclomotores,142,473,437,1.746
+2022,Víctimas mortales,Vías urbanas,Turismos,67,473,681,1.746
+2022,Víctimas mortales,Vías urbanas,Camiones y furgonetas,10,473,149,1.746
+2022,Víctimas mortales,Vías urbanas,Autobuses,2,473,13,1.746
+2022,Víctimas mortales,Vías urbanas,Bicicletas,21,473,81,1.746
+2022,Víctimas mortales,Vías urbanas,VMP,7,473,8,1.746
+2022,Víctimas mortales,Vías urbanas,Otros vehículos,11,473,29,1.746
+2022,Víctimas mortales,Vías urbanas,Peatones,213,473,348,1.746
+2022,Heridos hospitalizados,Vías interurbanas,Motocicletas y ciclomotores,1.212,3.892,3.061,8.502
+2022,Heridos hospitalizados,Vías interurbanas,Turismos,1.767,3.892,2.220,8.502
+2022,Heridos hospitalizados,Vías interurbanas,Camiones y furgonetas,314,3.892,365,8.502
+2022,Heridos hospitalizados,Vías interurbanas,Autobuses,29,3.892,59,8.502
+2022,Heridos hospitalizados,Vías interurbanas,Bicicletas,317,3.892,711,8.502
+2022,Heridos hospitalizados,Vías interurbanas,VMP,19,3.892,312,8.502
+2022,Heridos hospitalizados,Vías interurbanas,Otros vehículos,60,3.892,151,8.502
+2022,Heridos hospitalizados,Vías interurbanas,Peatones,174,3.892,1.623,8.502
+2022,Heridos hospitalizados,Vías urbanas,Motocicletas y ciclomotores,1.849,4.610,3.061,8.502
+2022,Heridos hospitalizados,Vías urbanas,Turismos,453,4.610,2.220,8.502
+2022,Heridos hospitalizados,Vías urbanas,Camiones y furgonetas,51,4.610,365,8.502
+2022,Heridos hospitalizados,Vías urbanas,Autobuses,30,4.610,59,8.502
+2022,Heridos hospitalizados,Vías urbanas,Bicicletas,394,4.610,711,8.502
+2022,Heridos hospitalizados,Vías urbanas,VMP,293,4.610,312,8.502
+2022,Heridos hospitalizados,Vías urbanas,Otros vehículos,91,4.610,151,8.502
+2022,Heridos hospitalizados,Vías urbanas,Peatones,1.449,4.610,1.623,8.502
+

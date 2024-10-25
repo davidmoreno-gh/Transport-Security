@@ -1,0 +1,2873 @@
+year,region,province,owner,free_motorways,multiple_road,single_road,toll_motorways
+2013,Andalucía,Almería,CCAA,"101,57","2,32",0,0
+2013,Andalucía,Almería,CCAA,0,0,"713,76",0
+2013,Andalucía,Almería,State,"203,50","1,12",0,"28,19"
+2013,Andalucía,Almería,State,0,0,"140,06",0
+2013,Andalucía,Almería,provincial,0,0,"1.172,88",0
+2013,Andalucía,Cádiz,CCAA,"138,09","15,29",0,0
+2013,Andalucía,Cádiz,CCAA,0,0,"858,22",0
+2013,Andalucía,Cádiz,State,"116,88","35,98",0,"47,80"
+2013,Andalucía,Cádiz,State,0,0,"113,45",0
+2013,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2013,Andalucía,Córdoba,CCAA,"9,97","17,42",0,0
+2013,Andalucía,Córdoba,CCAA,0,0,"1.596,96",0
+2013,Andalucía,Córdoba,State,"173,62","4,56",0,"0,00"
+2013,Andalucía,Córdoba,State,0,0,"417,53",0
+2013,Andalucía,Córdoba,provincial,0,0,"1.786,94",0
+2013,Andalucía,Granada,CCAA,"235,59","11,72",0,0
+2013,Andalucía,Granada,CCAA,0,0,"1.355,36",0
+2013,Andalucía,Granada,State,"132,08","0,62",0,"0,00"
+2013,Andalucía,Granada,State,0,0,"182,09",0
+2013,Andalucía,Granada,provincial,0,0,"1.217,00",0
+2013,Andalucía,Huelva,CCAA,"32,96","6,42",0,0
+2013,Andalucía,Huelva,CCAA,0,0,"748,97",0
+2013,Andalucía,Huelva,State,"125,65","22,21",0,"0,00"
+2013,Andalucía,Huelva,State,0,0,"304,81",0
+2013,Andalucía,Huelva,provincial,0,0,"858,37",0
+2013,Andalucía,Jaén,CCAA,"45,04",0,0,0
+2013,Andalucía,Jaén,CCAA,0,0,"1.384,96",0
+2013,Andalucía,Jaén,State,"191,84","1,87",0,"0,00"
+2013,Andalucía,Jaén,State,0,0,"258,23",0
+2013,Andalucía,Jaén,provincial,0,0,"1.557,64",0
+2013,Andalucía,Málaga,CCAA,"97,24","11,14",0,0
+2013,Andalucía,Málaga,CCAA,0,0,"1.149,26",0
+2013,Andalucía,Málaga,State,"216,79","29,68",0,"122,09"
+2013,Andalucía,Málaga,State,0,0,"33,32",0
+2013,Andalucía,Málaga,provincial,0,0,"860,00",0
+2013,Andalucía,Sevilla,CCAA,"154,32","41,71",0,0
+2013,Andalucía,Sevilla,CCAA,0,0,"1.678,97",0
+2013,Andalucía,Sevilla,State,"232,91","21,49",0,"50,95"
+2013,Andalucía,Sevilla,State,0,0,"144,28",0
+2013,Andalucía,Sevilla,provincial,0,"5,60",0,0
+2013,Andalucía,Sevilla,provincial,0,0,"1.520,00",0
+2013,Aragón,Huesca,CCAA,0,0,"2.045,06",0
+2013,Aragón,Huesca,State,"146,55","0,57",0,"49,71"
+2013,Aragón,Huesca,State,0,0,"685,20",0
+2013,Aragón,Huesca,provincial,0,0,"1.386,00",0
+2013,Aragón,Teruel,CCAA,0,0,"1.587,75",0
+2013,Aragón,Teruel,State,"140,10","2,73",0,"0,00"
+2013,Aragón,Teruel,State,0,0,"530,89",0
+2013,Aragón,Teruel,provincial,0,0,"896,00",0
+2013,Aragón,Zaragoza,CCAA,"5,22","8,68",0,0
+2013,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2013,Aragón,Zaragoza,State,"308,17","51,51",0,"107,02"
+2013,Aragón,Zaragoza,State,0,0,"509,71",0
+2013,Aragón,Zaragoza,provincial,0,"3,15",0,0
+2013,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2013,Asturias,Asturias,CCAA,"65,70","7,02",0,0
+2013,Asturias,Asturias,CCAA,0,0,"4.126,14",0
+2013,Asturias,Asturias,State,"345,90","5,85",0,"21,86"
+2013,Asturias,Asturias,State,0,0,"468,79",0
+2013,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2013,Islas Baleares,Baleares,State,0,0,"0,00",0
+2013,Islas Baleares,Baleares,provincial,"93,14","93,62",0,0
+2013,Islas Baleares,Baleares,provincial,0,0,"1.973,58",0
+2013,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2013,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2013,Canarias,"Palmas, Las",provincial,"98,47","76,16",0,0
+2013,Canarias,"Palmas, Las",provincial,0,0,"1.775,76",0
+2013,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2013,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2013,Canarias,"Tenerife, S.C.",provincial,"134,06","13,00",0,0
+2013,Canarias,"Tenerife, S.C.",provincial,0,0,"2.154,53",0
+2013,Cantabria,Cantabria,CCAA,0,0,"1.994,50",0
+2013,Cantabria,Cantabria,State,"226,60","2,95",0,"0,00"
+2013,Cantabria,Cantabria,State,0,0,"345,33",0
+2013,Castilla-La Mancha,Albacete,CCAA,0,0,"1.596,85",0
+2013,Castilla-La Mancha,Albacete,State,"280,90","0,00",0,"0,00"
+2013,Castilla-La Mancha,Albacete,State,0,0,"420,40",0
+2013,Castilla-La Mancha,Albacete,provincial,0,0,"1.408,79",0
+2013,Castilla-La Mancha,Ciudad Real,CCAA,"81,58","4,07",0,0
+2013,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.758,26",0
+2013,Castilla-La Mancha,Ciudad Real,State,"256,82","7,63",0,"0,00"
+2013,Castilla-La Mancha,Ciudad Real,State,0,0,"466,35",0
+2013,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.724,00",0
+2013,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.712,69",0
+2013,Castilla-La Mancha,Cuenca,State,"346,21","0,00",0,"49,83"
+2013,Castilla-La Mancha,Cuenca,State,0,0,"584,34",0
+2013,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2013,Castilla-La Mancha,Guadalajara,CCAA,"9,26",0,0,0
+2013,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.454,59",0
+2013,Castilla-La Mancha,Guadalajara,State,"99,67","0,69",0,"24,02"
+2013,Castilla-La Mancha,Guadalajara,State,0,0,"291,78",0
+2013,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.568,00",0
+2013,Castilla-La Mancha,Toledo,CCAA,"145,07",0,0,0
+2013,Castilla-La Mancha,Toledo,CCAA,0,0,"1.935,21",0
+2013,Castilla-La Mancha,Toledo,State,"382,68","12,47",0,"140,27"
+2013,Castilla-La Mancha,Toledo,State,0,0,"361,54",0
+2013,Castilla-La Mancha,Toledo,provincial,0,0,"998,00",0
+2013,Castilla y León,Burgos,CCAA,"46,75","5,90",0,0
+2013,Castilla y León,Burgos,CCAA,0,0,"1.775,53",0
+2013,Castilla y León,Burgos,State,"179,52","15,31",0,"76,29"
+2013,Castilla y León,Burgos,State,0,0,"663,66",0
+2013,Castilla y León,Burgos,provincial,0,0,"2.289,44",0
+2013,Castilla y León,León,CCAA,"68,40","5,30",0,0
+2013,Castilla y León,León,CCAA,0,0,"1.706,47",0
+2013,Castilla y León,León,State,"231,66","21,60",0,"93,68"
+2013,Castilla y León,León,State,0,0,"588,61",0
+2013,Castilla y León,León,provincial,0,0,"3.310,32",0
+2013,Castilla y León,Palencia,CCAA,"60,90",0,0,0
+2013,Castilla y León,Palencia,CCAA,0,0,"1.472,81",0
+2013,Castilla y León,Palencia,State,"193,33","0,00",0,"0,00"
+2013,Castilla y León,Palencia,State,0,0,"247,01",0
+2013,Castilla y León,Palencia,provincial,0,0,"1.034,59",0
+2013,Castilla y León,Salamanca,CCAA,0,0,"1.262,91",0
+2013,Castilla y León,Salamanca,State,"300,43","8,38",0,"0,00"
+2013,Castilla y León,Salamanca,State,0,0,"264,53",0
+2013,Castilla y León,Salamanca,provincial,0,0,"2.137,00",0
+2013,Castilla y León,Segovia,CCAA,"64,49","6,30",0,0
+2013,Castilla y León,Segovia,CCAA,0,0,"703,79",0
+2013,Castilla y León,Segovia,State,"47,04","1,86",0,"69,47"
+2013,Castilla y León,Segovia,State,0,0,"248,69",0
+2013,Castilla y León,Segovia,provincial,0,0,"1.233,42",0
+2013,Castilla y León,Soria,CCAA,0,0,"905,27",0
+2013,Castilla y León,Soria,State,"118,69","1,85",0,"0,00"
+2013,Castilla y León,Soria,State,0,0,"407,52",0
+2013,Castilla y León,Soria,provincial,0,0,"1.881,55",0
+2013,Castilla y León,Valladolid,CCAA,"40,73",0,0,0
+2013,Castilla y León,Valladolid,CCAA,0,0,"1.042,70",0
+2013,Castilla y León,Valladolid,State,"251,62","14,29",0,"0,00"
+2013,Castilla y León,Valladolid,State,0,0,"269,42",0
+2013,Castilla y León,Valladolid,provincial,0,0,"1.430,17",0
+2013,Castilla y León,Zamora,CCAA,0,0,"1.151,74",0
+2013,Castilla y León,Zamora,State,"285,16","14,35",0,"0,00"
+2013,Castilla y León,Zamora,State,0,0,"423,12",0
+2013,Castilla y León,Zamora,provincial,0,0,"1.561,44",0
+2013,Castilla y León,Ávila,CCAA,0,"2,01",0,0
+2013,Castilla y León,Ávila,CCAA,0,0,"986,73",0
+2013,Castilla y León,Ávila,State,"86,97","3,24",0,"37,40"
+2013,Castilla y León,Ávila,State,0,0,"346,39",0
+2013,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2013,Cataluña,Barcelona,CCAA,"294,05","49,40",0,"157,67"
+2013,Cataluña,Barcelona,CCAA,0,0,"1.480,16",0
+2013,Cataluña,Barcelona,State,"139,19","1,05",0,"118,93"
+2013,Cataluña,Barcelona,State,0,0,"49,22",0
+2013,Cataluña,Barcelona,provincial,0,0,"1.585,21",0
+2013,Cataluña,Gerona,CCAA,"99,89","11,97",0,0
+2013,Cataluña,Gerona,CCAA,0,0,"1.159,87",0
+2013,Cataluña,Gerona,State,"26,95","6,34",0,"92,62"
+2013,Cataluña,Gerona,State,0,0,"286,77",0
+2013,Cataluña,Gerona,provincial,0,"2,59",0,0
+2013,Cataluña,Gerona,provincial,0,0,"680,43",0
+2013,Cataluña,Lérida,CCAA,"19,26",0,0,0
+2013,Cataluña,Lérida,CCAA,0,0,"1.543,58",0
+2013,Cataluña,Lérida,State,"127,86","10,65",0,"60,47"
+2013,Cataluña,Lérida,State,0,0,"314,77",0
+2013,Cataluña,Lérida,provincial,0,0,"824,75",0
+2013,Cataluña,Tarragona,CCAA,"30,39","22,55",0,"10,59"
+2013,Cataluña,Tarragona,CCAA,0,0,"1.052,81",0
+2013,Cataluña,Tarragona,State,"76,27","16,11",0,"191,13"
+2013,Cataluña,Tarragona,State,0,0,"284,57",0
+2013,Cataluña,Tarragona,provincial,0,"6,22",0,0
+2013,Cataluña,Tarragona,provincial,0,0,"1.080,41",0
+2013,Ceuta,Ceuta,CCAA,0,0,"18,00",0
+2013,Ceuta,Ceuta,State,"0,00","1,37",0,"0,00"
+2013,Ceuta,Ceuta,State,0,0,"17,46",0
+2013,C. Valenciana,Alicante,CCAA,"15,49","58,40",0,0
+2013,C. Valenciana,Alicante,CCAA,0,0,"906,90",0
+2013,C. Valenciana,Alicante,State,"235,90","65,29",0,"159,46"
+2013,C. Valenciana,Alicante,State,0,0,"208,49",0
+2013,C. Valenciana,Alicante,provincial,0,"16,08",0,0
+2013,C. Valenciana,Alicante,provincial,0,0,"996,38",0
+2013,C. Valenciana,Castellón,CCAA,"46,22","44,45",0,0
+2013,C. Valenciana,Castellón,CCAA,0,0,"873,78",0
+2013,C. Valenciana,Castellón,State,"74,63","3,66",0,"119,88"
+2013,C. Valenciana,Castellón,State,0,0,"262,93",0
+2013,C. Valenciana,Castellón,provincial,0,0,"750,37",0
+2013,C. Valenciana,Valencia,CCAA,"110,53","47,62",0,0
+2013,C. Valenciana,Valencia,CCAA,0,0,"644,68",0
+2013,C. Valenciana,Valencia,State,"292,39","49,35",0,"87,78"
+2013,C. Valenciana,Valencia,State,0,0,"385,45",0
+2013,C. Valenciana,Valencia,provincial,0,"3,50",0,0
+2013,C. Valenciana,Valencia,provincial,0,0,"1.816,50",0
+2013,Extremadura,Badajoz,CCAA,"16,88","24,26",0,0
+2013,Extremadura,Badajoz,CCAA,0,0,"2.090,87",0
+2013,Extremadura,Badajoz,State,"238,74","15,76",0,"0,00"
+2013,Extremadura,Badajoz,State,0,0,"572,40",0
+2013,Extremadura,Badajoz,provincial,0,0,"1.917,29",0
+2013,Extremadura,Cáceres,CCAA,"100,98","12,30",0,0
+2013,Extremadura,Cáceres,CCAA,0,0,"1.590,85",0
+2013,Extremadura,Cáceres,State,"337,00","20,18",0,"0,00"
+2013,Extremadura,Cáceres,State,0,0,"408,45",0
+2013,Extremadura,Cáceres,provincial,0,0,"1.819,80",0
+2013,Galicia,"Coruña, A",CCAA,"102,04","2,55",0,"33,30"
+2013,Galicia,"Coruña, A",CCAA,0,0,"1.580,53",0
+2013,Galicia,"Coruña, A",State,"67,74","52,55",0,"146,32"
+2013,Galicia,"Coruña, A",State,0,0,"279,88",0
+2013,Galicia,"Coruña, A",provincial,0,0,"2.119,00",0
+2013,Galicia,Lugo,CCAA,"16,16","2,41",0,0
+2013,Galicia,Lugo,CCAA,0,0,"1.438,93",0
+2013,Galicia,Lugo,State,"180,26","11,10",0,"0,00"
+2013,Galicia,Lugo,State,0,0,"506,28",0
+2013,Galicia,Lugo,provincial,0,0,"4.208,00",0
+2013,Galicia,Orense,CCAA,"47,97","2,00",0,0
+2013,Galicia,Orense,CCAA,0,0,"983,97",0
+2013,Galicia,Orense,State,"168,36","8,20",0,"0,00"
+2013,Galicia,Orense,State,0,0,"345,03",0
+2013,Galicia,Orense,provincial,0,0,"1.840,07",0
+2013,Galicia,Pontevedra,CCAA,"24,98","6,44",0,"20,98"
+2013,Galicia,Pontevedra,CCAA,0,0,"1.229,35",0
+2013,Galicia,Pontevedra,State,"80,31","6,32",0,"126,71"
+2013,Galicia,Pontevedra,State,0,0,"317,30",0
+2013,Galicia,Pontevedra,provincial,0,0,"1.686,00",0
+2013,Madrid,Madrid,CCAA,"122,56","204,61",0,0
+2013,Madrid,Madrid,CCAA,0,0,"2.245,78",0
+2013,Madrid,Madrid,State,"493,61","7,05",0,"160,82"
+2013,Madrid,Madrid,State,0,0,"106,05",0
+2013,Melilla,Melilla,CCAA,0,"0,53",0,0
+2013,Melilla,Melilla,CCAA,0,0,"16,39",0
+2013,Melilla,Melilla,State,"0,00","1,02",0,"0,00"
+2013,Melilla,Melilla,State,0,0,"8,89",0
+2013,Murcia,Murcia,CCAA,"167,40","80,10",0,0
+2013,Murcia,Murcia,CCAA,0,0,"2.719,41",0
+2013,Murcia,Murcia,State,"286,73","12,48",0,"114,64"
+2013,Murcia,Murcia,State,0,0,"142,84",0
+2013,Navarra,Navarra,CCAA,"233,78","23,99",0,"99,57"
+2013,Navarra,Navarra,CCAA,0,0,"3.472,19",0
+2013,Navarra,Navarra,State,"0,00","0,00",0,"39,03"
+2013,Navarra,Navarra,State,0,0,"0,00",0
+2013,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2013,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2013,País Vasco,Guipúzcoa,provincial,"100,10","20,92",0,"95,64"
+2013,País Vasco,Guipúzcoa,provincial,0,0,"1.184,02",0
+2013,País Vasco,Vizcaya,State,"0,00","0,00",0,"22,40"
+2013,País Vasco,Vizcaya,State,0,0,"0,00",0
+2013,País Vasco,Vizcaya,provincial,"92,17","34,86",0,"54,89"
+2013,País Vasco,Vizcaya,provincial,0,0,"1.106,73",0
+2013,País Vasco,Álava,State,"0,00","0,00",0,"60,89"
+2013,País Vasco,Álava,State,0,0,"0,00",0
+2013,País Vasco,Álava,provincial,"92,27","11,96",0,"14,23"
+2013,País Vasco,Álava,provincial,0,0,"1.283,98",0
+2013,La Rioja,"Rioja, La",CCAA,0,"3,00",0,0
+2013,La Rioja,"Rioja, La",CCAA,0,0,"1.433,00",0
+2013,La Rioja,"Rioja, La",State,"45,72","1,38",0,"119,10"
+2013,La Rioja,"Rioja, La",State,0,0,"254,63",0
+2014,Andalucía,Almería,CCAA,"101,25","2,41",0,0
+2014,Andalucía,Almería,CCAA,0,0,"703,82",0
+2014,Andalucía,Almería,State,"203,00","1,00",0,"28,00"
+2014,Andalucía,Almería,State,0,0,"140,00",0
+2014,Andalucía,Almería,provincial,0,0,"1.169,00",0
+2014,Andalucía,Cádiz,CCAA,"138,09","15,05",0,0
+2014,Andalucía,Cádiz,CCAA,0,0,"880,86",0
+2014,Andalucía,Cádiz,State,"117,00","36,00",0,"48,00"
+2014,Andalucía,Cádiz,State,0,0,"114,00",0
+2014,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2014,Andalucía,Córdoba,CCAA,"9,97","17,50",0,0
+2014,Andalucía,Córdoba,CCAA,0,0,"1.620,37",0
+2014,Andalucía,Córdoba,State,"173,00","5,00",0,"0,00"
+2014,Andalucía,Córdoba,State,0,0,"418,00",0
+2014,Andalucía,Córdoba,provincial,0,0,"1.807,10",0
+2014,Andalucía,Granada,CCAA,"235,61","11,81",0,0
+2014,Andalucía,Granada,CCAA,0,0,"1.390,56",0
+2014,Andalucía,Granada,State,"163,00","1,00",0,"0,00"
+2014,Andalucía,Granada,State,0,0,"182,00",0
+2014,Andalucía,Granada,provincial,0,"4,07",0,0
+2014,Andalucía,Granada,provincial,0,0,"1.260,63",0
+2014,Andalucía,Huelva,CCAA,"33,29","6,42",0,0
+2014,Andalucía,Huelva,CCAA,0,0,"728,16",0
+2014,Andalucía,Huelva,State,"126,00","22,00",0,"0,00"
+2014,Andalucía,Huelva,State,0,0,"302,00",0
+2014,Andalucía,Huelva,provincial,0,0,"840,01",0
+2014,Andalucía,Jaén,CCAA,"44,96","0,00",0,0
+2014,Andalucía,Jaén,CCAA,0,0,"1.409,82",0
+2014,Andalucía,Jaén,State,"192,00","0,00",0,"0,00"
+2014,Andalucía,Jaén,State,0,0,"258,00",0
+2014,Andalucía,Jaén,provincial,0,0,"1.562,83",0
+2014,Andalucía,Málaga,CCAA,"97,18","11,36",0,0
+2014,Andalucía,Málaga,CCAA,0,0,"1.175,20",0
+2014,Andalucía,Málaga,State,"219,00","30,00",0,"122,00"
+2014,Andalucía,Málaga,State,0,0,"31,00",0
+2014,Andalucía,Málaga,provincial,0,0,"859,60",0
+2014,Andalucía,Sevilla,CCAA,"154,32","41,45",0,0
+2014,Andalucía,Sevilla,CCAA,0,0,"1.687,85",0
+2014,Andalucía,Sevilla,State,"233,00","21,00",0,"51,00"
+2014,Andalucía,Sevilla,State,0,0,"144,00",0
+2014,Andalucía,Sevilla,provincial,0,"10,18",0,0
+2014,Andalucía,Sevilla,provincial,0,0,"1.478,15",0
+2014,Aragón,Huesca,CCAA,0,0,"2.073,02",0
+2014,Aragón,Huesca,State,"156,00","1,00",0,"50,00"
+2014,Aragón,Huesca,State,0,0,"669,00",0
+2014,Aragón,Huesca,provincial,0,0,"1.386,00",0
+2014,Aragón,Teruel,CCAA,0,0,"1.589,37",0
+2014,Aragón,Teruel,State,"140,00","2,00",0,"0,00"
+2014,Aragón,Teruel,State,0,0,"531,00",0
+2014,Aragón,Teruel,provincial,0,0,"861,00",0
+2014,Aragón,Zaragoza,CCAA,"5,28","9,41",0,0
+2014,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2014,Aragón,Zaragoza,State,"308,00","52,00",0,"107,00"
+2014,Aragón,Zaragoza,State,0,0,"506,00",0
+2014,Aragón,Zaragoza,provincial,0,"3,15",0,0
+2014,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2014,Asturias,Asturias,CCAA,"74,45","7,02",0,0
+2014,Asturias,Asturias,CCAA,0,0,"4.115,62",0
+2014,Asturias,Asturias,State,"358,00","6,00",0,"22,00"
+2014,Asturias,Asturias,State,0,0,"469,00",0
+2014,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2014,Islas Baleares,Baleares,State,0,0,"0,00",0
+2014,Islas Baleares,Baleares,provincial,"93,52","93,02",0,0
+2014,Islas Baleares,Baleares,provincial,0,0,"1.979,06",0
+2014,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2014,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2014,Canarias,"Palmas, Las",provincial,"103,52","76,06",0,0
+2014,Canarias,"Palmas, Las",provincial,0,0,"1.754,20",0
+2014,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2014,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2014,Canarias,"Tenerife, S.C.",provincial,"135,06","13,00",0,"0,00"
+2014,Canarias,"Tenerife, S.C.",provincial,0,0,"2.168,03",0
+2014,Cantabria,Cantabria,CCAA,0,0,"1.994,81",0
+2014,Cantabria,Cantabria,State,"226,00","3,00",0,"0,00"
+2014,Cantabria,Cantabria,State,0,0,"345,00",0
+2014,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2014,Castilla-La Mancha,Albacete,State,"281,00","0,00",0,"0,00"
+2014,Castilla-La Mancha,Albacete,State,0,0,"420,00",0
+2014,Castilla-La Mancha,Albacete,provincial,0,0,"1.408,79",0
+2014,Castilla-La Mancha,Ciudad Real,CCAA,"80,96","3,82",0,0
+2014,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2014,Castilla-La Mancha,Ciudad Real,State,"257,00","8,00",0,"0,00"
+2014,Castilla-La Mancha,Ciudad Real,State,0,0,"461,00",0
+2014,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.724,00",0
+2014,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2014,Castilla-La Mancha,Cuenca,State,"346,00","0,00",0,"50,00"
+2014,Castilla-La Mancha,Cuenca,State,0,0,"584,00",0
+2014,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2014,Castilla-La Mancha,Guadalajara,CCAA,"9,26",0,0,0
+2014,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2014,Castilla-La Mancha,Guadalajara,State,"100,00","1,00",0,"24,00"
+2014,Castilla-La Mancha,Guadalajara,State,0,0,"292,00",0
+2014,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.568,00",0
+2014,Castilla-La Mancha,Toledo,CCAA,"145,51",0,0,0
+2014,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2014,Castilla-La Mancha,Toledo,State,"379,00","10,00",0,"140,00"
+2014,Castilla-La Mancha,Toledo,State,0,0,"358,00",0
+2014,Castilla-La Mancha,Toledo,provincial,0,0,"956,00",0
+2014,Castilla y León,Burgos,CCAA,"46,75","5,88",0,0
+2014,Castilla y León,Burgos,CCAA,0,0,"1.765,70",0
+2014,Castilla y León,Burgos,State,"180,00","15,00",0,"76,00"
+2014,Castilla y León,Burgos,State,0,0,"664,00",0
+2014,Castilla y León,Burgos,provincial,0,0,"2.289,44",0
+2014,Castilla y León,León,CCAA,"67,89","5,79",0,0
+2014,Castilla y León,León,CCAA,0,0,"1.714,92",0
+2014,Castilla y León,León,State,"232,00","22,00",0,"94,00"
+2014,Castilla y León,León,State,0,0,"589,00",0
+2014,Castilla y León,León,provincial,0,0,"3.310,32",0
+2014,Castilla y León,Palencia,CCAA,"62,30",0,0,0
+2014,Castilla y León,Palencia,CCAA,0,0,"1.467,75",0
+2014,Castilla y León,Palencia,State,"193,00","0,00",0,"0,00"
+2014,Castilla y León,Palencia,State,0,0,"247,00",0
+2014,Castilla y León,Palencia,provincial,0,0,"1.034,59",0
+2014,Castilla y León,Salamanca,CCAA,0,0,"1.263,45",0
+2014,Castilla y León,Salamanca,State,"300,00","8,00",0,"0,00"
+2014,Castilla y León,Salamanca,State,0,0,"265,00",0
+2014,Castilla y León,Salamanca,provincial,0,0,"2.137,00",0
+2014,Castilla y León,Segovia,CCAA,"64,48","6,30",0,0
+2014,Castilla y León,Segovia,CCAA,0,0,"701,84",0
+2014,Castilla y León,Segovia,State,"47,00","2,00",0,"69,00"
+2014,Castilla y León,Segovia,State,0,0,"249,00",0
+2014,Castilla y León,Segovia,provincial,0,0,"1.233,42",0
+2014,Castilla y León,Soria,CCAA,0,0,"898,77",0
+2014,Castilla y León,Soria,State,"119,00","2,00",0,"0,00"
+2014,Castilla y León,Soria,State,0,0,"407,00",0
+2014,Castilla y León,Soria,provincial,0,0,"1.887,92",0
+2014,Castilla y León,Valladolid,CCAA,"40,73",0,0,0
+2014,Castilla y León,Valladolid,CCAA,0,0,"1.046,92",0
+2014,Castilla y León,Valladolid,State,"265,00","14,00",0,"0,00"
+2014,Castilla y León,Valladolid,State,0,0,"269,00",0
+2014,Castilla y León,Valladolid,provincial,0,0,"1.430,17",0
+2014,Castilla y León,Zamora,CCAA,"0,00",0,0,0
+2014,Castilla y León,Zamora,CCAA,0,0,"1.148,48",0
+2014,Castilla y León,Zamora,State,"285,00","14,00",0,"0,00"
+2014,Castilla y León,Zamora,State,0,0,"423,00",0
+2014,Castilla y León,Zamora,provincial,0,0,"1.592,06",0
+2014,Castilla y León,Ávila,CCAA,0,0,"987,57",0
+2014,Castilla y León,Ávila,State,"87,00","3,00",0,"37,00"
+2014,Castilla y León,Ávila,State,0,0,"346,00",0
+2014,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2014,Cataluña,Barcelona,CCAA,"309,75","49,40",0,"157,67"
+2014,Cataluña,Barcelona,CCAA,0,0,"1.590,59",0
+2014,Cataluña,Barcelona,State,"139,00","1,00",0,"119,00"
+2014,Cataluña,Barcelona,State,0,0,"49,00",0
+2014,Cataluña,Barcelona,provincial,0,0,"1.575,45",0
+2014,Cataluña,Gerona,CCAA,"99,89","11,97",0,0
+2014,Cataluña,Gerona,CCAA,0,0,"1.190,96",0
+2014,Cataluña,Gerona,State,"27,00","6,00",0,"93,00"
+2014,Cataluña,Gerona,State,0,0,"287,00",0
+2014,Cataluña,Gerona,provincial,0,"2,59",0,0
+2014,Cataluña,Gerona,provincial,0,0,"672,97",0
+2014,Cataluña,Lérida,CCAA,"28,38",0,0,0
+2014,Cataluña,Lérida,CCAA,0,0,"1.528,66",0
+2014,Cataluña,Lérida,State,"128,00","11,00",0,"60,00"
+2014,Cataluña,Lérida,State,0,0,"315,00",0
+2014,Cataluña,Lérida,provincial,0,0,"820,03",0
+2014,Cataluña,Tarragona,CCAA,"14,69","22,55",0,"10,59"
+2014,Cataluña,Tarragona,CCAA,0,0,"1.076,32",0
+2014,Cataluña,Tarragona,State,"76,00","16,00",0,"191,00"
+2014,Cataluña,Tarragona,State,0,0,"285,00",0
+2014,Cataluña,Tarragona,provincial,0,"6,22",0,0
+2014,Cataluña,Tarragona,provincial,0,0,"1.084,41",0
+2014,Ceuta,Ceuta,CCAA,0,0,"18,00",0
+2014,Ceuta,Ceuta,State,"0,00","0,00",0,"0,00"
+2014,Ceuta,Ceuta,State,0,0,"19,00",0
+2014,C. Valenciana,Alicante,CCAA,"15,51","58,32",0,0
+2014,C. Valenciana,Alicante,CCAA,0,0,"907,63",0
+2014,C. Valenciana,Alicante,State,"236,00","73,00",0,"159,00"
+2014,C. Valenciana,Alicante,State,0,0,"201,00",0
+2014,C. Valenciana,Alicante,provincial,0,"10,82",0,0
+2014,C. Valenciana,Alicante,provincial,0,0,"1.010,17",0
+2014,C. Valenciana,Castellón,CCAA,"46,22","45,85",0,0
+2014,C. Valenciana,Castellón,CCAA,0,0,"876,96",0
+2014,C. Valenciana,Castellón,State,"75,00","4,00",0,"120,00"
+2014,C. Valenciana,Castellón,State,0,0,"263,00",0
+2014,C. Valenciana,Castellón,provincial,0,0,"750,37",0
+2014,C. Valenciana,Valencia,CCAA,"110,53","48,04",0,0
+2014,C. Valenciana,Valencia,CCAA,0,0,"641,61",0
+2014,C. Valenciana,Valencia,State,"292,00","49,00",0,"88,00"
+2014,C. Valenciana,Valencia,State,0,0,"385,00",0
+2014,C. Valenciana,Valencia,provincial,0,"3,50",0,0
+2014,C. Valenciana,Valencia,provincial,0,0,"1.818,00",0
+2014,Extremadura,Badajoz,CCAA,"16,88","16,60",0,0
+2014,Extremadura,Badajoz,CCAA,0,0,"2.095,29",0
+2014,Extremadura,Badajoz,State,"239,00","16,00",0,"0,00"
+2014,Extremadura,Badajoz,State,0,0,"572,00",0
+2014,Extremadura,Badajoz,provincial,0,0,"1.917,29",0
+2014,Extremadura,Cáceres,CCAA,"107,10","10,64",0,0
+2014,Extremadura,Cáceres,CCAA,0,0,"1.574,07",0
+2014,Extremadura,Cáceres,State,"337,00","20,00",0,"0,00"
+2014,Extremadura,Cáceres,State,0,0,"409,00",0
+2014,Extremadura,Cáceres,provincial,0,0,"1.835,00",0
+2014,Galicia,"Coruña, A",CCAA,"102,04","2,55",0,"33,30"
+2014,Galicia,"Coruña, A",CCAA,0,0,"1.579,44",0
+2014,Galicia,"Coruña, A",State,"68,00","53,00",0,"146,00"
+2014,Galicia,"Coruña, A",State,0,0,"280,00",0
+2014,Galicia,"Coruña, A",provincial,0,0,"2.117,00",0
+2014,Galicia,Lugo,CCAA,"16,16","2,41",0,0
+2014,Galicia,Lugo,CCAA,0,0,"1.438,93",0
+2014,Galicia,Lugo,State,"196,00","11,00",0,"0,00"
+2014,Galicia,Lugo,State,0,0,"506,00",0
+2014,Galicia,Lugo,provincial,0,0,"4.208,00",0
+2014,Galicia,Orense,CCAA,"47,97","3,07",0,0
+2014,Galicia,Orense,CCAA,0,0,"981,10",0
+2014,Galicia,Orense,State,"168,00","8,00",0,"0,00"
+2014,Galicia,Orense,State,0,0,"345,00",0
+2014,Galicia,Orense,provincial,0,0,"1.840,07",0
+2014,Galicia,Pontevedra,CCAA,"24,98","6,44",0,"20,98"
+2014,Galicia,Pontevedra,CCAA,0,0,"1.243,10",0
+2014,Galicia,Pontevedra,State,"80,00","6,00",0,"127,00"
+2014,Galicia,Pontevedra,State,0,0,"317,00",0
+2014,Galicia,Pontevedra,provincial,0,0,"1.686,00",0
+2014,Madrid,Madrid,CCAA,"128,16","201,41",0,0
+2014,Madrid,Madrid,CCAA,0,0,"2.243,32",0
+2014,Madrid,Madrid,State,"494,00","7,00",0,"161,00"
+2014,Madrid,Madrid,State,0,0,"106,00",0
+2014,Melilla,Melilla,CCAA,0,"0,53",0,0
+2014,Melilla,Melilla,CCAA,0,0,"17,36",0
+2014,Melilla,Melilla,State,"0,00","1,00",0,"0,00"
+2014,Melilla,Melilla,State,0,0,"9,00",0
+2014,Murcia,Murcia,CCAA,"167,40","80,10",0,0
+2014,Murcia,Murcia,CCAA,0,0,"2.708,96",0
+2014,Murcia,Murcia,State,"287,00","12,00",0,"115,00"
+2014,Murcia,Murcia,State,0,0,"142,00",0
+2014,Navarra,Navarra,CCAA,"233,78","25,60",0,"98,88"
+2014,Navarra,Navarra,CCAA,0,0,"3.470,58",0
+2014,Navarra,Navarra,State,"0,00","0,00",0,"39,00"
+2014,Navarra,Navarra,State,0,0,"0,00",0
+2014,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2014,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2014,País Vasco,Guipúzcoa,provincial,"42,64","78,38",0,"95,64"
+2014,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2014,País Vasco,Vizcaya,State,"0,00","0,00",0,"22,00"
+2014,País Vasco,Vizcaya,State,0,0,"0,00",0
+2014,País Vasco,Vizcaya,provincial,"96,83","36,83",0,"50,00"
+2014,País Vasco,Vizcaya,provincial,0,0,"1.100,49",0
+2014,País Vasco,Álava,State,"0,00","0,00",0,"61,00"
+2014,País Vasco,Álava,State,0,0,"0,00",0
+2014,País Vasco,Álava,provincial,"91,87","11,96",0,"14,23"
+2014,País Vasco,Álava,provincial,0,0,"1.283,98",0
+2014,La Rioja,"Rioja, La",CCAA,0,"3,00",0,0
+2014,La Rioja,"Rioja, La",CCAA,0,0,"1.433,00",0
+2014,La Rioja,"Rioja, La",State,"57,00","1,00",0,"119,00"
+2014,La Rioja,"Rioja, La",State,0,0,"255,00",0
+2015,Andalucía,Almería,CCAA,"110,42","2,41",0,0
+2015,Andalucía,Almería,CCAA,0,0,"703,64",0
+2015,Andalucía,Almería,State,"203,50","1,12",0,"28,19"
+2015,Andalucía,Almería,State,0,0,"140,06",0
+2015,Andalucía,Almería,provincial,0,0,"1.174,00",0
+2015,Andalucía,Cádiz,CCAA,"138,09","23,76",0,0
+2015,Andalucía,Cádiz,CCAA,0,0,"873,40",0
+2015,Andalucía,Cádiz,State,"123,90","33,96",0,"47,80"
+2015,Andalucía,Cádiz,State,0,0,"113,45",0
+2015,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2015,Andalucía,Córdoba,CCAA,"9,97","17,44",0,0
+2015,Andalucía,Córdoba,CCAA,0,0,"1.619,52",0
+2015,Andalucía,Córdoba,State,"174,18","5,01",0,"0,00"
+2015,Andalucía,Córdoba,State,0,0,"417,53",0
+2015,Andalucía,Córdoba,provincial,0,0,"1.806,61",0
+2015,Andalucía,Granada,CCAA,"235,69","11,81",0,0
+2015,Andalucía,Granada,CCAA,0,0,"1.388,16",0
+2015,Andalucía,Granada,State,"184,54","2,72",0,"0,00"
+2015,Andalucía,Granada,State,0,0,"183,16",0
+2015,Andalucía,Granada,provincial,0,"4,07",0,0
+2015,Andalucía,Granada,provincial,0,0,"1.260,63",0
+2015,Andalucía,Huelva,CCAA,"33,29","6,42",0,0
+2015,Andalucía,Huelva,CCAA,0,0,"731,45",0
+2015,Andalucía,Huelva,State,"136,42","11,44",0,"0,00"
+2015,Andalucía,Huelva,State,0,0,"299,16",0
+2015,Andalucía,Huelva,provincial,0,0,"840,01",0
+2015,Andalucía,Jaén,CCAA,"77,22","1,87",0,0
+2015,Andalucía,Jaén,CCAA,0,0,"1.402,45",0
+2015,Andalucía,Jaén,State,"202,92","0,00",0,"0,00"
+2015,Andalucía,Jaén,State,0,0,"257,23",0
+2015,Andalucía,Jaén,provincial,0,0,"1.564,87",0
+2015,Andalucía,Málaga,CCAA,"97,10","11,36",0,0
+2015,Andalucía,Málaga,CCAA,0,0,"1.174,82",0
+2015,Andalucía,Málaga,State,"218,74","29,68",0,"122,09"
+2015,Andalucía,Málaga,State,0,0,"31,37",0
+2015,Andalucía,Málaga,provincial,0,0,"859,60",0
+2015,Andalucía,Sevilla,CCAA,"156,77","41,45",0,0
+2015,Andalucía,Sevilla,CCAA,0,0,"1.706,41",0
+2015,Andalucía,Sevilla,State,"232,91","21,49",0,"50,95"
+2015,Andalucía,Sevilla,State,0,0,"144,28",0
+2015,Andalucía,Sevilla,provincial,0,"10,85",0,0
+2015,Andalucía,Sevilla,provincial,0,0,"1.477,47",0
+2015,Aragón,Huesca,CCAA,0,0,"2.042,53",0
+2015,Aragón,Huesca,State,"155,96","0,57",0,"49,71"
+2015,Aragón,Huesca,State,0,0,"668,66",0
+2015,Aragón,Huesca,provincial,0,0,"1.386,00",0
+2015,Aragón,Teruel,CCAA,0,0,"1.628,21",0
+2015,Aragón,Teruel,State,"140,10","2,73",0,"0,00"
+2015,Aragón,Teruel,State,0,0,"530,89",0
+2015,Aragón,Teruel,provincial,0,0,"963,00",0
+2015,Aragón,Zaragoza,CCAA,"5,28","9,41",0,0
+2015,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2015,Aragón,Zaragoza,State,"310,66","51,51",0,"107,02"
+2015,Aragón,Zaragoza,State,0,0,"508,48",0
+2015,Aragón,Zaragoza,provincial,0,"3,15",0,0
+2015,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2015,Asturias,Asturias,CCAA,"74,45","7,02",0,0
+2015,Asturias,Asturias,CCAA,0,0,"4.111,21",0
+2015,Asturias,Asturias,State,"357,84","5,85",0,"21,86"
+2015,Asturias,Asturias,State,0,0,"473,14",0
+2015,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2015,Islas Baleares,Baleares,State,0,0,"0,00",0
+2015,Islas Baleares,Baleares,provincial,"93,52","97,12",0,0
+2015,Islas Baleares,Baleares,provincial,0,0,"1.964,73",0
+2015,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2015,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2015,Canarias,"Palmas, Las",provincial,"110,82","76,06",0,0
+2015,Canarias,"Palmas, Las",provincial,0,0,"1.752,45",0
+2015,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2015,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2015,Canarias,"Tenerife, S.C.",provincial,"135,06","13,00",0,"0,00"
+2015,Canarias,"Tenerife, S.C.",provincial,0,0,"2.168,03",0
+2015,Cantabria,Cantabria,CCAA,0,0,"1.994,81",0
+2015,Cantabria,Cantabria,State,"254,91","2,95",0,"0,00"
+2015,Cantabria,Cantabria,State,0,0,"329,22",0
+2015,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2015,Castilla-La Mancha,Albacete,State,"280,90","0,00",0,"0,00"
+2015,Castilla-La Mancha,Albacete,State,0,0,"420,40",0
+2015,Castilla-La Mancha,Albacete,provincial,0,0,"1.408,79",0
+2015,Castilla-La Mancha,Ciudad Real,CCAA,"80,96","3,82",0,0
+2015,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2015,Castilla-La Mancha,Ciudad Real,State,"256,82","7,63",0,"0,00"
+2015,Castilla-La Mancha,Ciudad Real,State,0,0,"460,60",0
+2015,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.724,00",0
+2015,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2015,Castilla-La Mancha,Cuenca,State,"346,21","0,00",0,"49,83"
+2015,Castilla-La Mancha,Cuenca,State,0,0,"584,36",0
+2015,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2015,Castilla-La Mancha,Guadalajara,CCAA,"9,26",0,0,0
+2015,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2015,Castilla-La Mancha,Guadalajara,State,"99,67","0,69",0,"24,02"
+2015,Castilla-La Mancha,Guadalajara,State,0,0,"291,78",0
+2015,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.568,00",0
+2015,Castilla-La Mancha,Toledo,CCAA,"145,51",0,0,0
+2015,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2015,Castilla-La Mancha,Toledo,State,"378,68","9,54",0,"140,27"
+2015,Castilla-La Mancha,Toledo,State,0,0,"363,85",0
+2015,Castilla-La Mancha,Toledo,provincial,0,0,"956,00",0
+2015,Castilla y León,Burgos,CCAA,"46,75","5,88",0,0
+2015,Castilla y León,Burgos,CCAA,0,0,"1.765,70",0
+2015,Castilla y León,Burgos,State,"198,39","15,31",0,"76,29"
+2015,Castilla y León,Burgos,State,0,0,"657,95",0
+2015,Castilla y León,Burgos,provincial,0,0,"2.289,44",0
+2015,Castilla y León,León,CCAA,"67,89","5,79",0,0
+2015,Castilla y León,León,CCAA,0,0,"1.715,20",0
+2015,Castilla y León,León,State,"231,66","21,60",0,"93,68"
+2015,Castilla y León,León,State,0,0,"588,61",0
+2015,Castilla y León,León,provincial,0,0,"3.310,32",0
+2015,Castilla y León,Palencia,CCAA,"62,30",0,0,0
+2015,Castilla y León,Palencia,CCAA,0,0,"1.467,75",0
+2015,Castilla y León,Palencia,State,"193,33","0,00",0,"0,00"
+2015,Castilla y León,Palencia,State,0,0,"247,01",0
+2015,Castilla y León,Palencia,provincial,0,0,"1.034,59",0
+2015,Castilla y León,Salamanca,CCAA,0,0,"1.263,45",0
+2015,Castilla y León,Salamanca,State,"300,43","8,38",0,"0,00"
+2015,Castilla y León,Salamanca,State,0,0,"264,53",0
+2015,Castilla y León,Salamanca,provincial,0,0,"2.137,00",0
+2015,Castilla y León,Segovia,CCAA,"64,48","6,30",0,0
+2015,Castilla y León,Segovia,CCAA,0,0,"703,30",0
+2015,Castilla y León,Segovia,State,"47,04","1,86",0,"69,47"
+2015,Castilla y León,Segovia,State,0,0,"248,69",0
+2015,Castilla y León,Segovia,provincial,0,0,"1.229,35",0
+2015,Castilla y León,Soria,CCAA,0,0,"898,77",0
+2015,Castilla y León,Soria,State,"131,74","1,85",0,"0,00"
+2015,Castilla y León,Soria,State,0,0,"407,27",0
+2015,Castilla y León,Soria,provincial,0,0,"1.890,73",0
+2015,Castilla y León,Valladolid,CCAA,"40,73",0,0,0
+2015,Castilla y León,Valladolid,CCAA,0,0,"1.046,92",0
+2015,Castilla y León,Valladolid,State,"264,66","14,29",0,"0,00"
+2015,Castilla y León,Valladolid,State,0,0,"268,92",0
+2015,Castilla y León,Valladolid,provincial,0,0,"1.433,00",0
+2015,Castilla y León,Zamora,CCAA,0,0,"1.148,48",0
+2015,Castilla y León,Zamora,State,"336,39","13,22",0,"0,00"
+2015,Castilla y León,Zamora,State,0,0,"423,12",0
+2015,Castilla y León,Zamora,provincial,0,0,"1.592,06",0
+2015,Castilla y León,Ávila,CCAA,0,0,"987,57",0
+2015,Castilla y León,Ávila,State,"86,97","3,24",0,"37,40"
+2015,Castilla y León,Ávila,State,0,0,"346,39",0
+2015,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2015,Cataluña,Barcelona,CCAA,"287,88","53,13",0,"159,45"
+2015,Cataluña,Barcelona,CCAA,0,0,"1.580,28",0
+2015,Cataluña,Barcelona,State,"139,19","1,05",0,"118,93"
+2015,Cataluña,Barcelona,State,0,0,"49,22",0
+2015,Cataluña,Barcelona,provincial,0,0,"1.569,50",0
+2015,Cataluña,Gerona,CCAA,"90,00","21,83",0,0
+2015,Cataluña,Gerona,CCAA,0,0,"1.129,92",0
+2015,Cataluña,Gerona,State,"32,98","6,34",0,"92,62"
+2015,Cataluña,Gerona,State,0,0,"279,78",0
+2015,Cataluña,Gerona,provincial,0,"2,59",0,0
+2015,Cataluña,Gerona,provincial,0,0,"777,76",0
+2015,Cataluña,Lérida,CCAA,"28,38",0,0,0
+2015,Cataluña,Lérida,CCAA,0,0,"1.528,66",0
+2015,Cataluña,Lérida,State,"127,86","10,65",0,"60,47"
+2015,Cataluña,Lérida,State,0,0,"318,50",0
+2015,Cataluña,Lérida,provincial,0,0,"815,46",0
+2015,Cataluña,Tarragona,CCAA,"23,06","22,55",0,"10,59"
+2015,Cataluña,Tarragona,CCAA,0,0,"1.076,57",0
+2015,Cataluña,Tarragona,State,"85,66","16,11",0,"191,13"
+2015,Cataluña,Tarragona,State,0,0,"283,52",0
+2015,Cataluña,Tarragona,provincial,0,"6,22",0,0
+2015,Cataluña,Tarragona,provincial,0,0,"1.083,56",0
+2015,Ceuta,Ceuta,CCAA,0,0,"18,00",0
+2015,Ceuta,Ceuta,State,"0,00","0,00",0,"0,00"
+2015,Ceuta,Ceuta,State,0,0,"18,83",0
+2015,C. Valenciana,Alicante,CCAA,"15,51","57,99",0,0
+2015,C. Valenciana,Alicante,CCAA,0,0,"905,10",0
+2015,C. Valenciana,Alicante,State,"234,98","72,82",0,"159,46"
+2015,C. Valenciana,Alicante,State,0,0,"205,24",0
+2015,C. Valenciana,Alicante,provincial,0,"16,08",0,0
+2015,C. Valenciana,Alicante,provincial,0,0,"1.010,17",0
+2015,C. Valenciana,Castellón,CCAA,"46,04","45,83",0,0
+2015,C. Valenciana,Castellón,CCAA,0,0,"874,68",0
+2015,C. Valenciana,Castellón,State,"74,63","3,66",0,"119,88"
+2015,C. Valenciana,Castellón,State,0,0,"281,18",0
+2015,C. Valenciana,Castellón,provincial,0,0,"774,88",0
+2015,C. Valenciana,Valencia,CCAA,"86,05","48,42",0,0
+2015,C. Valenciana,Valencia,CCAA,0,0,"671,80",0
+2015,C. Valenciana,Valencia,State,"316,45","46,54",0,"87,78"
+2015,C. Valenciana,Valencia,State,0,0,"341,47",0
+2015,C. Valenciana,Valencia,provincial,0,"9,00",0,0
+2015,C. Valenciana,Valencia,provincial,0,0,"1.818,00",0
+2015,Extremadura,Badajoz,CCAA,"16,88","16,60",0,0
+2015,Extremadura,Badajoz,CCAA,0,0,"2.095,29",0
+2015,Extremadura,Badajoz,State,"238,74","15,76",0,"0,00"
+2015,Extremadura,Badajoz,State,0,0,"572,40",0
+2015,Extremadura,Badajoz,provincial,0,0,"1.917,29",0
+2015,Extremadura,Cáceres,CCAA,"107,10","10,64",0,0
+2015,Extremadura,Cáceres,CCAA,0,0,"1.574,07",0
+2015,Extremadura,Cáceres,State,"337,00","20,18",0,"0,00"
+2015,Extremadura,Cáceres,State,0,0,"408,45",0
+2015,Extremadura,Cáceres,provincial,0,0,"1.835,83",0
+2015,Galicia,"Coruña, A",CCAA,"102,04","2,55",0,"33,30"
+2015,Galicia,"Coruña, A",CCAA,0,0,"1.570,67",0
+2015,Galicia,"Coruña, A",State,"71,99","54,37",0,"146,32"
+2015,Galicia,"Coruña, A",State,0,0,"280,99",0
+2015,Galicia,"Coruña, A",provincial,0,0,"2.104,00",0
+2015,Galicia,Lugo,CCAA,"16,16","2,41",0,0
+2015,Galicia,Lugo,CCAA,0,0,"1.459,78",0
+2015,Galicia,Lugo,State,"238,26","11,10",0,"0,00"
+2015,Galicia,Lugo,State,0,0,"506,28",0
+2015,Galicia,Lugo,provincial,0,0,"4.208,00",0
+2015,Galicia,Orense,CCAA,"47,97","3,07",0,0
+2015,Galicia,Orense,CCAA,0,0,"976,89",0
+2015,Galicia,Orense,State,"168,36","8,20",0,"0,00"
+2015,Galicia,Orense,State,0,0,"345,03",0
+2015,Galicia,Orense,provincial,0,0,"1.840,07",0
+2015,Galicia,Pontevedra,CCAA,"27,34","6,44",0,"20,98"
+2015,Galicia,Pontevedra,CCAA,0,0,"1.244,11",0
+2015,Galicia,Pontevedra,State,"80,31","7,49",0,"126,71"
+2015,Galicia,Pontevedra,State,0,0,"316,18",0
+2015,Galicia,Pontevedra,provincial,0,0,"1.686,00",0
+2015,Madrid,Madrid,CCAA,"128,16","201,41",0,0
+2015,Madrid,Madrid,CCAA,0,0,"2.242,62",0
+2015,Madrid,Madrid,State,"493,61","7,05",0,"160,82"
+2015,Madrid,Madrid,State,0,0,"104,16",0
+2015,Melilla,Melilla,CCAA,0,"0,53",0,0
+2015,Melilla,Melilla,CCAA,0,0,"17,36",0
+2015,Melilla,Melilla,State,"0,00","1,02",0,"0,00"
+2015,Melilla,Melilla,State,0,0,"9,27",0
+2015,Murcia,Murcia,CCAA,"167,84","79,68",0,0
+2015,Murcia,Murcia,CCAA,0,0,"2.643,12",0
+2015,Murcia,Murcia,State,"289,08","12,48",0,"114,64"
+2015,Murcia,Murcia,State,0,0,"142,00",0
+2015,Navarra,Navarra,CCAA,"235,54","25,60",0,"105,07"
+2015,Navarra,Navarra,CCAA,0,0,"3.460,38",0
+2015,Navarra,Navarra,State,"0,00","0,00",0,"39,03"
+2015,Navarra,Navarra,State,0,0,"0,00",0
+2015,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2015,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2015,País Vasco,Guipúzcoa,provincial,"45,04","78,38",0,"107,20"
+2015,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2015,País Vasco,Vizcaya,State,"0,00","0,00",0,"22,40"
+2015,País Vasco,Vizcaya,State,0,0,"0,00",0
+2015,País Vasco,Vizcaya,provincial,"96,74","39,50",0,"50,00"
+2015,País Vasco,Vizcaya,provincial,0,0,"1.098,43",0
+2015,País Vasco,Álava,State,"0,00","0,00",0,"60,89"
+2015,País Vasco,Álava,State,0,0,"0,00",0
+2015,País Vasco,Álava,provincial,"91,97","10,61",0,"14,23"
+2015,País Vasco,Álava,provincial,0,0,"1.279,57",0
+2015,La Rioja,"Rioja, La",CCAA,0,"3,00",0,0
+2015,La Rioja,"Rioja, La",CCAA,0,0,"1.433,00",0
+2015,La Rioja,"Rioja, La",State,"61,95","1,38",0,"119,10"
+2015,La Rioja,"Rioja, La",State,0,0,"254,63",0
+2016,Andalucía,Almería,CCAA,"112,92","3,41",0,"0,00"
+2016,Andalucía,Almería,CCAA,0,0,"701,08",0
+2016,Andalucía,Almería,State,"203,50","1,12",0,"28,19"
+2016,Andalucía,Almería,State,0,0,"136,84",0
+2016,Andalucía,Almería,provincial,"0,00","0,00",0,"0,00"
+2016,Andalucía,Almería,provincial,0,0,"1.171,00",0
+2016,Andalucía,Cádiz,CCAA,"138,09","23,76",0,"0,00"
+2016,Andalucía,Cádiz,CCAA,0,0,"872,31",0
+2016,Andalucía,Cádiz,State,"120,13","33,43",0,"47,80"
+2016,Andalucía,Cádiz,State,0,0,"125,33",0
+2016,Andalucía,Cádiz,provincial,"0,00","0,00",0,"0,00"
+2016,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2016,Andalucía,Córdoba,CCAA,"9,97","17,44",0,"0,00"
+2016,Andalucía,Córdoba,CCAA,0,0,"1.619,52",0
+2016,Andalucía,Córdoba,State,"176,73","0,65",0,"0,00"
+2016,Andalucía,Córdoba,State,0,0,"423,69",0
+2016,Andalucía,Córdoba,provincial,"0,00","0,00",0,"0,00"
+2016,Andalucía,Córdoba,provincial,0,0,"1.806,61",0
+2016,Andalucía,Granada,CCAA,"235,69","11,81",0,"0,00"
+2016,Andalucía,Granada,CCAA,0,0,"1.384,28",0
+2016,Andalucía,Granada,State,"185,86","1,96",0,"0,00"
+2016,Andalucía,Granada,State,0,0,"196,66",0
+2016,Andalucía,Granada,provincial,"0,00","4,07",0,"0,00"
+2016,Andalucía,Granada,provincial,0,0,"1.260,63",0
+2016,Andalucía,Huelva,CCAA,"33,29","6,42",0,"0,00"
+2016,Andalucía,Huelva,CCAA,0,0,"731,81",0
+2016,Andalucía,Huelva,State,"136,42","11,78",0,"0,00"
+2016,Andalucía,Huelva,State,0,0,"315,58",0
+2016,Andalucía,Huelva,provincial,"0,00","0,00",0,"0,00"
+2016,Andalucía,Huelva,provincial,0,0,"840,01",0
+2016,Andalucía,Jaén,CCAA,"73,39","5,70",0,"0,00"
+2016,Andalucía,Jaén,CCAA,0,0,"1.399,36",0
+2016,Andalucía,Jaén,State,"201,97","0,00",0,"0,00"
+2016,Andalucía,Jaén,State,0,0,"258,31",0
+2016,Andalucía,Jaén,provincial,"0,00","0,00",0,"0,00"
+2016,Andalucía,Jaén,provincial,0,0,"909,33",0
+2016,Andalucía,Málaga,CCAA,"97,10","11,36",0,"0,00"
+2016,Andalucía,Málaga,CCAA,0,0,"1.180,42",0
+2016,Andalucía,Málaga,State,"218,74","23,49",0,"122,09"
+2016,Andalucía,Málaga,State,0,0,"37,56",0
+2016,Andalucía,Málaga,provincial,"0,00","0,00",0,"0,00"
+2016,Andalucía,Málaga,provincial,0,0,"859,60",0
+2016,Andalucía,Sevilla,CCAA,"156,77","41,45",0,"0,00"
+2016,Andalucía,Sevilla,CCAA,0,0,"1.706,41",0
+2016,Andalucía,Sevilla,State,"234,35","20,57",0,"50,95"
+2016,Andalucía,Sevilla,State,0,0,"143,98",0
+2016,Andalucía,Sevilla,provincial,"0,00","10,85",0,"0,00"
+2016,Andalucía,Sevilla,provincial,0,0,"1.473,82",0
+2016,Aragón,Huesca,CCAA,"0,00","0,00",0,"0,00"
+2016,Aragón,Huesca,CCAA,0,0,"2.042,53",0
+2016,Aragón,Huesca,State,"156,53","0,00",0,"49,71"
+2016,Aragón,Huesca,State,0,0,"685,07",0
+2016,Aragón,Huesca,provincial,"0,00","0,00",0,"0,00"
+2016,Aragón,Huesca,provincial,0,0,"1.386,00",0
+2016,Aragón,Teruel,CCAA,"0,00","0,00",0,"0,00"
+2016,Aragón,Teruel,CCAA,0,0,"1.628,21",0
+2016,Aragón,Teruel,State,"140,12","1,34",0,"0,00"
+2016,Aragón,Teruel,State,0,0,"544,78",0
+2016,Aragón,Teruel,provincial,"0,00","0,00",0,"0,00"
+2016,Aragón,Teruel,provincial,0,0,"963,00",0
+2016,Aragón,Zaragoza,CCAA,"5,28","9,41",0,"0,00"
+2016,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2016,Aragón,Zaragoza,State,"329,75","42,40",0,"107,02"
+2016,Aragón,Zaragoza,State,0,0,"504,74",0
+2016,Aragón,Zaragoza,provincial,"0,00","3,15",0,"0,00"
+2016,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2016,Asturias,Asturias,CCAA,"74,45","7,02",0,"0,00"
+2016,Asturias,Asturias,CCAA,0,0,"4.111,21",0
+2016,Asturias,Asturias,State,"356,76","5,85",0,"21,86"
+2016,Asturias,Asturias,State,0,0,"466,00",0
+2016,Asturias,Asturias,provincial,"0,00","0,00",0,"0,00"
+2016,Asturias,Asturias,provincial,0,0,"0,00",0
+2016,Islas Baleares,Baleares,CCAA,"0,00","0,00",0,"0,00"
+2016,Islas Baleares,Baleares,CCAA,0,0,"0,00",0
+2016,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2016,Islas Baleares,Baleares,State,0,0,"0,00",0
+2016,Islas Baleares,Baleares,provincial,"93,52","97,12",0,"0,00"
+2016,Islas Baleares,Baleares,provincial,0,0,"1.964,73",0
+2016,Canarias,"Palmas, Las",CCAA,"0,00","0,00",0,"0,00"
+2016,Canarias,"Palmas, Las",CCAA,0,0,"0,00",0
+2016,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2016,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2016,Canarias,"Palmas, Las",provincial,"110,82","76,06",0,"0,00"
+2016,Canarias,"Palmas, Las",provincial,0,0,"1.751,63",0
+2016,Canarias,"Tenerife, S.C.",CCAA,"0,00","0,00",0,"0,00"
+2016,Canarias,"Tenerife, S.C.",CCAA,0,0,"0,00",0
+2016,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2016,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2016,Canarias,"Tenerife, S.C.",provincial,"141,76","38,53",0,"0,00"
+2016,Canarias,"Tenerife, S.C.",provincial,0,0,"2.100,03",0
+2016,Cantabria,Cantabria,CCAA,"0,00","0,00",0,"0,00"
+2016,Cantabria,Cantabria,CCAA,0,0,"1.987,97",0
+2016,Cantabria,Cantabria,State,"254,91","2,95",0,"0,00"
+2016,Cantabria,Cantabria,State,0,0,"324,68",0
+2016,Cantabria,Cantabria,provincial,"0,00","0,00",0,"0,00"
+2016,Cantabria,Cantabria,provincial,0,0,"0,00",0
+2016,Castilla-La Mancha,Albacete,CCAA,"0,00","0,00",0,"0,00"
+2016,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2016,Castilla-La Mancha,Albacete,State,"281,28","0,00",0,"0,00"
+2016,Castilla-La Mancha,Albacete,State,0,0,"418,07",0
+2016,Castilla-La Mancha,Albacete,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla-La Mancha,Albacete,provincial,0,0,"1.407,00",0
+2016,Castilla-La Mancha,Ciudad Real,CCAA,"80,96","3,82",0,"0,00"
+2016,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2016,Castilla-La Mancha,Ciudad Real,State,"258,47","5,98",0,"0,00"
+2016,Castilla-La Mancha,Ciudad Real,State,0,0,"460,60",0
+2016,Castilla-La Mancha,Ciudad Real,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.724,00",0
+2016,Castilla-La Mancha,Cuenca,CCAA,"0,00","0,00",0,"0,00"
+2016,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2016,Castilla-La Mancha,Cuenca,State,"346,21","0,00",0,"49,83"
+2016,Castilla-La Mancha,Cuenca,State,0,0,"582,75",0
+2016,Castilla-La Mancha,Cuenca,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2016,Castilla-La Mancha,Guadalajara,CCAA,"9,26","0,00",0,"0,00"
+2016,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2016,Castilla-La Mancha,Guadalajara,State,"99,67","0,69",0,"24,02"
+2016,Castilla-La Mancha,Guadalajara,State,0,0,"291,78",0
+2016,Castilla-La Mancha,Guadalajara,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.568,00",0
+2016,Castilla-La Mancha,Toledo,CCAA,"146,31","0,00",0,"0,00"
+2016,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2016,Castilla-La Mancha,Toledo,State,"378,68","9,54",0,"140,27"
+2016,Castilla-La Mancha,Toledo,State,0,0,"363,85",0
+2016,Castilla-La Mancha,Toledo,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla-La Mancha,Toledo,provincial,0,0,"956,00",0
+2016,Castilla y León,Burgos,CCAA,"46,75","5,88",0,"0,00"
+2016,Castilla y León,Burgos,CCAA,0,0,"1.765,70",0
+2016,Castilla y León,Burgos,State,"209,14","19,18",0,"76,29"
+2016,Castilla y León,Burgos,State,0,0,"661,35",0
+2016,Castilla y León,Burgos,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Burgos,provincial,0,0,"2.289,44",0
+2016,Castilla y León,León,CCAA,"67,89","5,79",0,"0,00"
+2016,Castilla y León,León,CCAA,0,0,"1.715,20",0
+2016,Castilla y León,León,State,"231,66","17,18",0,"93,68"
+2016,Castilla y León,León,State,0,0,"588,61",0
+2016,Castilla y León,León,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,León,provincial,0,0,"3.310,32",0
+2016,Castilla y León,Palencia,CCAA,"62,30","0,00",0,"0,00"
+2016,Castilla y León,Palencia,CCAA,0,0,"1.468,39",0
+2016,Castilla y León,Palencia,State,"193,33","0,00",0,"0,00"
+2016,Castilla y León,Palencia,State,0,0,"247,01",0
+2016,Castilla y León,Palencia,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Palencia,provincial,0,0,"1.035,00",0
+2016,Castilla y León,Salamanca,CCAA,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Salamanca,CCAA,0,0,"1.263,45",0
+2016,Castilla y León,Salamanca,State,"300,43","8,19",0,"0,00"
+2016,Castilla y León,Salamanca,State,0,0,"264,53",0
+2016,Castilla y León,Salamanca,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Salamanca,provincial,0,0,"2.279,69",0
+2016,Castilla y León,Segovia,CCAA,"64,48","6,30",0,"0,00"
+2016,Castilla y León,Segovia,CCAA,0,0,"696,77",0
+2016,Castilla y León,Segovia,State,"47,04","1,86",0,"69,47"
+2016,Castilla y León,Segovia,State,0,0,"249,99",0
+2016,Castilla y León,Segovia,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Segovia,provincial,0,0,"1.229,35",0
+2016,Castilla y León,Soria,CCAA,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Soria,CCAA,0,0,"898,77",0
+2016,Castilla y León,Soria,State,"131,74","1,85",0,"0,00"
+2016,Castilla y León,Soria,State,0,0,"407,27",0
+2016,Castilla y León,Soria,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Soria,provincial,0,0,"1.889,85",0
+2016,Castilla y León,Valladolid,CCAA,"40,73","0,00",0,"0,00"
+2016,Castilla y León,Valladolid,CCAA,0,0,"1.046,92",0
+2016,Castilla y León,Valladolid,State,"261,84","16,45",0,"0,00"
+2016,Castilla y León,Valladolid,State,0,0,"268,69",0
+2016,Castilla y León,Valladolid,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Valladolid,provincial,0,0,"1.435,00",0
+2016,Castilla y León,Zamora,CCAA,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Zamora,CCAA,0,0,"1.139,92",0
+2016,Castilla y León,Zamora,State,"333,69","16,97",0,"0,00"
+2016,Castilla y León,Zamora,State,0,0,"421,90",0
+2016,Castilla y León,Zamora,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Zamora,provincial,0,0,"1.592,06",0
+2016,Castilla y León,Ávila,CCAA,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Ávila,CCAA,0,0,"987,57",0
+2016,Castilla y León,Ávila,State,"86,97","3,24",0,"37,40"
+2016,Castilla y León,Ávila,State,0,0,"346,39",0
+2016,Castilla y León,Ávila,provincial,"0,00","0,00",0,"0,00"
+2016,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2016,Cataluña,Barcelona,CCAA,"287,88","54,16",0,"159,45"
+2016,Cataluña,Barcelona,CCAA,0,0,"1.548,35",0
+2016,Cataluña,Barcelona,State,"142,73","1,05",0,"118,93"
+2016,Cataluña,Barcelona,State,0,0,"46,77",0
+2016,Cataluña,Barcelona,provincial,"0,00","0,00",0,"0,00"
+2016,Cataluña,Barcelona,provincial,0,0,"1.569,50",0
+2016,Cataluña,Gerona,CCAA,"90,00","21,83",0,"0,00"
+2016,Cataluña,Gerona,CCAA,0,0,"1.127,30",0
+2016,Cataluña,Gerona,State,"32,98","7,56",0,"92,62"
+2016,Cataluña,Gerona,State,0,0,"275,34",0
+2016,Cataluña,Gerona,provincial,"0,00","2,59",0,"0,00"
+2016,Cataluña,Gerona,provincial,0,0,"777,26",0
+2016,Cataluña,Lérida,CCAA,"28,38","0,00",0,"0,00"
+2016,Cataluña,Lérida,CCAA,0,0,"1.519,96",0
+2016,Cataluña,Lérida,State,"127,86","10,65",0,"60,47"
+2016,Cataluña,Lérida,State,0,0,"313,12",0
+2016,Cataluña,Lérida,provincial,"0,00","0,00",0,"0,00"
+2016,Cataluña,Lérida,provincial,0,0,"815,85",0
+2016,Cataluña,Tarragona,CCAA,"23,06","22,55",0,"10,59"
+2016,Cataluña,Tarragona,CCAA,0,0,"1.070,82",0
+2016,Cataluña,Tarragona,State,"89,97","27,89",0,"191,13"
+2016,Cataluña,Tarragona,State,0,0,"259,00",0
+2016,Cataluña,Tarragona,provincial,"0,00","6,22",0,"0,00"
+2016,Cataluña,Tarragona,provincial,0,0,"1.084,34",0
+2016,Ceuta,Ceuta,CCAA,"0,00","0,00",0,"0,00"
+2016,Ceuta,Ceuta,CCAA,0,0,"18,00",0
+2016,Ceuta,Ceuta,State,"0,00","1,37",0,"0,00"
+2016,Ceuta,Ceuta,State,0,0,"18,83",0
+2016,Ceuta,Ceuta,provincial,"0,00","0,00",0,"0,00"
+2016,Ceuta,Ceuta,provincial,0,0,"0,00",0
+2016,C. Valenciana,Alicante,CCAA,"15,51","57,78",0,"0,00"
+2016,C. Valenciana,Alicante,CCAA,0,0,"906,47",0
+2016,C. Valenciana,Alicante,State,"231,07","61,87",0,"159,46"
+2016,C. Valenciana,Alicante,State,0,0,"207,63",0
+2016,C. Valenciana,Alicante,provincial,"0,00","8,88",0,"0,00"
+2016,C. Valenciana,Alicante,provincial,0,0,"972,19",0
+2016,C. Valenciana,Castellón,CCAA,"46,04","45,83",0,"0,00"
+2016,C. Valenciana,Castellón,CCAA,0,0,"875,78",0
+2016,C. Valenciana,Castellón,State,"73,79","1,97",0,"119,88"
+2016,C. Valenciana,Castellón,State,0,0,"283,51",0
+2016,C. Valenciana,Castellón,provincial,"0,00","0,00",0,"0,00"
+2016,C. Valenciana,Castellón,provincial,0,0,"774,88",0
+2016,C. Valenciana,Valencia,CCAA,"86,02","48,43",0,"0,00"
+2016,C. Valenciana,Valencia,CCAA,0,0,"673,73",0
+2016,C. Valenciana,Valencia,State,"363,26","3,33",0,"87,78"
+2016,C. Valenciana,Valencia,State,0,0,"335,27",0
+2016,C. Valenciana,Valencia,provincial,"0,00","15,34",0,"0,00"
+2016,C. Valenciana,Valencia,provincial,0,0,"1.855,16",0
+2016,Extremadura,Badajoz,CCAA,"17,00","20,98",0,"0,00"
+2016,Extremadura,Badajoz,CCAA,0,0,"2.094,00",0
+2016,Extremadura,Badajoz,State,"242,12","14,97",0,"0,00"
+2016,Extremadura,Badajoz,State,0,0,"575,17",0
+2016,Extremadura,Badajoz,provincial,"0,00","0,00",0,"0,00"
+2016,Extremadura,Badajoz,provincial,0,0,"1.917,29",0
+2016,Extremadura,Cáceres,CCAA,"107,09","10,64",0,"0,00"
+2016,Extremadura,Cáceres,CCAA,0,0,"1.570,48",0
+2016,Extremadura,Cáceres,State,"337,00","20,98",0,"0,00"
+2016,Extremadura,Cáceres,State,0,0,"411,61",0
+2016,Extremadura,Cáceres,provincial,"0,00","0,00",0,"0,00"
+2016,Extremadura,Cáceres,provincial,0,0,"1.869,15",0
+2016,Galicia,"Coruña, A",CCAA,"126,86","2,55",0,"32,53"
+2016,Galicia,"Coruña, A",CCAA,0,0,"1.577,74",0
+2016,Galicia,"Coruña, A",State,"77,07","56,68",0,"146,32"
+2016,Galicia,"Coruña, A",State,0,0,"282,11",0
+2016,Galicia,"Coruña, A",provincial,"0,00","0,00",0,"0,00"
+2016,Galicia,"Coruña, A",provincial,0,0,"2.103,15",0
+2016,Galicia,Lugo,CCAA,"16,16","2,41",0,"0,00"
+2016,Galicia,Lugo,CCAA,0,0,"1.464,09",0
+2016,Galicia,Lugo,State,"234,80","12,33",0,"0,00"
+2016,Galicia,Lugo,State,0,0,"516,05",0
+2016,Galicia,Lugo,provincial,"0,00","0,00",0,"0,00"
+2016,Galicia,Lugo,provincial,0,0,"4.208,00",0
+2016,Galicia,Orense,CCAA,"47,97","3,07",0,"0,00"
+2016,Galicia,Orense,CCAA,0,0,"977,63",0
+2016,Galicia,Orense,State,"166,74","9,36",0,"0,00"
+2016,Galicia,Orense,State,0,0,"346,82",0
+2016,Galicia,Orense,provincial,"0,00","0,00",0,"0,00"
+2016,Galicia,Orense,provincial,0,0,"1.840,07",0
+2016,Galicia,Pontevedra,CCAA,"27,34","6,44",0,"20,98"
+2016,Galicia,Pontevedra,CCAA,0,0,"1.244,11",0
+2016,Galicia,Pontevedra,State,"81,29","9,60",0,"126,71"
+2016,Galicia,Pontevedra,State,0,0,"318,85",0
+2016,Galicia,Pontevedra,provincial,"0,00","0,00",0,"0,00"
+2016,Galicia,Pontevedra,provincial,0,0,"1.657,00",0
+2016,Madrid,Madrid,CCAA,"128,80","201,41",0,"0,00"
+2016,Madrid,Madrid,CCAA,0,0,"2.238,30",0
+2016,Madrid,Madrid,State,"481,13","7,80",0,"160,82"
+2016,Madrid,Madrid,State,0,0,"100,42",0
+2016,Madrid,Madrid,provincial,"0,00","0,00",0,"0,00"
+2016,Madrid,Madrid,provincial,0,0,"0,00",0
+2016,Melilla,Melilla,CCAA,"0,00","0,53",0,"0,00"
+2016,Melilla,Melilla,CCAA,0,0,"17,36",0
+2016,Melilla,Melilla,State,"0,00","1,02",0,"0,00"
+2016,Melilla,Melilla,State,0,0,"9,27",0
+2016,Melilla,Melilla,provincial,"0,00","0,00",0,"0,00"
+2016,Melilla,Melilla,provincial,0,0,"0,00",0
+2016,Murcia,Murcia,CCAA,"167,84","79,68",0,"0,00"
+2016,Murcia,Murcia,CCAA,0,0,"2.643,12",0
+2016,Murcia,Murcia,State,"290,26","11,30",0,"114,64"
+2016,Murcia,Murcia,State,0,0,"142,00",0
+2016,Murcia,Murcia,provincial,"0,00","0,00",0,"0,00"
+2016,Murcia,Murcia,provincial,0,0,"0,00",0
+2016,Navarra,Navarra,CCAA,"235,54","25,60",0,"105,07"
+2016,Navarra,Navarra,CCAA,0,0,"3.460,38",0
+2016,Navarra,Navarra,State,"0,00","0,00",0,"39,03"
+2016,Navarra,Navarra,State,0,0,"0,00",0
+2016,Navarra,Navarra,provincial,"0,00","0,00",0,"0,00"
+2016,Navarra,Navarra,provincial,0,0,"0,00",0
+2016,País Vasco,Guipúzcoa,CCAA,"0,00","0,00",0,"0,00"
+2016,País Vasco,Guipúzcoa,CCAA,0,0,"0,00",0
+2016,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2016,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2016,País Vasco,Guipúzcoa,provincial,"45,04","78,38",0,"107,20"
+2016,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2016,País Vasco,Vizcaya,CCAA,"0,00","0,00",0,"0,00"
+2016,País Vasco,Vizcaya,CCAA,0,0,"0,00",0
+2016,País Vasco,Vizcaya,State,"0,00","0,00",0,"22,40"
+2016,País Vasco,Vizcaya,State,0,0,"0,00",0
+2016,País Vasco,Vizcaya,provincial,"104,39","39,10",0,"50,00"
+2016,País Vasco,Vizcaya,provincial,0,0,"1.093,37",0
+2016,País Vasco,Álava,CCAA,"0,00","0,00",0,"0,00"
+2016,País Vasco,Álava,CCAA,0,0,"0,00",0
+2016,País Vasco,Álava,State,"0,00","0,00",0,"60,89"
+2016,País Vasco,Álava,State,0,0,"0,00",0
+2016,País Vasco,Álava,provincial,"91,97","10,61",0,"14,23"
+2016,País Vasco,Álava,provincial,0,0,"1.279,57",0
+2016,La Rioja,"Rioja, La",CCAA,"0,00","3,00",0,"0,00"
+2016,La Rioja,"Rioja, La",CCAA,0,0,"1.433,00",0
+2016,La Rioja,"Rioja, La",State,"62,13","1,15",0,"119,10"
+2016,La Rioja,"Rioja, La",State,0,0,"260,57",0
+2016,La Rioja,"Rioja, La",provincial,"0,00","0,00",0,"0,00"
+2016,La Rioja,"Rioja, La",provincial,0,0,"0,00",0
+2017,Andalucía,Almería,CCAA,"117,42","2,41",0,"0,00"
+2017,Andalucía,Almería,CCAA,0,0,"696,19",0
+2017,Andalucía,Almería,State,"203,50","1,12",0,"28,19"
+2017,Andalucía,Almería,State,0,0,"135,98",0
+2017,Andalucía,Almería,provincial,"0,00","0,00",0,"0,00"
+2017,Andalucía,Almería,provincial,0,0,"1.171,00",0
+2017,Andalucía,Cádiz,CCAA,"155,39","6,46",0,"0,00"
+2017,Andalucía,Cádiz,CCAA,0,0,"872,31",0
+2017,Andalucía,Cádiz,State,"120,13","33,43",0,"47,80"
+2017,Andalucía,Cádiz,State,0,0,"125,33",0
+2017,Andalucía,Cádiz,provincial,"0,00","0,00",0,"0,00"
+2017,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2017,Andalucía,Córdoba,CCAA,"9,97","17,44",0,"0,00"
+2017,Andalucía,Córdoba,CCAA,0,0,"1.619,52",0
+2017,Andalucía,Córdoba,State,"176,73","0,65",0,"0,00"
+2017,Andalucía,Córdoba,State,0,0,"423,69",0
+2017,Andalucía,Córdoba,provincial,"0,00","0,00",0,"0,00"
+2017,Andalucía,Córdoba,provincial,0,0,"1.808,08",0
+2017,Andalucía,Granada,CCAA,"235,69","11,81",0,"0,00"
+2017,Andalucía,Granada,CCAA,0,0,"1.384,28",0
+2017,Andalucía,Granada,State,"189,88","1,96",0,"0,00"
+2017,Andalucía,Granada,State,0,0,"194,58",0
+2017,Andalucía,Granada,provincial,"0,00","4,07",0,"0,00"
+2017,Andalucía,Granada,provincial,0,0,"1.260,62",0
+2017,Andalucía,Huelva,CCAA,"33,29","6,42",0,"0,00"
+2017,Andalucía,Huelva,CCAA,0,0,"729,71",0
+2017,Andalucía,Huelva,State,"136,42","11,78",0,"0,00"
+2017,Andalucía,Huelva,State,0,0,"315,58",0
+2017,Andalucía,Huelva,provincial,"0,00","0,00",0,"0,00"
+2017,Andalucía,Huelva,provincial,0,0,"840,01",0
+2017,Andalucía,Jaén,CCAA,"73,39","5,70",0,"0,00"
+2017,Andalucía,Jaén,CCAA,0,0,"1.399,36",0
+2017,Andalucía,Jaén,State,"201,97","0,00",0,"0,00"
+2017,Andalucía,Jaén,State,0,0,"253,06",0
+2017,Andalucía,Jaén,provincial,"0,00","0,00",0,"0,00"
+2017,Andalucía,Jaén,provincial,0,0,"901,76",0
+2017,Andalucía,Málaga,CCAA,"97,10","11,36",0,"0,00"
+2017,Andalucía,Málaga,CCAA,0,0,"1.177,66",0
+2017,Andalucía,Málaga,State,"218,74","23,49",0,"122,09"
+2017,Andalucía,Málaga,State,0,0,"37,56",0
+2017,Andalucía,Málaga,provincial,"0,00","0,00",0,"0,00"
+2017,Andalucía,Málaga,provincial,0,0,"859,60",0
+2017,Andalucía,Sevilla,CCAA,"156,77","41,45",0,"0,00"
+2017,Andalucía,Sevilla,CCAA,0,0,"1.706,41",0
+2017,Andalucía,Sevilla,State,"234,35","18,97",0,"50,95"
+2017,Andalucía,Sevilla,State,0,0,"142,46",0
+2017,Andalucía,Sevilla,provincial,"0,00","9,74",0,"0,00"
+2017,Andalucía,Sevilla,provincial,0,0,"1.467,89",0
+2017,Aragón,Huesca,CCAA,"0,00","0,00",0,"0,00"
+2017,Aragón,Huesca,CCAA,0,0,"2.076,00",0
+2017,Aragón,Huesca,State,"156,53","0,00",0,"49,71"
+2017,Aragón,Huesca,State,0,0,"685,07",0
+2017,Aragón,Huesca,provincial,"0,00","0,00",0,"0,00"
+2017,Aragón,Huesca,provincial,0,0,"1.386,00",0
+2017,Aragón,Teruel,CCAA,"0,00","0,00",0,"0,00"
+2017,Aragón,Teruel,CCAA,0,0,"1.628,21",0
+2017,Aragón,Teruel,State,"140,12","1,34",0,"0,00"
+2017,Aragón,Teruel,State,0,0,"544,78",0
+2017,Aragón,Teruel,provincial,"0,00","0,00",0,"0,00"
+2017,Aragón,Teruel,provincial,0,0,"963,00",0
+2017,Aragón,Zaragoza,CCAA,"5,28","9,41",0,"0,00"
+2017,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2017,Aragón,Zaragoza,State,"329,75","42,40",0,"107,02"
+2017,Aragón,Zaragoza,State,0,0,"504,74",0
+2017,Aragón,Zaragoza,provincial,"0,00","3,15",0,"0,00"
+2017,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2017,Asturias,Asturias,CCAA,"74,45","7,02",0,"0,00"
+2017,Asturias,Asturias,CCAA,0,0,"4.111,21",0
+2017,Asturias,Asturias,State,"357,87","5,37",0,"21,86"
+2017,Asturias,Asturias,State,0,0,"466,00",0
+2017,Asturias,Asturias,provincial,"0,00","0,00",0,"0,00"
+2017,Asturias,Asturias,provincial,0,0,"0,00",0
+2017,Islas Baleares,Baleares,CCAA,"0,00","0,00",0,"0,00"
+2017,Islas Baleares,Baleares,CCAA,0,0,"0,00",0
+2017,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2017,Islas Baleares,Baleares,State,0,0,"0,00",0
+2017,Islas Baleares,Baleares,provincial,"93,52","97,11",0,"0,00"
+2017,Islas Baleares,Baleares,provincial,0,0,"2.106,07",0
+2017,Canarias,"Palmas, Las",CCAA,"0,00","0,00",0,"0,00"
+2017,Canarias,"Palmas, Las",CCAA,0,0,"0,00",0
+2017,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2017,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2017,Canarias,"Palmas, Las",provincial,"128,93","76,06",0,"0,00"
+2017,Canarias,"Palmas, Las",provincial,0,0,"1.757,31",0
+2017,Canarias,"Tenerife, S.C.",CCAA,"0,00","0,00",0,"0,00"
+2017,Canarias,"Tenerife, S.C.",CCAA,0,0,"0,00",0
+2017,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2017,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2017,Canarias,"Tenerife, S.C.",provincial,"141,76","44,54",0,"0,00"
+2017,Canarias,"Tenerife, S.C.",provincial,0,0,"2.099,95",0
+2017,Cantabria,Cantabria,CCAA,"0,00","0,00",0,"0,00"
+2017,Cantabria,Cantabria,CCAA,0,0,"1.987,97",0
+2017,Cantabria,Cantabria,State,"254,91","2,95",0,"0,00"
+2017,Cantabria,Cantabria,State,0,0,"320,45",0
+2017,Cantabria,Cantabria,provincial,"0,00","0,00",0,"0,00"
+2017,Cantabria,Cantabria,provincial,0,0,"0,00",0
+2017,Castilla-La Mancha,Albacete,CCAA,"0,00","3,97",0,"0,00"
+2017,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2017,Castilla-La Mancha,Albacete,State,"281,28","0,00",0,"0,00"
+2017,Castilla-La Mancha,Albacete,State,0,0,"418,07",0
+2017,Castilla-La Mancha,Albacete,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla-La Mancha,Albacete,provincial,0,0,"1.407,00",0
+2017,Castilla-La Mancha,Ciudad Real,CCAA,"80,96","3,82",0,"0,00"
+2017,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2017,Castilla-La Mancha,Ciudad Real,State,"258,47","5,98",0,"0,00"
+2017,Castilla-La Mancha,Ciudad Real,State,0,0,"457,90",0
+2017,Castilla-La Mancha,Ciudad Real,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.727,00",0
+2017,Castilla-La Mancha,Cuenca,CCAA,"0,00","0,00",0,"0,00"
+2017,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2017,Castilla-La Mancha,Cuenca,State,"346,21","0,00",0,"49,83"
+2017,Castilla-La Mancha,Cuenca,State,0,0,"582,75",0
+2017,Castilla-La Mancha,Cuenca,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2017,Castilla-La Mancha,Guadalajara,CCAA,"9,26","0,00",0,"0,00"
+2017,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2017,Castilla-La Mancha,Guadalajara,State,"99,67","0,69",0,"24,02"
+2017,Castilla-La Mancha,Guadalajara,State,0,0,"291,78",0
+2017,Castilla-La Mancha,Guadalajara,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.568,00",0
+2017,Castilla-La Mancha,Toledo,CCAA,"146,31","0,00",0,"0,00"
+2017,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2017,Castilla-La Mancha,Toledo,State,"378,68","9,54",0,"140,27"
+2017,Castilla-La Mancha,Toledo,State,0,0,"363,85",0
+2017,Castilla-La Mancha,Toledo,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla-La Mancha,Toledo,provincial,0,0,"956,00",0
+2017,Castilla y León,Burgos,CCAA,"46,75","5,88",0,"0,00"
+2017,Castilla y León,Burgos,CCAA,0,0,"1.767,35",0
+2017,Castilla y León,Burgos,State,"211,37","19,18",0,"76,29"
+2017,Castilla y León,Burgos,State,0,0,"673,39",0
+2017,Castilla y León,Burgos,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Burgos,provincial,0,0,"2.289,44",0
+2017,Castilla y León,León,CCAA,"68,14","5,79",0,"0,00"
+2017,Castilla y León,León,CCAA,0,0,"1.705,33",0
+2017,Castilla y León,León,State,"231,66","15,79",0,"93,68"
+2017,Castilla y León,León,State,0,0,"583,33",0
+2017,Castilla y León,León,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,León,provincial,0,0,"3.310,32",0
+2017,Castilla y León,Palencia,CCAA,"62,30","0,00",0,"0,00"
+2017,Castilla y León,Palencia,CCAA,0,0,"1.468,39",0
+2017,Castilla y León,Palencia,State,"193,33","0,00",0,"0,00"
+2017,Castilla y León,Palencia,State,0,0,"247,01",0
+2017,Castilla y León,Palencia,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Palencia,provincial,0,0,"1.035,08",0
+2017,Castilla y León,Salamanca,CCAA,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Salamanca,CCAA,0,0,"1.263,45",0
+2017,Castilla y León,Salamanca,State,"300,43","8,64",0,"0,00"
+2017,Castilla y León,Salamanca,State,0,0,"264,08",0
+2017,Castilla y León,Salamanca,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Salamanca,provincial,0,0,"2.279,69",0
+2017,Castilla y León,Segovia,CCAA,"64,48","6,30",0,"0,00"
+2017,Castilla y León,Segovia,CCAA,0,0,"694,77",0
+2017,Castilla y León,Segovia,State,"47,04","1,86",0,"69,47"
+2017,Castilla y León,Segovia,State,0,0,"249,99",0
+2017,Castilla y León,Segovia,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Segovia,provincial,0,0,"1.229,35",0
+2017,Castilla y León,Soria,CCAA,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Soria,CCAA,0,0,"898,81",0
+2017,Castilla y León,Soria,State,"131,74","1,85",0,"0,00"
+2017,Castilla y León,Soria,State,0,0,"407,27",0
+2017,Castilla y León,Soria,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Soria,provincial,0,0,"1.891,95",0
+2017,Castilla y León,Valladolid,CCAA,"40,73","0,00",0,"0,00"
+2017,Castilla y León,Valladolid,CCAA,0,0,"1.045,33",0
+2017,Castilla y León,Valladolid,State,"261,84","16,45",0,"0,00"
+2017,Castilla y León,Valladolid,State,0,0,"268,69",0
+2017,Castilla y León,Valladolid,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Valladolid,provincial,0,0,"1.435,00",0
+2017,Castilla y León,Zamora,CCAA,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Zamora,CCAA,0,0,"1.148,48",0
+2017,Castilla y León,Zamora,State,"333,69","16,97",0,"0,00"
+2017,Castilla y León,Zamora,State,0,0,"421,90",0
+2017,Castilla y León,Zamora,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Zamora,provincial,0,0,"1.571,00",0
+2017,Castilla y León,Ávila,CCAA,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Ávila,CCAA,0,0,"986,37",0
+2017,Castilla y León,Ávila,State,"86,97","3,24",0,"37,40"
+2017,Castilla y León,Ávila,State,0,0,"346,39",0
+2017,Castilla y León,Ávila,provincial,"0,00","0,00",0,"0,00"
+2017,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2017,Cataluña,Barcelona,CCAA,"287,88","54,16",0,"159,45"
+2017,Cataluña,Barcelona,CCAA,0,0,"1.544,83",0
+2017,Cataluña,Barcelona,State,"142,73","1,05",0,"118,93"
+2017,Cataluña,Barcelona,State,0,0,"44,04",0
+2017,Cataluña,Barcelona,provincial,"0,00","0,00",0,"0,00"
+2017,Cataluña,Barcelona,provincial,0,0,"1.569,50",0
+2017,Cataluña,Gerona,CCAA,"90,00","21,83",0,"0,00"
+2017,Cataluña,Gerona,CCAA,0,0,"1.127,08",0
+2017,Cataluña,Gerona,State,"32,98","7,56",0,"92,62"
+2017,Cataluña,Gerona,State,0,0,"275,34",0
+2017,Cataluña,Gerona,provincial,"0,00","2,59",0,"0,00"
+2017,Cataluña,Gerona,provincial,0,0,"782,81",0
+2017,Cataluña,Lérida,CCAA,"28,38","0,00",0,"0,00"
+2017,Cataluña,Lérida,CCAA,0,0,"1.519,96",0
+2017,Cataluña,Lérida,State,"133,84","9,71",0,"60,47"
+2017,Cataluña,Lérida,State,0,0,"314,06",0
+2017,Cataluña,Lérida,provincial,"0,00","0,00",0,"0,00"
+2017,Cataluña,Lérida,provincial,0,0,"812,96",0
+2017,Cataluña,Tarragona,CCAA,"23,06","22,55",0,"10,59"
+2017,Cataluña,Tarragona,CCAA,0,0,"1.071,39",0
+2017,Cataluña,Tarragona,State,"89,37","13,05",0,"191,13"
+2017,Cataluña,Tarragona,State,0,0,"270,03",0
+2017,Cataluña,Tarragona,provincial,"0,00","8,10",0,"0,00"
+2017,Cataluña,Tarragona,provincial,0,0,"1.080,39",0
+2017,Ceuta,Ceuta,CCAA,"0,00","0,00",0,"0,00"
+2017,Ceuta,Ceuta,CCAA,0,0,"18,00",0
+2017,Ceuta,Ceuta,State,"0,00","1,37",0,"0,00"
+2017,Ceuta,Ceuta,State,0,0,"18,83",0
+2017,Ceuta,Ceuta,provincial,"0,00","0,00",0,"0,00"
+2017,Ceuta,Ceuta,provincial,0,0,"0,00",0
+2017,C. Valenciana,Alicante,CCAA,"15,63","57,89",0,"0,00"
+2017,C. Valenciana,Alicante,CCAA,0,0,"909,86",0
+2017,C. Valenciana,Alicante,State,"231,07","61,87",0,"159,46"
+2017,C. Valenciana,Alicante,State,0,0,"207,63",0
+2017,C. Valenciana,Alicante,provincial,"0,00","8,88",0,"0,00"
+2017,C. Valenciana,Alicante,provincial,0,0,"972,19",0
+2017,C. Valenciana,Castellón,CCAA,"46,04","45,82",0,"0,00"
+2017,C. Valenciana,Castellón,CCAA,0,0,"875,71",0
+2017,C. Valenciana,Castellón,State,"72,54","2,22",0,"119,88"
+2017,C. Valenciana,Castellón,State,0,0,"282,35",0
+2017,C. Valenciana,Castellón,provincial,"0,00","0,00",0,"0,00"
+2017,C. Valenciana,Castellón,provincial,0,0,"774,88",0
+2017,C. Valenciana,Valencia,CCAA,"85,99","51,72",0,"0,00"
+2017,C. Valenciana,Valencia,CCAA,0,0,"676,36",0
+2017,C. Valenciana,Valencia,State,"367,86","3,33",0,"87,78"
+2017,C. Valenciana,Valencia,State,0,0,"335,27",0
+2017,C. Valenciana,Valencia,provincial,"0,00","15,34",0,"0,00"
+2017,C. Valenciana,Valencia,provincial,0,0,"1.855,16",0
+2017,Extremadura,Badajoz,CCAA,"17,00","21,00",0,"0,00"
+2017,Extremadura,Badajoz,CCAA,0,0,"2.094,21",0
+2017,Extremadura,Badajoz,State,"242,12","14,97",0,"0,00"
+2017,Extremadura,Badajoz,State,0,0,"575,17",0
+2017,Extremadura,Badajoz,provincial,"0,00","0,00",0,"0,00"
+2017,Extremadura,Badajoz,provincial,0,0,"1.921,12",0
+2017,Extremadura,Cáceres,CCAA,"107,10","12,70",0,"0,00"
+2017,Extremadura,Cáceres,CCAA,0,0,"1.568,43",0
+2017,Extremadura,Cáceres,State,"337,00","20,98",0,"0,00"
+2017,Extremadura,Cáceres,State,0,0,"411,61",0
+2017,Extremadura,Cáceres,provincial,"0,00","0,00",0,"0,00"
+2017,Extremadura,Cáceres,provincial,0,0,"1.869,15",0
+2017,Galicia,"Coruña, A",CCAA,"126,86","2,55",0,"32,53"
+2017,Galicia,"Coruña, A",CCAA,0,0,"1.571,01",0
+2017,Galicia,"Coruña, A",State,"77,07","55,33",0,"146,32"
+2017,Galicia,"Coruña, A",State,0,0,"277,99",0
+2017,Galicia,"Coruña, A",provincial,"0,00","0,00",0,"0,00"
+2017,Galicia,"Coruña, A",provincial,0,0,"2.103,15",0
+2017,Galicia,Lugo,CCAA,"16,16","2,41",0,"0,00"
+2017,Galicia,Lugo,CCAA,0,0,"1.471,96",0
+2017,Galicia,Lugo,State,"234,80","12,33",0,"0,00"
+2017,Galicia,Lugo,State,0,0,"516,05",0
+2017,Galicia,Lugo,provincial,"0,00","0,00",0,"0,00"
+2017,Galicia,Lugo,provincial,0,0,"4.217,00",0
+2017,Galicia,Orense,CCAA,"47,97","3,07",0,"0,00"
+2017,Galicia,Orense,CCAA,0,0,"977,63",0
+2017,Galicia,Orense,State,"166,74","9,36",0,"0,00"
+2017,Galicia,Orense,State,0,0,"346,82",0
+2017,Galicia,Orense,provincial,"0,00","0,00",0,"0,00"
+2017,Galicia,Orense,provincial,0,0,"1.840,07",0
+2017,Galicia,Pontevedra,CCAA,"27,34","6,44",0,"20,98"
+2017,Galicia,Pontevedra,CCAA,0,0,"1.241,13",0
+2017,Galicia,Pontevedra,State,"81,29","9,14",0,"126,71"
+2017,Galicia,Pontevedra,State,0,0,"318,85",0
+2017,Galicia,Pontevedra,provincial,"0,00","0,00",0,"0,00"
+2017,Galicia,Pontevedra,provincial,0,0,"1.691,58",0
+2017,Madrid,Madrid,CCAA,"128,80","201,41",0,"0,00"
+2017,Madrid,Madrid,CCAA,0,0,"2.238,30",0
+2017,Madrid,Madrid,State,"481,13","7,20",0,"160,82"
+2017,Madrid,Madrid,State,0,0,"100,42",0
+2017,Madrid,Madrid,provincial,"0,00","0,00",0,"0,00"
+2017,Madrid,Madrid,provincial,0,0,"0,00",0
+2017,Melilla,Melilla,CCAA,"0,00","0,53",0,"0,00"
+2017,Melilla,Melilla,CCAA,0,0,"17,36",0
+2017,Melilla,Melilla,State,"0,00","0,00",0,"0,00"
+2017,Melilla,Melilla,State,0,0,"9,81",0
+2017,Melilla,Melilla,provincial,"0,00","0,00",0,"0,00"
+2017,Melilla,Melilla,provincial,0,0,"0,00",0
+2017,Murcia,Murcia,CCAA,"167,84","79,68",0,"0,00"
+2017,Murcia,Murcia,CCAA,0,0,"2.643,12",0
+2017,Murcia,Murcia,State,"313,50","11,30",0,"114,64"
+2017,Murcia,Murcia,State,0,0,"138,11",0
+2017,Murcia,Murcia,provincial,"0,00","0,00",0,"0,00"
+2017,Murcia,Murcia,provincial,0,0,"0,00",0
+2017,Navarra,Navarra,CCAA,"235,54","25,60",0,"105,07"
+2017,Navarra,Navarra,CCAA,0,0,"3.454,14",0
+2017,Navarra,Navarra,State,"0,00","0,00",0,"39,03"
+2017,Navarra,Navarra,State,0,0,"0,00",0
+2017,Navarra,Navarra,provincial,"0,00","0,00",0,"0,00"
+2017,Navarra,Navarra,provincial,0,0,"0,00",0
+2017,País Vasco,Guipúzcoa,CCAA,"0,00","0,00",0,"0,00"
+2017,País Vasco,Guipúzcoa,CCAA,0,0,"0,00",0
+2017,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2017,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2017,País Vasco,Guipúzcoa,provincial,"45,04","78,38",0,"107,20"
+2017,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2017,País Vasco,Vizcaya,CCAA,"0,00","0,00",0,"0,00"
+2017,País Vasco,Vizcaya,CCAA,0,0,"0,00",0
+2017,País Vasco,Vizcaya,State,"0,00","0,00",0,"22,40"
+2017,País Vasco,Vizcaya,State,0,0,"0,00",0
+2017,País Vasco,Vizcaya,provincial,"104,39","38,60",0,"50,00"
+2017,País Vasco,Vizcaya,provincial,0,0,"1.077,58",0
+2017,País Vasco,Álava,CCAA,"0,00","0,00",0,"0,00"
+2017,País Vasco,Álava,CCAA,0,0,"0,00",0
+2017,País Vasco,Álava,State,"0,00","0,00",0,"60,89"
+2017,País Vasco,Álava,State,0,0,"0,00",0
+2017,País Vasco,Álava,provincial,"91,97","10,61",0,"14,23"
+2017,País Vasco,Álava,provincial,0,0,"1.276,27",0
+2017,La Rioja,"Rioja, La",CCAA,"0,00","3,00",0,"0,00"
+2017,La Rioja,"Rioja, La",CCAA,0,0,"1.442,00",0
+2017,La Rioja,"Rioja, La",State,"62,13","1,15",0,"119,10"
+2017,La Rioja,"Rioja, La",State,0,0,"250,78",0
+2017,La Rioja,"Rioja, La",provincial,"0,00","0,00",0,"0,00"
+2017,La Rioja,"Rioja, La",provincial,0,0,"0,00",0
+2018,Andalucía,Almería,CCAA,"117,42","2,41",0,"0,00"
+2018,Andalucía,Almería,CCAA,0,0,"696,19",0
+2018,Andalucía,Almería,State,"204,00","1,00",0,"28,00"
+2018,Andalucía,Almería,State,0,0,"136,00",0
+2018,Andalucía,Almería,provincial,"0,00","0,00",0,"0,00"
+2018,Andalucía,Almería,provincial,0,0,"1.226,00",0
+2018,Andalucía,Cádiz,CCAA,"155,39","6,46",0,"0,00"
+2018,Andalucía,Cádiz,CCAA,0,0,"871,79",0
+2018,Andalucía,Cádiz,State,"120,00","33,00",0,"48,00"
+2018,Andalucía,Cádiz,State,0,0,"125,00",0
+2018,Andalucía,Cádiz,provincial,"0,00","0,00",0,"0,00"
+2018,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2018,Andalucía,Córdoba,CCAA,"9,97","17,44",0,"0,00"
+2018,Andalucía,Córdoba,CCAA,0,0,"1.619,52",0
+2018,Andalucía,Córdoba,State,"178,00","1,00",0,"0,00"
+2018,Andalucía,Córdoba,State,0,0,"425,00",0
+2018,Andalucía,Córdoba,provincial,"0,00","0,00",0,"0,00"
+2018,Andalucía,Córdoba,provincial,0,0,"1.807,19",0
+2018,Andalucía,Granada,CCAA,"235,69","11,81",0,"0,00"
+2018,Andalucía,Granada,CCAA,0,0,"1.384,25",0
+2018,Andalucía,Granada,State,"190,00","2,00",0,"0,00"
+2018,Andalucía,Granada,State,0,0,"191,00",0
+2018,Andalucía,Granada,provincial,"0,00","4,07",0,"0,00"
+2018,Andalucía,Granada,provincial,0,0,"1.260,63",0
+2018,Andalucía,Huelva,CCAA,"33,29","6,42",0,"0,00"
+2018,Andalucía,Huelva,CCAA,0,0,"730,20",0
+2018,Andalucía,Huelva,State,"136,00","12,00",0,"0,00"
+2018,Andalucía,Huelva,State,0,0,"316,00",0
+2018,Andalucía,Huelva,provincial,"0,00","0,00",0,"0,00"
+2018,Andalucía,Huelva,provincial,0,0,"840,01",0
+2018,Andalucía,Jaén,CCAA,"73,39","5,70",0,"0,00"
+2018,Andalucía,Jaén,CCAA,0,0,"1.399,36",0
+2018,Andalucía,Jaén,State,"202,00","0,00",0,"0,00"
+2018,Andalucía,Jaén,State,0,0,"253,00",0
+2018,Andalucía,Jaén,provincial,"0,00","0,00",0,"0,00"
+2018,Andalucía,Jaén,provincial,0,0,"905,88",0
+2018,Andalucía,Málaga,CCAA,"97,10","11,36",0,"0,00"
+2018,Andalucía,Málaga,CCAA,0,0,"1.170,09",0
+2018,Andalucía,Málaga,State,"219,00","24,00",0,"122,00"
+2018,Andalucía,Málaga,State,0,0,"38,00",0
+2018,Andalucía,Málaga,provincial,"0,00","0,00",0,"0,00"
+2018,Andalucía,Málaga,provincial,0,0,"859,60",0
+2018,Andalucía,Sevilla,CCAA,"156,77","41,45",0,"0,00"
+2018,Andalucía,Sevilla,CCAA,0,0,"1.707,85",0
+2018,Andalucía,Sevilla,State,"249,00","19,00",0,"51,00"
+2018,Andalucía,Sevilla,State,0,0,"140,00",0
+2018,Andalucía,Sevilla,provincial,"0,00","15,83",0,"0,00"
+2018,Andalucía,Sevilla,provincial,0,0,"1.461,46",0
+2018,Aragón,Huesca,CCAA,"0,00","0,00",0,"0,00"
+2018,Aragón,Huesca,CCAA,0,0,"2.076,00",0
+2018,Aragón,Huesca,State,"161,00","0,00",0,"50,00"
+2018,Aragón,Huesca,State,0,0,"679,00",0
+2018,Aragón,Huesca,provincial,"0,00","0,00",0,"0,00"
+2018,Aragón,Huesca,provincial,0,0,"1.386,00",0
+2018,Aragón,Teruel,CCAA,"0,00","0,00",0,"0,00"
+2018,Aragón,Teruel,CCAA,0,0,"1.628,21",0
+2018,Aragón,Teruel,State,"140,00","1,00",0,"0,00"
+2018,Aragón,Teruel,State,0,0,"545,00",0
+2018,Aragón,Teruel,provincial,"0,00","0,00",0,"0,00"
+2018,Aragón,Teruel,provincial,0,0,"980,00",0
+2018,Aragón,Zaragoza,CCAA,"5,28","9,41",0,"0,00"
+2018,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2018,Aragón,Zaragoza,State,"330,00","43,00",0,"107,00"
+2018,Aragón,Zaragoza,State,0,0,"493,00",0
+2018,Aragón,Zaragoza,provincial,"0,00","3,15",0,"0,00"
+2018,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2018,Asturias,Asturias,CCAA,"74,45","7,02",0,"0,00"
+2018,Asturias,Asturias,CCAA,0,0,"4.111,21",0
+2018,Asturias,Asturias,State,"358,00","5,00",0,"22,00"
+2018,Asturias,Asturias,State,0,0,"466,00",0
+2018,Asturias,Asturias,provincial,"0,00","0,00",0,"0,00"
+2018,Asturias,Asturias,provincial,0,0,"0,00",0
+2018,Islas Baleares,Baleares,CCAA,"0,00","0,00",0,"0,00"
+2018,Islas Baleares,Baleares,CCAA,0,0,"0,00",0
+2018,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2018,Islas Baleares,Baleares,State,0,0,"0,00",0
+2018,Islas Baleares,Baleares,provincial,"93,52","97,11",0,"0,00"
+2018,Islas Baleares,Baleares,provincial,0,0,"2.106,07",0
+2018,Canarias,"Palmas, Las",CCAA,"0,00","0,00",0,"0,00"
+2018,Canarias,"Palmas, Las",CCAA,0,0,"0,00",0
+2018,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2018,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2018,Canarias,"Palmas, Las",provincial,"134,51","76,06",0,"0,00"
+2018,Canarias,"Palmas, Las",provincial,0,0,"1.757,31",0
+2018,Canarias,"Tenerife, S.C.",CCAA,"0,00","0,00",0,"0,00"
+2018,Canarias,"Tenerife, S.C.",CCAA,0,0,"0,00",0
+2018,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2018,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2018,Canarias,"Tenerife, S.C.",provincial,"141,76","44,54",0,"0,00"
+2018,Canarias,"Tenerife, S.C.",provincial,0,0,"1.978,59",0
+2018,Cantabria,Cantabria,CCAA,"0,00","0,00",0,"0,00"
+2018,Cantabria,Cantabria,CCAA,0,0,"1.984,34",0
+2018,Cantabria,Cantabria,State,"255,00","3,00",0,"0,00"
+2018,Cantabria,Cantabria,State,0,0,"320,00",0
+2018,Cantabria,Cantabria,provincial,"0,00","0,00",0,"0,00"
+2018,Cantabria,Cantabria,provincial,0,0,"0,00",0
+2018,Castilla-La Mancha,Albacete,CCAA,"0,00","3,97",0,"0,00"
+2018,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2018,Castilla-La Mancha,Albacete,State,"279,00","0,00",0,"0,00"
+2018,Castilla-La Mancha,Albacete,State,0,0,"418,00",0
+2018,Castilla-La Mancha,Albacete,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla-La Mancha,Albacete,provincial,0,0,"1.404,00",0
+2018,Castilla-La Mancha,Ciudad Real,CCAA,"80,96","3,82",0,"0,00"
+2018,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2018,Castilla-La Mancha,Ciudad Real,State,"262,00","6,00",0,"0,00"
+2018,Castilla-La Mancha,Ciudad Real,State,0,0,"461,00",0
+2018,Castilla-La Mancha,Ciudad Real,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.727,00",0
+2018,Castilla-La Mancha,Cuenca,CCAA,"0,00","0,00",0,"0,00"
+2018,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2018,Castilla-La Mancha,Cuenca,State,"346,00","0,00",0,"50,00"
+2018,Castilla-La Mancha,Cuenca,State,0,0,"583,00",0
+2018,Castilla-La Mancha,Cuenca,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2018,Castilla-La Mancha,Guadalajara,CCAA,"9,26","0,00",0,"0,00"
+2018,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2018,Castilla-La Mancha,Guadalajara,State,"100,00","1,00",0,"24,00"
+2018,Castilla-La Mancha,Guadalajara,State,0,0,"292,00",0
+2018,Castilla-La Mancha,Guadalajara,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.568,00",0
+2018,Castilla-La Mancha,Toledo,CCAA,"146,31","0,00",0,"0,00"
+2018,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2018,Castilla-La Mancha,Toledo,State,"379,00","10,00",0,"140,00"
+2018,Castilla-La Mancha,Toledo,State,0,0,"361,00",0
+2018,Castilla-La Mancha,Toledo,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla-La Mancha,Toledo,provincial,0,0,"956,00",0
+2018,Castilla y León,Burgos,CCAA,"46,75","5,82",0,"0,00"
+2018,Castilla y León,Burgos,CCAA,0,0,"1.767,15",0
+2018,Castilla y León,Burgos,State,"288,00","19,00",0,"0,00"
+2018,Castilla y León,Burgos,State,0,0,"673,00",0
+2018,Castilla y León,Burgos,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Burgos,provincial,0,0,"2.289,44",0
+2018,Castilla y León,León,CCAA,"68,14","5,79",0,"0,00"
+2018,Castilla y León,León,CCAA,0,0,"1.705,33",0
+2018,Castilla y León,León,State,"252,00","16,00",0,"94,00"
+2018,Castilla y León,León,State,0,0,"583,00",0
+2018,Castilla y León,León,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,León,provincial,0,0,"3.310,32",0
+2018,Castilla y León,Palencia,CCAA,"62,05","0,00",0,"0,00"
+2018,Castilla y León,Palencia,CCAA,0,0,"1.468,39",0
+2018,Castilla y León,Palencia,State,"193,00","0,00",0,"0,00"
+2018,Castilla y León,Palencia,State,0,0,"247,00",0
+2018,Castilla y León,Palencia,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Palencia,provincial,0,0,"1.035,08",0
+2018,Castilla y León,Salamanca,CCAA,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Salamanca,CCAA,0,0,"1.263,45",0
+2018,Castilla y León,Salamanca,State,"300,00","9,00",0,"0,00"
+2018,Castilla y León,Salamanca,State,0,0,"271,00",0
+2018,Castilla y León,Salamanca,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Salamanca,provincial,0,0,"2.301,29",0
+2018,Castilla y León,Segovia,CCAA,"64,48","0,00",0,"0,00"
+2018,Castilla y León,Segovia,CCAA,0,0,"700,67",0
+2018,Castilla y León,Segovia,State,"47,00","2,00",0,"70,00"
+2018,Castilla y León,Segovia,State,0,0,"251,00",0
+2018,Castilla y León,Segovia,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Segovia,provincial,0,0,"1.229,35",0
+2018,Castilla y León,Soria,CCAA,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Soria,CCAA,0,0,"898,96",0
+2018,Castilla y León,Soria,State,"132,00","2,00",0,"0,00"
+2018,Castilla y León,Soria,State,0,0,"407,00",0
+2018,Castilla y León,Soria,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Soria,provincial,0,0,"1.890,08",0
+2018,Castilla y León,Valladolid,CCAA,"40,73","0,00",0,"0,00"
+2018,Castilla y León,Valladolid,CCAA,0,0,"1.045,32",0
+2018,Castilla y León,Valladolid,State,"260,00","16,00",0,"0,00"
+2018,Castilla y León,Valladolid,State,0,0,"269,00",0
+2018,Castilla y León,Valladolid,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Valladolid,provincial,0,0,"1.435,00",0
+2018,Castilla y León,Zamora,CCAA,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Zamora,CCAA,0,0,"1.146,01",0
+2018,Castilla y León,Zamora,State,"337,00","17,00",0,"0,00"
+2018,Castilla y León,Zamora,State,0,0,"420,00",0
+2018,Castilla y León,Zamora,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Zamora,provincial,0,0,"1.571,00",0
+2018,Castilla y León,Ávila,CCAA,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Ávila,CCAA,0,0,"986,37",0
+2018,Castilla y León,Ávila,State,"87,00","3,00",0,"37,00"
+2018,Castilla y León,Ávila,State,0,0,"345,00",0
+2018,Castilla y León,Ávila,provincial,"0,00","0,00",0,"0,00"
+2018,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2018,Cataluña,Barcelona,CCAA,"288,78","54,32",0,"159,45"
+2018,Cataluña,Barcelona,CCAA,0,0,"1.530,97",0
+2018,Cataluña,Barcelona,State,"143,00","1,00",0,"119,00"
+2018,Cataluña,Barcelona,State,0,0,"45,00",0
+2018,Cataluña,Barcelona,provincial,"0,00","0,00",0,"0,00"
+2018,Cataluña,Barcelona,provincial,0,0,"1.569,50",0
+2018,Cataluña,Gerona,CCAA,"90,22","22,38",0,"0,00"
+2018,Cataluña,Gerona,CCAA,0,0,"1.127,65",0
+2018,Cataluña,Gerona,State,"36,00","8,00",0,"93,00"
+2018,Cataluña,Gerona,State,0,0,"272,00",0
+2018,Cataluña,Gerona,provincial,"0,00","2,59",0,"0,00"
+2018,Cataluña,Gerona,provincial,0,0,"785,01",0
+2018,Cataluña,Lérida,CCAA,"28,21","0,00",0,"0,00"
+2018,Cataluña,Lérida,CCAA,0,0,"1.520,75",0
+2018,Cataluña,Lérida,State,"134,00","10,00",0,"60,00"
+2018,Cataluña,Lérida,State,0,0,"305,00",0
+2018,Cataluña,Lérida,provincial,"0,00","0,00",0,"0,00"
+2018,Cataluña,Lérida,provincial,0,0,"812,68",0
+2018,Cataluña,Tarragona,CCAA,"23,06","22,55",0,"10,59"
+2018,Cataluña,Tarragona,CCAA,0,0,"1.067,13",0
+2018,Cataluña,Tarragona,State,"89,00","13,00",0,"191,00"
+2018,Cataluña,Tarragona,State,0,0,"268,00",0
+2018,Cataluña,Tarragona,provincial,"0,00","8,10",0,"0,00"
+2018,Cataluña,Tarragona,provincial,0,0,"1.080,55",0
+2018,Ceuta,Ceuta,CCAA,"0,00","0,00",0,"0,00"
+2018,Ceuta,Ceuta,CCAA,0,0,"19,83",0
+2018,Ceuta,Ceuta,State,"0,00","1,00",0,"0,00"
+2018,Ceuta,Ceuta,State,0,0,"19,00",0
+2018,Ceuta,Ceuta,provincial,"0,00","0,00",0,"0,00"
+2018,Ceuta,Ceuta,provincial,0,0,"0,00",0
+2018,C. Valenciana,Alicante,CCAA,"15,63","57,89",0,"0,00"
+2018,C. Valenciana,Alicante,CCAA,0,0,"913,72",0
+2018,C. Valenciana,Alicante,State,"234,00","62,00",0,"159,00"
+2018,C. Valenciana,Alicante,State,0,0,"208,00",0
+2018,C. Valenciana,Alicante,provincial,"0,00","8,88",0,"0,00"
+2018,C. Valenciana,Alicante,provincial,0,0,"972,00",0
+2018,C. Valenciana,Castellón,CCAA,"46,04","46,01",0,"0,00"
+2018,C. Valenciana,Castellón,CCAA,0,0,"877,65",0
+2018,C. Valenciana,Castellón,State,"73,00","2,00",0,"120,00"
+2018,C. Valenciana,Castellón,State,0,0,"276,00",0
+2018,C. Valenciana,Castellón,provincial,"0,00","0,00",0,"0,00"
+2018,C. Valenciana,Castellón,provincial,0,0,"774,88",0
+2018,C. Valenciana,Valencia,CCAA,"85,97","51,71",0,"0,00"
+2018,C. Valenciana,Valencia,CCAA,0,0,"696,31",0
+2018,C. Valenciana,Valencia,State,"368,00","3,00",0,"88,00"
+2018,C. Valenciana,Valencia,State,0,0,"335,00",0
+2018,C. Valenciana,Valencia,provincial,"0,00","15,34",0,"0,00"
+2018,C. Valenciana,Valencia,provincial,0,0,"1.855,16",0
+2018,Extremadura,Badajoz,CCAA,"17,00","21,00",0,"0,00"
+2018,Extremadura,Badajoz,CCAA,0,0,"2.094,21",0
+2018,Extremadura,Badajoz,State,"242,00","15,00",0,"0,00"
+2018,Extremadura,Badajoz,State,0,0,"575,00",0
+2018,Extremadura,Badajoz,provincial,"0,00","0,00",0,"0,00"
+2018,Extremadura,Badajoz,provincial,0,0,"1.921,12",0
+2018,Extremadura,Cáceres,CCAA,"107,10","12,70",0,"0,00"
+2018,Extremadura,Cáceres,CCAA,0,0,"1.568,43",0
+2018,Extremadura,Cáceres,State,"337,00","21,00",0,"0,00"
+2018,Extremadura,Cáceres,State,0,0,"417,00",0
+2018,Extremadura,Cáceres,provincial,"0,00","0,00",0,"0,00"
+2018,Extremadura,Cáceres,provincial,0,0,"1.880,15",0
+2018,Galicia,"Coruña, A",CCAA,"126,86","2,55",0,"32,53"
+2018,Galicia,"Coruña, A",CCAA,0,0,"1.564,88",0
+2018,Galicia,"Coruña, A",State,"77,00","55,00",0,"146,00"
+2018,Galicia,"Coruña, A",State,0,0,"279,00",0
+2018,Galicia,"Coruña, A",provincial,"0,00","0,00",0,"0,00"
+2018,Galicia,"Coruña, A",provincial,0,0,"2.103,15",0
+2018,Galicia,Lugo,CCAA,"16,16","2,41",0,"0,00"
+2018,Galicia,Lugo,CCAA,0,0,"1.471,32",0
+2018,Galicia,Lugo,State,"235,00","12,00",0,"0,00"
+2018,Galicia,Lugo,State,0,0,"516,00",0
+2018,Galicia,Lugo,provincial,"0,00","0,00",0,"0,00"
+2018,Galicia,Lugo,provincial,0,0,"4.217,00",0
+2018,Galicia,Orense,CCAA,"47,97","3,07",0,"0,00"
+2018,Galicia,Orense,CCAA,0,0,"977,63",0
+2018,Galicia,Orense,State,"167,00","9,00",0,"0,00"
+2018,Galicia,Orense,State,0,0,"344,00",0
+2018,Galicia,Orense,provincial,"0,00","0,00",0,"0,00"
+2018,Galicia,Orense,provincial,0,0,"1.855,16",0
+2018,Galicia,Pontevedra,CCAA,"34,50","6,44",0,"20,98"
+2018,Galicia,Pontevedra,CCAA,0,0,"1.231,15",0
+2018,Galicia,Pontevedra,State,"81,00","9,00",0,"127,00"
+2018,Galicia,Pontevedra,State,0,0,"319,00",0
+2018,Galicia,Pontevedra,provincial,"0,00","0,00",0,"0,00"
+2018,Galicia,Pontevedra,provincial,0,0,"1.635,02",0
+2018,Madrid,Madrid,CCAA,"124,44","204,74",0,"0,00"
+2018,Madrid,Madrid,CCAA,0,0,"2.230,83",0
+2018,Madrid,Madrid,State,"481,00","7,00",0,"161,00"
+2018,Madrid,Madrid,State,0,0,"100,00",0
+2018,Madrid,Madrid,provincial,"0,00","0,00",0,"0,00"
+2018,Madrid,Madrid,provincial,0,0,"0,00",0
+2018,Melilla,Melilla,CCAA,"0,00","0,53",0,"0,00"
+2018,Melilla,Melilla,CCAA,0,0,"17,36",0
+2018,Melilla,Melilla,State,"0,00","0,00",0,"0,00"
+2018,Melilla,Melilla,State,0,0,"10,00",0
+2018,Melilla,Melilla,provincial,"0,00","0,00",0,"0,00"
+2018,Melilla,Melilla,provincial,0,0,"0,00",0
+2018,Murcia,Murcia,CCAA,"167,84","79,68",0,"0,00"
+2018,Murcia,Murcia,CCAA,0,0,"2.643,12",0
+2018,Murcia,Murcia,State,"313,00","11,00",0,"115,00"
+2018,Murcia,Murcia,State,0,0,"138,00",0
+2018,Murcia,Murcia,provincial,"0,00","0,00",0,"0,00"
+2018,Murcia,Murcia,provincial,0,0,"0,00",0
+2018,Navarra,Navarra,CCAA,"235,54","25,60",0,"105,07"
+2018,Navarra,Navarra,CCAA,0,0,"3.460,38",0
+2018,Navarra,Navarra,State,"0,00","0,00",0,"39,00"
+2018,Navarra,Navarra,State,0,0,"0,00",0
+2018,Navarra,Navarra,provincial,"0,00","0,00",0,"0,00"
+2018,Navarra,Navarra,provincial,0,0,"0,00",0
+2018,País Vasco,Guipúzcoa,CCAA,"0,00","0,00",0,"0,00"
+2018,País Vasco,Guipúzcoa,CCAA,0,0,"0,00",0
+2018,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2018,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2018,País Vasco,Guipúzcoa,provincial,"45,04","78,38",0,"107,20"
+2018,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2018,País Vasco,Vizcaya,CCAA,"0,00","0,00",0,"0,00"
+2018,País Vasco,Vizcaya,CCAA,0,0,"0,00",0
+2018,País Vasco,Vizcaya,State,"0,00","0,00",0,"22,00"
+2018,País Vasco,Vizcaya,State,0,0,"0,00",0
+2018,País Vasco,Vizcaya,provincial,"104,37","40,18",0,"49,99"
+2018,País Vasco,Vizcaya,provincial,0,0,"1.062,69",0
+2018,País Vasco,Álava,CCAA,"0,00","0,00",0,"0,00"
+2018,País Vasco,Álava,CCAA,0,0,"0,00",0
+2018,País Vasco,Álava,State,"0,00","0,00",0,"55,00"
+2018,País Vasco,Álava,State,0,0,"0,00",0
+2018,País Vasco,Álava,provincial,"97,97","10,61",0,"14,23"
+2018,País Vasco,Álava,provincial,0,0,"1.276,66",0
+2018,La Rioja,"Rioja, La",CCAA,"0,00","3,00",0,"0,00"
+2018,La Rioja,"Rioja, La",CCAA,0,0,"1.442,00",0
+2018,La Rioja,"Rioja, La",State,"62,00","1,00",0,"119,00"
+2018,La Rioja,"Rioja, La",State,0,0,"251,00",0
+2018,La Rioja,"Rioja, La",provincial,"0,00","0,00",0,"0,00"
+2018,La Rioja,"Rioja, La",provincial,0,0,"0,00",0
+2019,Andalucía,Almería,CCAA,"117,42","2,41",0,"0,00"
+2019,Andalucía,Almería,CCAA,0,0,"697,32",0
+2019,Andalucía,Almería,State,"203,50","1,12",0,"28,19"
+2019,Andalucía,Almería,State,0,0,"133,92",0
+2019,Andalucía,Almería,provincial,"0,00","0,00",0,"0,00"
+2019,Andalucía,Almería,provincial,0,0,"1.226,00",0
+2019,Andalucía,Cádiz,CCAA,"155,39","6,46",0,"0,00"
+2019,Andalucía,Cádiz,CCAA,0,0,"871,79",0
+2019,Andalucía,Cádiz,State,"119,81","31,86",0,"47,86"
+2019,Andalucía,Cádiz,State,0,0,"122,39",0
+2019,Andalucía,Cádiz,provincial,"0,00","0,00",0,"0,00"
+2019,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2019,Andalucía,Córdoba,CCAA,"9,97","17,44",0,"0,00"
+2019,Andalucía,Córdoba,CCAA,0,0,"1.619,15",0
+2019,Andalucía,Córdoba,State,"177,71","0,70",0,"0,00"
+2019,Andalucía,Córdoba,State,0,0,"445,43",0
+2019,Andalucía,Córdoba,provincial,"0,00","0,00",0,"0,00"
+2019,Andalucía,Córdoba,provincial,0,0,"1.807,19",0
+2019,Andalucía,Granada,CCAA,"235,69","11,81",0,"0,00"
+2019,Andalucía,Granada,CCAA,0,0,"1.388,94",0
+2019,Andalucía,Granada,State,"189,14","1,43",0,"0,00"
+2019,Andalucía,Granada,State,0,0,"191,38",0
+2019,Andalucía,Granada,provincial,"0,00","4,07",0,"0,00"
+2019,Andalucía,Granada,provincial,0,0,"1.260,63",0
+2019,Andalucía,Huelva,CCAA,"33,29","6,42",0,"0,00"
+2019,Andalucía,Huelva,CCAA,0,0,"730,20",0
+2019,Andalucía,Huelva,State,"137,19","11,36",0,"0,00"
+2019,Andalucía,Huelva,State,0,0,"332,45",0
+2019,Andalucía,Huelva,provincial,"0,00","0,00",0,"0,00"
+2019,Andalucía,Huelva,provincial,0,0,"832,78",0
+2019,Andalucía,Jaén,CCAA,"73,39","5,70",0,"0,00"
+2019,Andalucía,Jaén,CCAA,0,0,"1.400,56",0
+2019,Andalucía,Jaén,State,"217,14","0,00",0,"0,00"
+2019,Andalucía,Jaén,State,0,0,"249,05",0
+2019,Andalucía,Jaén,provincial,"0,00","0,00",0,"0,00"
+2019,Andalucía,Jaén,provincial,0,0,"905,88",0
+2019,Andalucía,Málaga,CCAA,"97,10","11,36",0,"0,00"
+2019,Andalucía,Málaga,CCAA,0,0,"1.175,91",0
+2019,Andalucía,Málaga,State,"218,74","23,29",0,"122,09"
+2019,Andalucía,Málaga,State,0,0,"35,63",0
+2019,Andalucía,Málaga,provincial,"0,00","0,00",0,"0,00"
+2019,Andalucía,Málaga,provincial,0,0,"859,60",0
+2019,Andalucía,Sevilla,CCAA,"156,77","47,34",0,"0,00"
+2019,Andalucía,Sevilla,CCAA,0,0,"1.701,67",0
+2019,Andalucía,Sevilla,State,"257,12","19,77",0,"53,06"
+2019,Andalucía,Sevilla,State,0,0,"140,19",0
+2019,Andalucía,Sevilla,provincial,"0,00","15,83",0,"0,00"
+2019,Andalucía,Sevilla,provincial,0,0,"1.461,46",0
+2019,Aragón,Huesca,CCAA,"0,00","0,00",0,"0,00"
+2019,Aragón,Huesca,CCAA,0,0,"2.076,00",0
+2019,Aragón,Huesca,State,"188,08","0,00",0,"49,72"
+2019,Aragón,Huesca,State,0,0,"664,85",0
+2019,Aragón,Huesca,provincial,"0,00","0,00",0,"0,00"
+2019,Aragón,Huesca,provincial,0,0,"1.386,00",0
+2019,Aragón,Teruel,CCAA,"0,00","0,00",0,"0,00"
+2019,Aragón,Teruel,CCAA,0,0,"1.628,21",0
+2019,Aragón,Teruel,State,"140,12","1,34",0,"0,00"
+2019,Aragón,Teruel,State,0,0,"537,35",0
+2019,Aragón,Teruel,provincial,"0,00","0,00",0,"0,00"
+2019,Aragón,Teruel,provincial,0,0,"980,00",0
+2019,Aragón,Zaragoza,CCAA,"5,28","9,41",0,"0,00"
+2019,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2019,Aragón,Zaragoza,State,"329,75","42,16",0,"107,46"
+2019,Aragón,Zaragoza,State,0,0,"490,05",0
+2019,Aragón,Zaragoza,provincial,"0,00","3,15",0,"0,00"
+2019,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2019,Asturias,Asturias,CCAA,"74,45","7,02",0,"0,00"
+2019,Asturias,Asturias,CCAA,0,0,"4.111,21",0
+2019,Asturias,Asturias,State,"357,68","5,37",0,"21,86"
+2019,Asturias,Asturias,State,0,0,"466,00",0
+2019,Asturias,Asturias,provincial,"0,00","0,00",0,"0,00"
+2019,Asturias,Asturias,provincial,0,0,"0,00",0
+2019,Islas Baleares,Baleares,CCAA,"0,00","0,00",0,"0,00"
+2019,Islas Baleares,Baleares,CCAA,0,0,"0,00",0
+2019,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2019,Islas Baleares,Baleares,State,0,0,"0,00",0
+2019,Islas Baleares,Baleares,provincial,"93,52","99,23",0,"0,00"
+2019,Islas Baleares,Baleares,provincial,0,0,"1.939,56",0
+2019,Canarias,"Palmas, Las",CCAA,"0,00","0,00",0,"0,00"
+2019,Canarias,"Palmas, Las",CCAA,0,0,"0,00",0
+2019,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2019,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2019,Canarias,"Palmas, Las",provincial,"134,51","76,06",0,"0,00"
+2019,Canarias,"Palmas, Las",provincial,0,0,"1.757,31",0
+2019,Canarias,"Tenerife, S.C.",CCAA,"0,00","0,00",0,"0,00"
+2019,Canarias,"Tenerife, S.C.",CCAA,0,0,"0,00",0
+2019,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2019,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2019,Canarias,"Tenerife, S.C.",provincial,"141,76","44,54",0,"0,00"
+2019,Canarias,"Tenerife, S.C.",provincial,0,0,"1.978,59",0
+2019,Cantabria,Cantabria,CCAA,"0,00","0,00",0,"0,00"
+2019,Cantabria,Cantabria,CCAA,0,0,"1.984,34",0
+2019,Cantabria,Cantabria,State,"254,91","2,95",0,"0,00"
+2019,Cantabria,Cantabria,State,0,0,"320,45",0
+2019,Cantabria,Cantabria,provincial,"0,00","0,00",0,"0,00"
+2019,Cantabria,Cantabria,provincial,0,0,"0,00",0
+2019,Castilla-La Mancha,Albacete,CCAA,"0,00","3,97",0,"0,00"
+2019,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2019,Castilla-La Mancha,Albacete,State,"279,18","0,00",0,"0,00"
+2019,Castilla-La Mancha,Albacete,State,0,0,"420,50",0
+2019,Castilla-La Mancha,Albacete,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla-La Mancha,Albacete,provincial,0,0,"1.404,00",0
+2019,Castilla-La Mancha,Ciudad Real,CCAA,"80,96","3,82",0,"0,00"
+2019,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2019,Castilla-La Mancha,Ciudad Real,State,"259,81","5,48",0,"0,00"
+2019,Castilla-La Mancha,Ciudad Real,State,0,0,"457,61",0
+2019,Castilla-La Mancha,Ciudad Real,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.727,00",0
+2019,Castilla-La Mancha,Cuenca,CCAA,"0,00","0,00",0,"0,00"
+2019,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2019,Castilla-La Mancha,Cuenca,State,"346,21","0,00",0,"49,83"
+2019,Castilla-La Mancha,Cuenca,State,0,0,"585,48",0
+2019,Castilla-La Mancha,Cuenca,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2019,Castilla-La Mancha,Guadalajara,CCAA,"9,26","0,00",0,"0,00"
+2019,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2019,Castilla-La Mancha,Guadalajara,State,"99,67","0,57",0,"24,02"
+2019,Castilla-La Mancha,Guadalajara,State,0,0,"290,62",0
+2019,Castilla-La Mancha,Guadalajara,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.568,00",0
+2019,Castilla-La Mancha,Toledo,CCAA,"146,31","0,00",0,"0,00"
+2019,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2019,Castilla-La Mancha,Toledo,State,"380,19","10,13",0,"140,27"
+2019,Castilla-La Mancha,Toledo,State,0,0,"373,94",0
+2019,Castilla-La Mancha,Toledo,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla-La Mancha,Toledo,provincial,0,0,"956,00",0
+2019,Castilla y León,Burgos,CCAA,"46,75","5,82",0,"0,00"
+2019,Castilla y León,Burgos,CCAA,0,0,"1.766,76",0
+2019,Castilla y León,Burgos,State,"283,55","19,13",0,"0,49"
+2019,Castilla y León,Burgos,State,0,0,"669,14",0
+2019,Castilla y León,Burgos,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Burgos,provincial,0,0,"2.289,44",0
+2019,Castilla y León,León,CCAA,"68,14","5,79",0,"0,00"
+2019,Castilla y León,León,CCAA,0,0,"1.705,33",0
+2019,Castilla y León,León,State,"252,06","15,68",0,"93,68"
+2019,Castilla y León,León,State,0,0,"579,09",0
+2019,Castilla y León,León,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,León,provincial,0,0,"3.310,32",0
+2019,Castilla y León,Palencia,CCAA,"62,05","0,00",0,"0,00"
+2019,Castilla y León,Palencia,CCAA,0,0,"1.468,06",0
+2019,Castilla y León,Palencia,State,"193,33","0,00",0,"0,00"
+2019,Castilla y León,Palencia,State,0,0,"247,11",0
+2019,Castilla y León,Palencia,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Palencia,provincial,0,0,"1.035,00",0
+2019,Castilla y León,Salamanca,CCAA,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Salamanca,CCAA,0,0,"1.263,45",0
+2019,Castilla y León,Salamanca,State,"302,27","8,64",0,"0,00"
+2019,Castilla y León,Salamanca,State,0,0,"270,74",0
+2019,Castilla y León,Salamanca,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Salamanca,provincial,0,0,"2.301,29",0
+2019,Castilla y León,Segovia,CCAA,"64,48","0,00",0,"0,00"
+2019,Castilla y León,Segovia,CCAA,0,0,"700,67",0
+2019,Castilla y León,Segovia,State,"54,17","0,00",0,"69,47"
+2019,Castilla y León,Segovia,State,0,0,"244,70",0
+2019,Castilla y León,Segovia,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Segovia,provincial,0,0,"1.229,35",0
+2019,Castilla y León,Soria,CCAA,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Soria,CCAA,0,0,"898,80",0
+2019,Castilla y León,Soria,State,"145,36","1,74",0,"0,00"
+2019,Castilla y León,Soria,State,0,0,"405,80",0
+2019,Castilla y León,Soria,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Soria,provincial,0,0,"1.890,08",0
+2019,Castilla y León,Valladolid,CCAA,"39,81","0,00",0,"0,00"
+2019,Castilla y León,Valladolid,CCAA,0,0,"1.063,19",0
+2019,Castilla y León,Valladolid,State,"260,49","16,45",0,"0,00"
+2019,Castilla y León,Valladolid,State,0,0,"268,69",0
+2019,Castilla y León,Valladolid,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Valladolid,provincial,0,0,"1.435,00",0
+2019,Castilla y León,Zamora,CCAA,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Zamora,CCAA,0,0,"1.148,53",0
+2019,Castilla y León,Zamora,State,"336,79","16,73",0,"0,00"
+2019,Castilla y León,Zamora,State,0,0,"419,45",0
+2019,Castilla y León,Zamora,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Zamora,provincial,0,0,"1.571,00",0
+2019,Castilla y León,Ávila,CCAA,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Ávila,CCAA,0,0,"986,37",0
+2019,Castilla y León,Ávila,State,"86,97","3,24",0,"37,40"
+2019,Castilla y León,Ávila,State,0,0,"345,16",0
+2019,Castilla y León,Ávila,provincial,"0,00","0,00",0,"0,00"
+2019,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2019,Cataluña,Barcelona,CCAA,"288,78","54,32",0,"159,45"
+2019,Cataluña,Barcelona,CCAA,0,0,"1.528,40",0
+2019,Cataluña,Barcelona,State,"145,46","2,92",0,"118,92"
+2019,Cataluña,Barcelona,State,0,0,"43,44",0
+2019,Cataluña,Barcelona,provincial,"0,00","0,00",0,"0,00"
+2019,Cataluña,Barcelona,provincial,0,0,"1.569,50",0
+2019,Cataluña,Gerona,CCAA,"90,22","22,38",0,"0,00"
+2019,Cataluña,Gerona,CCAA,0,0,"1.125,65",0
+2019,Cataluña,Gerona,State,"35,73","6,27",0,"92,62"
+2019,Cataluña,Gerona,State,0,0,"273,34",0
+2019,Cataluña,Gerona,provincial,"0,00","2,59",0,"0,00"
+2019,Cataluña,Gerona,provincial,0,0,"784,83",0
+2019,Cataluña,Lérida,CCAA,"28,21","0,00",0,"0,00"
+2019,Cataluña,Lérida,CCAA,0,0,"1.524,67",0
+2019,Cataluña,Lérida,State,"134,86","10,01",0,"60,47"
+2019,Cataluña,Lérida,State,0,0,"303,68",0
+2019,Cataluña,Lérida,provincial,"0,00","0,00",0,"0,00"
+2019,Cataluña,Lérida,provincial,0,0,"805,90",0
+2019,Cataluña,Tarragona,CCAA,"23,06","22,55",0,"10,59"
+2019,Cataluña,Tarragona,CCAA,0,0,"1.066,75",0
+2019,Cataluña,Tarragona,State,"89,37","11,30",0,"191,13"
+2019,Cataluña,Tarragona,State,0,0,"262,47",0
+2019,Cataluña,Tarragona,provincial,"0,00","8,10",0,"0,00"
+2019,Cataluña,Tarragona,provincial,0,0,"1.077,60",0
+2019,Ceuta,Ceuta,CCAA,"0,00","0,00",0,"0,00"
+2019,Ceuta,Ceuta,CCAA,0,0,"21,02",0
+2019,Ceuta,Ceuta,State,"0,00","1,37",0,"0,00"
+2019,Ceuta,Ceuta,State,0,0,"18,83",0
+2019,Ceuta,Ceuta,provincial,"0,00","0,00",0,"0,00"
+2019,Ceuta,Ceuta,provincial,0,0,"0,00",0
+2019,C. Valenciana,Alicante,CCAA,"15,63","54,84",0,"0,00"
+2019,C. Valenciana,Alicante,CCAA,0,0,"883,40",0
+2019,C. Valenciana,Alicante,State,"233,06","61,87",0,"159,46"
+2019,C. Valenciana,Alicante,State,0,0,"208,22",0
+2019,C. Valenciana,Alicante,provincial,"0,00","8,88",0,"0,00"
+2019,C. Valenciana,Alicante,provincial,0,0,"972,00",0
+2019,C. Valenciana,Castellón,CCAA,"46,04","46,01",0,"0,00"
+2019,C. Valenciana,Castellón,CCAA,0,0,"878,44",0
+2019,C. Valenciana,Castellón,State,"72,54","2,22",0,"119,88"
+2019,C. Valenciana,Castellón,State,0,0,"275,47",0
+2019,C. Valenciana,Castellón,provincial,"0,00","0,00",0,"0,00"
+2019,C. Valenciana,Castellón,provincial,0,0,"774,88",0
+2019,C. Valenciana,Valencia,CCAA,"85,97","55,57",0,"0,00"
+2019,C. Valenciana,Valencia,CCAA,0,0,"696,94",0
+2019,C. Valenciana,Valencia,State,"368,45","5,67",0,"87,78"
+2019,C. Valenciana,Valencia,State,0,0,"337,14",0
+2019,C. Valenciana,Valencia,provincial,"0,00","15,34",0,"0,00"
+2019,C. Valenciana,Valencia,provincial,0,0,"1.855,16",0
+2019,Extremadura,Badajoz,CCAA,"17,00","21,00",0,"0,00"
+2019,Extremadura,Badajoz,CCAA,0,0,"2.051,51",0
+2019,Extremadura,Badajoz,State,"241,28","18,01",0,"0,00"
+2019,Extremadura,Badajoz,State,0,0,"620,34",0
+2019,Extremadura,Badajoz,provincial,"0,00","0,00",0,"0,00"
+2019,Extremadura,Badajoz,provincial,0,0,"1.921,12",0
+2019,Extremadura,Cáceres,CCAA,"107,10","12,70",0,"0,00"
+2019,Extremadura,Cáceres,CCAA,0,0,"1.533,08",0
+2019,Extremadura,Cáceres,State,"337,55","20,98",0,"0,00"
+2019,Extremadura,Cáceres,State,0,0,"450,82",0
+2019,Extremadura,Cáceres,provincial,"0,00","0,00",0,"0,00"
+2019,Extremadura,Cáceres,provincial,0,0,"1.880,15",0
+2019,Galicia,"Coruña, A",CCAA,"126,86","2,55",0,"32,53"
+2019,Galicia,"Coruña, A",CCAA,0,0,"1.565,95",0
+2019,Galicia,"Coruña, A",State,"95,57","55,33",0,"146,32"
+2019,Galicia,"Coruña, A",State,0,0,"279,07",0
+2019,Galicia,"Coruña, A",provincial,"0,00","0,00",0,"0,00"
+2019,Galicia,"Coruña, A",provincial,0,0,"2.103,15",0
+2019,Galicia,Lugo,CCAA,"16,16","2,41",0,"0,00"
+2019,Galicia,Lugo,CCAA,0,0,"1.471,32",0
+2019,Galicia,Lugo,State,"234,80","14,53",0,"0,00"
+2019,Galicia,Lugo,State,0,0,"513,85",0
+2019,Galicia,Lugo,provincial,"0,00","0,00",0,"0,00"
+2019,Galicia,Lugo,provincial,0,0,"4.217,00",0
+2019,Galicia,Orense,CCAA,"47,97","2,07",0,"0,00"
+2019,Galicia,Orense,CCAA,0,0,"982,97",0
+2019,Galicia,Orense,State,"166,74","9,36",0,"0,00"
+2019,Galicia,Orense,State,0,0,"321,57",0
+2019,Galicia,Orense,provincial,"0,00","0,00",0,"0,00"
+2019,Galicia,Orense,provincial,0,0,"1.855,16",0
+2019,Galicia,Pontevedra,CCAA,"38,34","7,64",0,"20,98"
+2019,Galicia,Pontevedra,CCAA,0,0,"1.220,78",0
+2019,Galicia,Pontevedra,State,"81,29","9,14",0,"126,71"
+2019,Galicia,Pontevedra,State,0,0,"319,42",0
+2019,Galicia,Pontevedra,provincial,"0,00","0,00",0,"0,00"
+2019,Galicia,Pontevedra,provincial,0,0,"1.630,05",0
+2019,Madrid,Madrid,CCAA,"124,44","202,39",0,"0,00"
+2019,Madrid,Madrid,CCAA,0,0,"2.230,83",0
+2019,Madrid,Madrid,State,"483,80","7,20",0,"158,37"
+2019,Madrid,Madrid,State,0,0,"98,14",0
+2019,Madrid,Madrid,provincial,"0,00","0,00",0,"0,00"
+2019,Madrid,Madrid,provincial,0,0,"0,00",0
+2019,Melilla,Melilla,CCAA,"0,00","0,53",0,"0,00"
+2019,Melilla,Melilla,CCAA,0,0,"17,36",0
+2019,Melilla,Melilla,State,"0,00","0,00",0,"0,00"
+2019,Melilla,Melilla,State,0,0,"9,81",0
+2019,Melilla,Melilla,provincial,"0,00","0,00",0,"0,00"
+2019,Melilla,Melilla,provincial,0,0,"0,00",0
+2019,Murcia,Murcia,CCAA,"170,00","90,00",0,"0,00"
+2019,Murcia,Murcia,CCAA,0,0,"2.566,00",0
+2019,Murcia,Murcia,State,"313,50","11,30",0,"114,64"
+2019,Murcia,Murcia,State,0,0,"138,11",0
+2019,Murcia,Murcia,provincial,"0,00","0,00",0,"0,00"
+2019,Murcia,Murcia,provincial,0,0,"0,00",0
+2019,Navarra,Navarra,CCAA,"235,54","25,60",0,"144,79"
+2019,Navarra,Navarra,CCAA,0,0,"3.460,38",0
+2019,Navarra,Navarra,State,"0,00","0,00",0,"39,03"
+2019,Navarra,Navarra,State,0,0,"0,00",0
+2019,Navarra,Navarra,provincial,"0,00","0,00",0,"0,00"
+2019,Navarra,Navarra,provincial,0,0,"0,00",0
+2019,País Vasco,Guipúzcoa,CCAA,"0,00","0,00",0,"0,00"
+2019,País Vasco,Guipúzcoa,CCAA,0,0,"0,00",0
+2019,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2019,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2019,País Vasco,Guipúzcoa,provincial,"45,04","78,38",0,"107,20"
+2019,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2019,País Vasco,Vizcaya,CCAA,"0,00","0,00",0,"0,00"
+2019,País Vasco,Vizcaya,CCAA,0,0,"0,00",0
+2019,País Vasco,Vizcaya,State,"0,00","0,00",0,"0,00"
+2019,País Vasco,Vizcaya,State,0,0,"0,00",0
+2019,País Vasco,Vizcaya,provincial,"104,36","40,41",0,"72,34"
+2019,País Vasco,Vizcaya,provincial,0,0,"1.056,03",0
+2019,País Vasco,Álava,CCAA,"0,00","0,00",0,"0,00"
+2019,País Vasco,Álava,CCAA,0,0,"0,00",0
+2019,País Vasco,Álava,State,"0,00","0,00",0,"0,00"
+2019,País Vasco,Álava,State,0,0,"0,00",0
+2019,País Vasco,Álava,provincial,"100,97","10,61",0,"69,44"
+2019,País Vasco,Álava,provincial,0,0,"1.273,66",0
+2019,La Rioja,"Rioja, La",CCAA,"0,00","3,00",0,"0,00"
+2019,La Rioja,"Rioja, La",CCAA,0,0,"1.442,00",0
+2019,La Rioja,"Rioja, La",State,"62,19","1,15",0,"119,10"
+2019,La Rioja,"Rioja, La",State,0,0,"250,79",0
+2019,La Rioja,"Rioja, La",provincial,"0,00","0,00",0,"0,00"
+2019,La Rioja,"Rioja, La",provincial,0,0,"0,00",0
+2020,Andalucía,Almería,CCAA,"117,42","2,41",0,"0,00"
+2020,Andalucía,Almería,CCAA,0,0,"697,42",0
+2020,Andalucía,Almería,State,"203,50","1,12",0,"28,19"
+2020,Andalucía,Almería,State,0,0,"131,20",0
+2020,Andalucía,Almería,provincial,"0,00","0,00",0,"0,00"
+2020,Andalucía,Almería,provincial,0,0,"1.226,00",0
+2020,Andalucía,Cádiz,CCAA,"155,39","6,46",0,"0,00"
+2020,Andalucía,Cádiz,CCAA,0,0,"871,79",0
+2020,Andalucía,Cádiz,State,"163,99","31,86",0,"3,66"
+2020,Andalucía,Cádiz,State,0,0,"121,28",0
+2020,Andalucía,Cádiz,provincial,"0,00","0,00",0,"0,00"
+2020,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2020,Andalucía,Córdoba,CCAA,"9,97","17,44",0,"0,00"
+2020,Andalucía,Córdoba,CCAA,0,0,"1.613,83",0
+2020,Andalucía,Córdoba,State,"180,63","1,48",0,0
+2020,Andalucía,Córdoba,State,0,0,"440,12",0
+2020,Andalucía,Córdoba,provincial,"0,00","0,00",0,"0,00"
+2020,Andalucía,Córdoba,provincial,0,0,"1.807,19",0
+2020,Andalucía,Granada,CCAA,"235,69","11,81",0,"0,00"
+2020,Andalucía,Granada,CCAA,0,0,"1.388,60",0
+2020,Andalucía,Granada,State,"206,95","1,43",0,0
+2020,Andalucía,Granada,State,0,0,"191,38",0
+2020,Andalucía,Granada,provincial,"0,00","4,07",0,"0,00"
+2020,Andalucía,Granada,provincial,0,0,"1.260,63",0
+2020,Andalucía,Huelva,CCAA,"33,29","6,42",0,"0,00"
+2020,Andalucía,Huelva,CCAA,0,0,"730,20",0
+2020,Andalucía,Huelva,State,"136,89","11,36",0,0
+2020,Andalucía,Huelva,State,0,0,"332,29",0
+2020,Andalucía,Huelva,provincial,"0,00","0,00",0,"0,00"
+2020,Andalucía,Huelva,provincial,0,0,"832,78",0
+2020,Andalucía,Jaén,CCAA,"73,39","5,70",0,"0,00"
+2020,Andalucía,Jaén,CCAA,0,0,"1.400,56",0
+2020,Andalucía,Jaén,State,"217,14",0,0,0
+2020,Andalucía,Jaén,State,0,0,"246,98",0
+2020,Andalucía,Jaén,provincial,"0,00","0,00",0,"0,00"
+2020,Andalucía,Jaén,provincial,0,0,"907,16",0
+2020,Andalucía,Málaga,CCAA,"97,10","11,36",0,"0,00"
+2020,Andalucía,Málaga,CCAA,0,0,"1.172,94",0
+2020,Andalucía,Málaga,State,"218,74","23,29",0,"122,09"
+2020,Andalucía,Málaga,State,0,0,"35,63",0
+2020,Andalucía,Málaga,provincial,"0,00","0,00",0,"0,00"
+2020,Andalucía,Málaga,provincial,0,0,"859,60",0
+2020,Andalucía,Sevilla,CCAA,"156,77","47,34",0,"0,00"
+2020,Andalucía,Sevilla,CCAA,0,0,"1.701,67",0
+2020,Andalucía,Sevilla,State,"307,66","19,77",0,0
+2020,Andalucía,Sevilla,State,0,0,"140,19",0
+2020,Andalucía,Sevilla,provincial,"0,00","15,83",0,"0,00"
+2020,Andalucía,Sevilla,provincial,0,0,"1.450,10",0
+2020,Aragón,Huesca,CCAA,"0,00","0,00",0,"0,00"
+2020,Aragón,Huesca,CCAA,0,0,"2.076,00",0
+2020,Aragón,Huesca,State,"188,08",0,0,"49,72"
+2020,Aragón,Huesca,State,0,0,"658,81",0
+2020,Aragón,Huesca,provincial,"0,00",0,0,"0,00"
+2020,Aragón,Huesca,provincial,0,0,"1.711,19",0
+2020,Aragón,Teruel,CCAA,"0,00","0,00",0,"0,00"
+2020,Aragón,Teruel,CCAA,0,0,"1.628,21",0
+2020,Aragón,Teruel,State,"140,12","1,34",0,0
+2020,Aragón,Teruel,State,0,0,"537,35",0
+2020,Aragón,Teruel,provincial,"0,00","0,00",0,"0,00"
+2020,Aragón,Teruel,provincial,0,0,"975,00",0
+2020,Aragón,Zaragoza,CCAA,"5,28","9,41",0,"0,00"
+2020,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2020,Aragón,Zaragoza,State,"329,75","40,76",0,"107,46"
+2020,Aragón,Zaragoza,State,0,0,"490,02",0
+2020,Aragón,Zaragoza,provincial,"0,00","3,15",0,"0,00"
+2020,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2020,Asturias,Asturias,CCAA,"74,45","7,02",0,"0,00"
+2020,Asturias,Asturias,CCAA,0,0,"4.202,00",0
+2020,Asturias,Asturias,State,"357,68","5,37",0,"21,86"
+2020,Asturias,Asturias,State,0,0,"466,00",0
+2020,Asturias,Asturias,provincial,"0,00","0,00",0,"0,00"
+2020,Asturias,Asturias,provincial,0,0,"0,00",0
+2020,Islas Baleares,Baleares,CCAA,"0,00","0,00",0,"0,00"
+2020,Islas Baleares,Baleares,CCAA,0,0,"0,00",0
+2020,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2020,Islas Baleares,Baleares,State,0,0,"0,00",0
+2020,Islas Baleares,Baleares,provincial,"93,52","97,33",0,"0,00"
+2020,Islas Baleares,Baleares,provincial,0,0,"1.941,59",0
+2020,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2020,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2020,Canarias,"Palmas, Las",provincial,"144,00","76,06",0,"0,00"
+2020,Canarias,"Palmas, Las",provincial,0,0,"1.757,31",0
+2020,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2020,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2020,Canarias,"Tenerife, S.C.",provincial,"138,27","33,59",0,"0,00"
+2020,Canarias,"Tenerife, S.C.",provincial,0,0,"1.979,04",0
+2020,Cantabria,Cantabria,CCAA,"0,00","0,00",0,"0,00"
+2020,Cantabria,Cantabria,CCAA,0,0,"1.990,08",0
+2020,Cantabria,Cantabria,State,"254,91","2,95",0,"0,00"
+2020,Cantabria,Cantabria,State,0,0,"323,93",0
+2020,Cantabria,Cantabria,provincial,"0,00","0,00",0,"0,00"
+2020,Cantabria,Cantabria,provincial,0,0,"0,00",0
+2020,Castilla-La Mancha,Albacete,CCAA,"0,00","3,97",0,"0,00"
+2020,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2020,Castilla-La Mancha,Albacete,State,"279,18",0,0,0
+2020,Castilla-La Mancha,Albacete,State,0,0,"420,50",0
+2020,Castilla-La Mancha,Albacete,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla-La Mancha,Albacete,provincial,0,0,"1.404,40",0
+2020,Castilla-La Mancha,Ciudad Real,CCAA,"80,96","3,82",0,"0,00"
+2020,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2020,Castilla-La Mancha,Ciudad Real,State,"259,81","5,48",0,0
+2020,Castilla-La Mancha,Ciudad Real,State,0,0,"457,82",0
+2020,Castilla-La Mancha,Ciudad Real,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.727,00",0
+2020,Castilla-La Mancha,Cuenca,CCAA,"0,00",0,0,"0,00"
+2020,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2020,Castilla-La Mancha,Cuenca,State,"346,21",0,0,"49,83"
+2020,Castilla-La Mancha,Cuenca,State,0,0,"584,42",0
+2020,Castilla-La Mancha,Cuenca,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2020,Castilla-La Mancha,Guadalajara,CCAA,"9,26",0,0,"0,00"
+2020,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2020,Castilla-La Mancha,Guadalajara,State,"99,67","0,57",0,"24,02"
+2020,Castilla-La Mancha,Guadalajara,State,0,0,"290,45",0
+2020,Castilla-La Mancha,Guadalajara,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.609,07",0
+2020,Castilla-La Mancha,Toledo,CCAA,"146,31",0,0,0
+2020,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2020,Castilla-La Mancha,Toledo,State,"380,19","10,13",0,"140,27"
+2020,Castilla-La Mancha,Toledo,State,0,0,"373,53",0
+2020,Castilla-La Mancha,Toledo,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla-La Mancha,Toledo,provincial,0,0,"959,60",0
+2020,Castilla y León,Burgos,CCAA,"46,75","5,82",0,"0,00"
+2020,Castilla y León,Burgos,CCAA,0,0,"1.767,19",0
+2020,Castilla y León,Burgos,State,"284,93","19,20",0,"0,49"
+2020,Castilla y León,Burgos,State,0,0,"670,05",0
+2020,Castilla y León,Burgos,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Burgos,provincial,0,0,"2.300,00",0
+2020,Castilla y León,León,CCAA,"68,14","5,79",0,"0,00"
+2020,Castilla y León,León,CCAA,0,0,"1.733,60",0
+2020,Castilla y León,León,State,"251,03","15,77",0,"93,68"
+2020,Castilla y León,León,State,0,0,"568,18",0
+2020,Castilla y León,León,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla y León,León,provincial,0,0,"3.310,32",0
+2020,Castilla y León,Palencia,CCAA,"62,05","0,00",0,"0,00"
+2020,Castilla y León,Palencia,CCAA,0,0,"1.469,00",0
+2020,Castilla y León,Palencia,State,"193,33",0,0,0
+2020,Castilla y León,Palencia,State,0,0,"247,11",0
+2020,Castilla y León,Palencia,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Palencia,provincial,0,0,"1.035,00",0
+2020,Castilla y León,Salamanca,CCAA,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Salamanca,CCAA,0,0,"1.260,00",0
+2020,Castilla y León,Salamanca,State,"302,27","8,64",0,0
+2020,Castilla y León,Salamanca,State,0,0,"270,74",0
+2020,Castilla y León,Salamanca,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Salamanca,provincial,0,0,"2.301,29",0
+2020,Castilla y León,Segovia,CCAA,"64,48","0,00",0,"0,00"
+2020,Castilla y León,Segovia,CCAA,0,0,"703,04",0
+2020,Castilla y León,Segovia,State,"62,57",0,0,"69,47"
+2020,Castilla y León,Segovia,State,0,0,"235,98",0
+2020,Castilla y León,Segovia,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Segovia,provincial,0,0,"1.229,35",0
+2020,Castilla y León,Soria,CCAA,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Soria,CCAA,0,0,"898,80",0
+2020,Castilla y León,Soria,State,"158,47","1,74",0,0
+2020,Castilla y León,Soria,State,0,0,"403,43",0
+2020,Castilla y León,Soria,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Soria,provincial,0,0,"1.891,58",0
+2020,Castilla y León,Valladolid,CCAA,"39,81","0,00",0,"0,00"
+2020,Castilla y León,Valladolid,CCAA,0,0,"1.060,00",0
+2020,Castilla y León,Valladolid,State,"252,41","24,39",0,0
+2020,Castilla y León,Valladolid,State,0,0,"269,09",0
+2020,Castilla y León,Valladolid,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Valladolid,provincial,0,0,"1.435,00",0
+2020,Castilla y León,Zamora,CCAA,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Zamora,CCAA,0,0,"1.139,00",0
+2020,Castilla y León,Zamora,State,"336,79","16,73",0,0
+2020,Castilla y León,Zamora,State,0,0,"421,20",0
+2020,Castilla y León,Zamora,provincial,"0,00",0,0,"0,00"
+2020,Castilla y León,Zamora,provincial,0,0,"1.571,00",0
+2020,Castilla y León,Ávila,CCAA,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Ávila,CCAA,0,0,"987,13",0
+2020,Castilla y León,Ávila,State,"86,97","3,24",0,"37,40"
+2020,Castilla y León,Ávila,State,0,0,"345,16",0
+2020,Castilla y León,Ávila,provincial,"0,00","0,00",0,"0,00"
+2020,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2020,Cataluña,Barcelona,CCAA,"288,73","57,34",0,"159,28"
+2020,Cataluña,Barcelona,CCAA,0,0,"1.525,60",0
+2020,Cataluña,Barcelona,State,"145,46","2,92",0,"118,92"
+2020,Cataluña,Barcelona,State,0,0,"43,44",0
+2020,Cataluña,Barcelona,provincial,"0,00","0,00",0,"0,00"
+2020,Cataluña,Barcelona,provincial,0,0,"1.563,70",0
+2020,Cataluña,Gerona,CCAA,"90,22","22,38",0,"0,00"
+2020,Cataluña,Gerona,CCAA,0,0,"1.125,65",0
+2020,Cataluña,Gerona,State,"35,73","6,27",0,"92,62"
+2020,Cataluña,Gerona,State,0,0,"273,34",0
+2020,Cataluña,Gerona,provincial,"0,00","2,59",0,"0,00"
+2020,Cataluña,Gerona,provincial,0,0,"783,54",0
+2020,Cataluña,Lérida,CCAA,"28,21","0,00",0,"0,00"
+2020,Cataluña,Lérida,CCAA,0,0,"1.524,56",0
+2020,Cataluña,Lérida,State,"134,90","10,06",0,"60,47"
+2020,Cataluña,Lérida,State,0,0,"302,64",0
+2020,Cataluña,Lérida,provincial,"0,00",0,0,"0,00"
+2020,Cataluña,Lérida,provincial,0,0,"805,00",0
+2020,Cataluña,Tarragona,CCAA,"23,06","22,55",0,"10,59"
+2020,Cataluña,Tarragona,CCAA,0,0,"1.066,75",0
+2020,Cataluña,Tarragona,State,"177,54","11,30",0,"104,28"
+2020,Cataluña,Tarragona,State,0,0,"264,30",0
+2020,Cataluña,Tarragona,provincial,"0,00","8,10",0,"0,00"
+2020,Cataluña,Tarragona,provincial,0,0,"1.077,60",0
+2020,Ceuta,Ceuta,CCAA,"0,00","0,00",0,"0,00"
+2020,Ceuta,Ceuta,CCAA,0,0,"21,02",0
+2020,Ceuta,Ceuta,State,"0,00","1,04",0,"0,00"
+2020,Ceuta,Ceuta,State,0,0,"15,55",0
+2020,Ceuta,Ceuta,provincial,"0,00","0,00",0,"0,00"
+2020,Ceuta,Ceuta,provincial,0,0,"0,00",0
+2020,C. Valenciana,Alicante,CCAA,"15,63","34,87",0,"0,00"
+2020,C. Valenciana,Alicante,CCAA,0,0,"884,32",0
+2020,C. Valenciana,Alicante,State,"308,42","61,54",0,"84,10"
+2020,C. Valenciana,Alicante,State,0,0,"206,61",0
+2020,C. Valenciana,Alicante,provincial,"0,00","5,95",0,"0,00"
+2020,C. Valenciana,Alicante,provincial,0,0,"925,10",0
+2020,C. Valenciana,Castellón,CCAA,"45,97","31,44",0,"0,00"
+2020,C. Valenciana,Castellón,CCAA,0,0,"878,46",0
+2020,C. Valenciana,Castellón,State,"192,42","2,22",0,0
+2020,C. Valenciana,Castellón,State,0,0,"275,47",0
+2020,C. Valenciana,Castellón,provincial,"0,00","0,00",0,"0,00"
+2020,C. Valenciana,Castellón,provincial,0,0,"724,00",0
+2020,C. Valenciana,Valencia,CCAA,"56,05","120,81",0,"0,00"
+2020,C. Valenciana,Valencia,CCAA,0,0,"688,64",0
+2020,C. Valenciana,Valencia,State,"466,22","5,83",0,0
+2020,C. Valenciana,Valencia,State,0,0,"334,43",0
+2020,C. Valenciana,Valencia,provincial,"0,00","15,34",0,"0,00"
+2020,C. Valenciana,Valencia,provincial,0,0,"1.855,16",0
+2020,Extremadura,Badajoz,CCAA,"17,00","21,00",0,"0,00"
+2020,Extremadura,Badajoz,CCAA,0,0,"2.051,51",0
+2020,Extremadura,Badajoz,State,"241,28","18,01",0,"0,00"
+2020,Extremadura,Badajoz,State,0,0,"623,00",0
+2020,Extremadura,Badajoz,provincial,"0,00","0,00",0,"0,00"
+2020,Extremadura,Badajoz,provincial,0,0,"1.921,12",0
+2020,Extremadura,Cáceres,CCAA,"107,10","12,70",0,"0,00"
+2020,Extremadura,Cáceres,CCAA,0,0,"1.533,08",0
+2020,Extremadura,Cáceres,State,"337,55","20,91",0,"0,00"
+2020,Extremadura,Cáceres,State,0,0,"449,73",0
+2020,Extremadura,Cáceres,provincial,"0,00","0,00",0,"0,00"
+2020,Extremadura,Cáceres,provincial,0,0,"1.869,15",0
+2020,Galicia,"Coruña, A",CCAA,"126,86","2,55",0,"32,53"
+2020,Galicia,"Coruña, A",CCAA,0,0,"1.567,94",0
+2020,Galicia,"Coruña, A",State,"95,74","53,14",0,"146,32"
+2020,Galicia,"Coruña, A",State,0,0,"277,87",0
+2020,Galicia,"Coruña, A",provincial,"0,00","0,00",0,"0,00"
+2020,Galicia,"Coruña, A",provincial,0,0,"2.061,25",0
+2020,Galicia,Lugo,CCAA,"16,16","2,41",0,"0,00"
+2020,Galicia,Lugo,CCAA,0,0,"1.471,33",0
+2020,Galicia,Lugo,State,"243,09","14,53",0,0
+2020,Galicia,Lugo,State,0,0,"511,70",0
+2020,Galicia,Lugo,provincial,"0,00","0,00",0,"0,00"
+2020,Galicia,Lugo,provincial,0,0,"4.217,00",0
+2020,Galicia,Orense,CCAA,"47,97","2,07",0,"0,00"
+2020,Galicia,Orense,CCAA,0,0,"988,32",0
+2020,Galicia,Orense,State,"167,24","9,36",0,0
+2020,Galicia,Orense,State,0,0,"321,81",0
+2020,Galicia,Orense,provincial,"0,00","0,00",0,"0,00"
+2020,Galicia,Orense,provincial,0,0,"1.851,70",0
+2020,Galicia,Pontevedra,CCAA,"38,34","7,64",0,"20,98"
+2020,Galicia,Pontevedra,CCAA,0,0,"1.218,49",0
+2020,Galicia,Pontevedra,State,"81,29","9,24",0,"126,71"
+2020,Galicia,Pontevedra,State,0,0,"319,75",0
+2020,Galicia,Pontevedra,provincial,"0,00","0,00",0,"0,00"
+2020,Galicia,Pontevedra,provincial,0,0,"1.628,09",0
+2020,Madrid,Madrid,CCAA,"124,44","204,74",0,0
+2020,Madrid,Madrid,CCAA,0,0,"2.230,83",0
+2020,Madrid,Madrid,State,"483,80","7,20",0,"158,37"
+2020,Madrid,Madrid,State,0,0,"98,55",0
+2020,Madrid,Madrid,provincial,"0,00","0,00",0,"0,00"
+2020,Madrid,Madrid,provincial,0,0,"0,00",0
+2020,Melilla,Melilla,CCAA,"0,00","0,53",0,"0,00"
+2020,Melilla,Melilla,CCAA,0,0,"17,36",0
+2020,Melilla,Melilla,State,"0,00","0,00",0,"0,00"
+2020,Melilla,Melilla,State,0,0,"9,81",0
+2020,Melilla,Melilla,provincial,"0,00","0,00",0,"0,00"
+2020,Melilla,Melilla,provincial,0,0,"0,00",0
+2020,Murcia,Murcia,CCAA,"170,00","90,00",0,0
+2020,Murcia,Murcia,CCAA,0,0,"2.566,00",0
+2020,Murcia,Murcia,State,"313,50","11,30",0,"114,64"
+2020,Murcia,Murcia,State,0,0,"135,16",0
+2020,Murcia,Murcia,provincial,"0,00","0,00",0,"0,00"
+2020,Murcia,Murcia,provincial,0,0,"0,00",0
+2020,Navarra,Navarra,CCAA,"236,81","25,60",0,"144,90"
+2020,Navarra,Navarra,CCAA,0,0,"3.454,14",0
+2020,Navarra,Navarra,State,"0,00","0,00",0,"39,03"
+2020,Navarra,Navarra,State,0,0,"0,00",0
+2020,Navarra,Navarra,provincial,"0,00","0,00",0,"0,00"
+2020,Navarra,Navarra,provincial,0,0,"0,00",0
+2020,País Vasco,Guipúzcoa,CCAA,"0,00","0,00",0,"0,00"
+2020,País Vasco,Guipúzcoa,CCAA,0,0,"0,00",0
+2020,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2020,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2020,País Vasco,Guipúzcoa,provincial,"45,04","78,38",0,"107,20"
+2020,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2020,País Vasco,Vizcaya,CCAA,"0,00","0,00",0,"0,00"
+2020,País Vasco,Vizcaya,CCAA,0,0,"0,00",0
+2020,País Vasco,Vizcaya,State,"0,00","0,00",0,"0,00"
+2020,País Vasco,Vizcaya,State,0,0,"0,00",0
+2020,País Vasco,Vizcaya,provincial,"104,48","40,28",0,"72,34"
+2020,País Vasco,Vizcaya,provincial,0,0,"1.051,31",0
+2020,País Vasco,Álava,CCAA,"0,00","0,00",0,"0,00"
+2020,País Vasco,Álava,CCAA,0,0,"0,00",0
+2020,País Vasco,Álava,State,"0,00","0,00",0,"0,00"
+2020,País Vasco,Álava,State,0,0,"0,00",0
+2020,País Vasco,Álava,provincial,"100,97","10,61",0,"69,44"
+2020,País Vasco,Álava,provincial,0,0,"1.273,66",0
+2020,La Rioja,"Rioja, La",CCAA,"0,00","3,00",0,"0,00"
+2020,La Rioja,"Rioja, La",CCAA,0,0,"1.442,00",0
+2020,La Rioja,"Rioja, La",State,"62,19","1,15",0,"119,10"
+2020,La Rioja,"Rioja, La",State,0,0,"250,79",0
+2020,La Rioja,"Rioja, La",provincial,"0,00","0,00",0,"0,00"
+2020,La Rioja,"Rioja, La",provincial,0,0,"0,00",0
+2021,Andalucía,Almería,CCAA,"117,42","6,28",0,"0,00"
+2021,Andalucía,Almería,CCAA,0,0,"691,41",0
+2021,Andalucía,Almería,State,"203,50","1,12",0,"28,19"
+2021,Andalucía,Almería,State,0,0,"126,34",0
+2021,Andalucía,Almería,provincial,"0,00","0,00",0,"0,00"
+2021,Andalucía,Almería,provincial,0,0,"1.226,00",0
+2021,Andalucía,Cádiz,CCAA,"155,39","6,46",0,"0,00"
+2021,Andalucía,Cádiz,CCAA,0,0,"871,79",0
+2021,Andalucía,Cádiz,State,"163,99","31,86",0,"3,66"
+2021,Andalucía,Cádiz,State,0,0,"121,28",0
+2021,Andalucía,Cádiz,provincial,"0,00","0,00",0,"0,00"
+2021,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2021,Andalucía,Córdoba,CCAA,"9,97","17,44",0,"0,00"
+2021,Andalucía,Córdoba,CCAA,0,0,"1.614,05",0
+2021,Andalucía,Córdoba,State,"180,63","1,48",0,"0,00"
+2021,Andalucía,Córdoba,State,0,0,"437,49",0
+2021,Andalucía,Córdoba,provincial,"0,00","0,00",0,"0,00"
+2021,Andalucía,Córdoba,provincial,0,0,"1.807,81",0
+2021,Andalucía,Granada,CCAA,"235,69","11,81",0,"0,00"
+2021,Andalucía,Granada,CCAA,0,0,"1.388,60",0
+2021,Andalucía,Granada,State,"217,51","1,43",0,"0,00"
+2021,Andalucía,Granada,State,0,0,"190,54",0
+2021,Andalucía,Granada,provincial,"0,00","4,07",0,"0,00"
+2021,Andalucía,Granada,provincial,0,0,"1.260,63",0
+2021,Andalucía,Huelva,CCAA,"33,29","6,42",0,"0,00"
+2021,Andalucía,Huelva,CCAA,0,0,"730,20",0
+2021,Andalucía,Huelva,State,"136,89","11,36",0,"0,00"
+2021,Andalucía,Huelva,State,0,0,"332,29",0
+2021,Andalucía,Huelva,provincial,"0,00","0,00",0,"0,00"
+2021,Andalucía,Huelva,provincial,0,0,"832,78",0
+2021,Andalucía,Jaén,CCAA,"73,39","5,70",0,"0,00"
+2021,Andalucía,Jaén,CCAA,0,0,"1.399,66",0
+2021,Andalucía,Jaén,State,"217,14","0,00",0,"0,00"
+2021,Andalucía,Jaén,State,0,0,"243,76",0
+2021,Andalucía,Jaén,provincial,"0,00","0,00",0,"0,00"
+2021,Andalucía,Jaén,provincial,0,0,"907,16",0
+2021,Andalucía,Málaga,CCAA,"97,10","11,36",0,"0,00"
+2021,Andalucía,Málaga,CCAA,0,0,"1.162,83",0
+2021,Andalucía,Málaga,State,"241,76","23,29",0,"98,71"
+2021,Andalucía,Málaga,State,0,0,"35,63",0
+2021,Andalucía,Málaga,provincial,"0,00","0,00",0,"0,00"
+2021,Andalucía,Málaga,provincial,0,0,"859,60",0
+2021,Andalucía,Sevilla,CCAA,"156,77","49,55",0,"0,00"
+2021,Andalucía,Sevilla,CCAA,0,0,"1.699,92",0
+2021,Andalucía,Sevilla,State,"316,04","20,29",0,"0,00"
+2021,Andalucía,Sevilla,State,0,0,"131,94",0
+2021,Andalucía,Sevilla,provincial,"0,00","15,83",0,"0,00"
+2021,Andalucía,Sevilla,provincial,0,0,"1.450,10",0
+2021,Aragón,Huesca,CCAA,"0,00","0,00",0,"0,00"
+2021,Aragón,Huesca,CCAA,0,0,"2.076,00",0
+2021,Aragón,Huesca,State,"234,86","0,00",0,"0,00"
+2021,Aragón,Huesca,State,0,0,"657,01",0
+2021,Aragón,Huesca,provincial,"0,00","0,00",0,"0,00"
+2021,Aragón,Huesca,provincial,0,0,"1.712,00",0
+2021,Aragón,Teruel,CCAA,"0,00","0,00",0,"0,00"
+2021,Aragón,Teruel,CCAA,0,0,"1.639,19",0
+2021,Aragón,Teruel,State,"140,12","1,34",0,"0,00"
+2021,Aragón,Teruel,State,0,0,"537,35",0
+2021,Aragón,Teruel,provincial,"0,00","0,00",0,"0,00"
+2021,Aragón,Teruel,provincial,0,0,"975,19",0
+2021,Aragón,Zaragoza,CCAA,"0,00","9,41",0,"5,28"
+2021,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2021,Aragón,Zaragoza,State,"396,36","40,43",0,"54,80"
+2021,Aragón,Zaragoza,State,0,0,"476,45",0
+2021,Aragón,Zaragoza,provincial,"0,00","3,10",0,"0,00"
+2021,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2021,Asturias,Asturias,CCAA,"74,45","7,02",0,"0,00"
+2021,Asturias,Asturias,CCAA,0,0,"4.202,00",0
+2021,Asturias,Asturias,State,"357,68","5,37",0,"21,86"
+2021,Asturias,Asturias,State,0,0,"459,37",0
+2021,Asturias,Asturias,provincial,"0,00","0,00",0,"0,00"
+2021,Asturias,Asturias,provincial,0,0,"0,00",0
+2021,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2021,Islas Baleares,Baleares,State,0,0,"0,00",0
+2021,Islas Baleares,Baleares,provincial,"94,60","111,60",0,"0,00"
+2021,Islas Baleares,Baleares,provincial,0,0,"1.917,51",0
+2021,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2021,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2021,Canarias,"Palmas, Las",provincial,"142,42","76,06",0,"0,00"
+2021,Canarias,"Palmas, Las",provincial,0,0,"1.752,29",0
+2021,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2021,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2021,Canarias,"Tenerife, S.C.",provincial,"141,76","44,54",0,"0,00"
+2021,Canarias,"Tenerife, S.C.",provincial,0,0,"1.983,99",0
+2021,Cantabria,Cantabria,CCAA,"0,00","0,00",0,"0,00"
+2021,Cantabria,Cantabria,CCAA,0,0,"1.990,08",0
+2021,Cantabria,Cantabria,State,"254,91","2,95",0,"0,00"
+2021,Cantabria,Cantabria,State,0,0,"323,93",0
+2021,Cantabria,Cantabria,provincial,"0,00","0,00",0,"0,00"
+2021,Cantabria,Cantabria,provincial,0,0,"0,00",0
+2021,Castilla-La Mancha,Albacete,CCAA,"0,00","3,97",0,"0,00"
+2021,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2021,Castilla-La Mancha,Albacete,State,"297,03","0,00",0,"0,00"
+2021,Castilla-La Mancha,Albacete,State,0,0,"413,93",0
+2021,Castilla-La Mancha,Albacete,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla-La Mancha,Albacete,provincial,0,0,"1.404,00",0
+2021,Castilla-La Mancha,Ciudad Real,CCAA,"80,96","3,82",0,"0,00"
+2021,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2021,Castilla-La Mancha,Ciudad Real,State,"259,81","5,48",0,"0,00"
+2021,Castilla-La Mancha,Ciudad Real,State,0,0,"457,82",0
+2021,Castilla-La Mancha,Ciudad Real,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.727,00",0
+2021,Castilla-La Mancha,Cuenca,CCAA,"0,00","0,00",0,"0,00"
+2021,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2021,Castilla-La Mancha,Cuenca,State,"346,21","0,00",0,"49,83"
+2021,Castilla-La Mancha,Cuenca,State,0,0,"585,33",0
+2021,Castilla-La Mancha,Cuenca,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla-La Mancha,Cuenca,provincial,0,0,"1.557,20",0
+2021,Castilla-La Mancha,Guadalajara,CCAA,"0,00","0,00",0,"9,26"
+2021,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2021,Castilla-La Mancha,Guadalajara,State,"99,67","0,57",0,"24,02"
+2021,Castilla-La Mancha,Guadalajara,State,0,0,"290,45",0
+2021,Castilla-La Mancha,Guadalajara,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.568,00",0
+2021,Castilla-La Mancha,Toledo,CCAA,"146,31","0,00",0,"0,00"
+2021,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2021,Castilla-La Mancha,Toledo,State,"380,19","10,13",0,"140,27"
+2021,Castilla-La Mancha,Toledo,State,0,0,"372,66",0
+2021,Castilla-La Mancha,Toledo,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla-La Mancha,Toledo,provincial,0,0,"960,00",0
+2021,Castilla y León,Burgos,CCAA,"46,75","5,82",0,"0,00"
+2021,Castilla y León,Burgos,CCAA,0,0,"1.765,83",0
+2021,Castilla y León,Burgos,State,"294,28","17,86",0,"0,49"
+2021,Castilla y León,Burgos,State,0,0,"670,05",0
+2021,Castilla y León,Burgos,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Burgos,provincial,0,0,"2.300,00",0
+2021,Castilla y León,León,CCAA,"68,14","5,79",0,"0,00"
+2021,Castilla y León,León,CCAA,0,0,"1.733,98",0
+2021,Castilla y León,León,State,"251,03","15,77",0,"94,39"
+2021,Castilla y León,León,State,0,0,"560,90",0
+2021,Castilla y León,León,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,León,provincial,0,0,"3.310,32",0
+2021,Castilla y León,Palencia,CCAA,"62,05","0,00",0,"0,00"
+2021,Castilla y León,Palencia,CCAA,0,0,"1.469,40",0
+2021,Castilla y León,Palencia,State,"194,14","0,00",0,"0,00"
+2021,Castilla y León,Palencia,State,0,0,"247,57",0
+2021,Castilla y León,Palencia,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Palencia,provincial,0,0,"1.035,00",0
+2021,Castilla y León,Salamanca,CCAA,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Salamanca,CCAA,0,0,"1.260,01",0
+2021,Castilla y León,Salamanca,State,"305,45","8,44",0,"0,00"
+2021,Castilla y León,Salamanca,State,0,0,"268,58",0
+2021,Castilla y León,Salamanca,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Salamanca,provincial,0,0,"2.301,29",0
+2021,Castilla y León,Segovia,CCAA,"64,48","6,20",0,"0,00"
+2021,Castilla y León,Segovia,CCAA,0,0,"700,60",0
+2021,Castilla y León,Segovia,State,"62,57","0,00",0,"69,47"
+2021,Castilla y León,Segovia,State,0,0,"235,36",0
+2021,Castilla y León,Segovia,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Segovia,provincial,0,0,"1.229,35",0
+2021,Castilla y León,Soria,CCAA,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Soria,CCAA,0,0,"898,37",0
+2021,Castilla y León,Soria,State,"158,47","1,74",0,"0,00"
+2021,Castilla y León,Soria,State,0,0,"402,43",0
+2021,Castilla y León,Soria,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Soria,provincial,0,0,"1.888,74",0
+2021,Castilla y León,Valladolid,CCAA,"39,81","0,00",0,"0,00"
+2021,Castilla y León,Valladolid,CCAA,0,0,"1.060,34",0
+2021,Castilla y León,Valladolid,State,"259,94","16,94",0,"0,00"
+2021,Castilla y León,Valladolid,State,0,0,"267,27",0
+2021,Castilla y León,Valladolid,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Valladolid,provincial,0,0,"1.435,00",0
+2021,Castilla y León,Zamora,CCAA,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Zamora,CCAA,0,0,"1.139,30",0
+2021,Castilla y León,Zamora,State,"336,79","16,73",0,"0,00"
+2021,Castilla y León,Zamora,State,0,0,"421,39",0
+2021,Castilla y León,Zamora,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Zamora,provincial,0,0,"1.571,00",0
+2021,Castilla y León,Ávila,CCAA,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Ávila,CCAA,0,0,"986,81",0
+2021,Castilla y León,Ávila,State,"86,97","3,24",0,"37,40"
+2021,Castilla y León,Ávila,State,0,0,"345,16",0
+2021,Castilla y León,Ávila,provincial,"0,00","0,00",0,"0,00"
+2021,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2021,Cataluña,Barcelona,CCAA,"288,88","57,34",0,"159,28"
+2021,Cataluña,Barcelona,CCAA,0,0,"1.525,60",0
+2021,Cataluña,Barcelona,State,"260,52","2,92",0,"4,36"
+2021,Cataluña,Barcelona,State,0,0,"42,63",0
+2021,Cataluña,Barcelona,provincial,"0,00","1,25",0,"0,00"
+2021,Cataluña,Barcelona,provincial,0,0,"1.565,59",0
+2021,Cataluña,Gerona,CCAA,"90,28","22,38",0,"0,00"
+2021,Cataluña,Gerona,CCAA,0,0,"1.119,45",0
+2021,Cataluña,Gerona,State,"128,35","6,27",0,"0,00"
+2021,Cataluña,Gerona,State,0,0,"273,34",0
+2021,Cataluña,Gerona,provincial,"0,00","2,59",0,"0,00"
+2021,Cataluña,Gerona,provincial,0,0,"788,45",0
+2021,Cataluña,Lérida,CCAA,"28,32","0,00",0,"0,00"
+2021,Cataluña,Lérida,CCAA,0,0,"1.528,73",0
+2021,Cataluña,Lérida,State,"195,37","10,06",0,"0,00"
+2021,Cataluña,Lérida,State,0,0,"304,17",0
+2021,Cataluña,Lérida,provincial,"0,00","0,00",0,"0,00"
+2021,Cataluña,Lérida,provincial,0,0,"805,00",0
+2021,Cataluña,Tarragona,CCAA,"23,41","22,31",0,"10,59"
+2021,Cataluña,Tarragona,CCAA,0,0,"1.064,52",0
+2021,Cataluña,Tarragona,State,"281,82","11,30",0,"0,00"
+2021,Cataluña,Tarragona,State,0,0,"264,30",0
+2021,Cataluña,Tarragona,provincial,"0,00","8,10",0,"0,00"
+2021,Cataluña,Tarragona,provincial,0,0,"1.077,60",0
+2021,Ceuta,Ceuta,CCAA,"0,00","0,00",0,"0,00"
+2021,Ceuta,Ceuta,CCAA,0,0,"21,02",0
+2021,Ceuta,Ceuta,State,"0,00","1,04",0,"0,00"
+2021,Ceuta,Ceuta,State,0,0,"15,55",0
+2021,Ceuta,Ceuta,provincial,"0,00","0,00",0,"0,00"
+2021,Ceuta,Ceuta,provincial,0,0,"0,00",0
+2021,C. Valenciana,Alicante,CCAA,"15,63","56,84",0,"0,00"
+2021,C. Valenciana,Alicante,CCAA,0,0,"947,04",0
+2021,C. Valenciana,Alicante,State,"320,35","61,54",0,"80,52"
+2021,C. Valenciana,Alicante,State,0,0,"189,19",0
+2021,C. Valenciana,Alicante,provincial,"0,00","5,91",0,"0,00"
+2021,C. Valenciana,Alicante,provincial,0,0,"925,83",0
+2021,C. Valenciana,Castellón,CCAA,"45,97","46,01",0,"0,00"
+2021,C. Valenciana,Castellón,CCAA,0,0,"947,07",0
+2021,C. Valenciana,Castellón,State,"192,42","2,22",0,"0,00"
+2021,C. Valenciana,Castellón,State,0,0,"268,94",0
+2021,C. Valenciana,Castellón,provincial,"0,00","0,00",0,"0,00"
+2021,C. Valenciana,Castellón,provincial,0,0,"723,23",0
+2021,C. Valenciana,Valencia,CCAA,"42,66","113,38",0,"0,00"
+2021,C. Valenciana,Valencia,CCAA,0,0,"998,23",0
+2021,C. Valenciana,Valencia,State,"467,52","5,83",0,"0,00"
+2021,C. Valenciana,Valencia,State,0,0,"328,04",0
+2021,C. Valenciana,Valencia,provincial,"0,00","10,75",0,"0,00"
+2021,C. Valenciana,Valencia,provincial,0,0,"1.750,00",0
+2021,Extremadura,Badajoz,CCAA,"17,00","21,00",0,"0,00"
+2021,Extremadura,Badajoz,CCAA,0,0,"2.041,15",0
+2021,Extremadura,Badajoz,State,"241,28","18,01",0,"0,00"
+2021,Extremadura,Badajoz,State,0,0,"623,00",0
+2021,Extremadura,Badajoz,provincial,"0,00","0,00",0,"0,00"
+2021,Extremadura,Badajoz,provincial,0,0,"1.913,22",0
+2021,Extremadura,Cáceres,CCAA,"107,10","12,70",0,"0,00"
+2021,Extremadura,Cáceres,CCAA,0,0,"1.533,08",0
+2021,Extremadura,Cáceres,State,"337,55","20,38",0,"0,00"
+2021,Extremadura,Cáceres,State,0,0,"447,66",0
+2021,Extremadura,Cáceres,provincial,"0,00","0,00",0,"0,00"
+2021,Extremadura,Cáceres,provincial,0,0,"1.869,15",0
+2021,Galicia,"Coruña, A",CCAA,"126,86","2,55",0,"32,53"
+2021,Galicia,"Coruña, A",CCAA,0,0,"1.559,52",0
+2021,Galicia,"Coruña, A",State,"95,75","49,37",0,"146,32"
+2021,Galicia,"Coruña, A",State,0,0,"280,30",0
+2021,Galicia,"Coruña, A",provincial,"0,00","0,00",0,"0,00"
+2021,Galicia,"Coruña, A",provincial,0,0,"2.061,00",0
+2021,Galicia,Lugo,CCAA,"16,16","2,40",0,"0,00"
+2021,Galicia,Lugo,CCAA,0,0,"1.457,27",0
+2021,Galicia,Lugo,State,"243,09","14,53",0,"0,00"
+2021,Galicia,Lugo,State,0,0,"511,21",0
+2021,Galicia,Lugo,provincial,"0,00","0,00",0,"0,00"
+2021,Galicia,Lugo,provincial,0,0,"4.217,00",0
+2021,Galicia,Orense,CCAA,"47,97","2,07",0,"0,00"
+2021,Galicia,Orense,CCAA,0,0,"973,68",0
+2021,Galicia,Orense,State,"167,24","9,36",0,"0,00"
+2021,Galicia,Orense,State,0,0,"320,81",0
+2021,Galicia,Orense,provincial,0,0,"1.851,96",0
+2021,Galicia,Pontevedra,CCAA,"38,34","7,64",0,"20,92"
+2021,Galicia,Pontevedra,CCAA,0,0,"1.208,80",0
+2021,Galicia,Pontevedra,State,"81,29","9,24",0,"126,71"
+2021,Galicia,Pontevedra,State,0,0,"319,75",0
+2021,Galicia,Pontevedra,provincial,"0,00","0,00",0,"0,00"
+2021,Galicia,Pontevedra,provincial,0,0,"1.623,89",0
+2021,Madrid,Madrid,CCAA,"124,44","204,74",0,"0,00"
+2021,Madrid,Madrid,CCAA,0,0,"2.227,45",0
+2021,Madrid,Madrid,State,"488,86","7,20",0,"153,31"
+2021,Madrid,Madrid,State,0,0,"98,14",0
+2021,Madrid,Madrid,provincial,"0,00","0,00",0,"0,00"
+2021,Madrid,Madrid,provincial,0,0,"0,00",0
+2021,Melilla,Melilla,CCAA,"0,00","0,53",0,"0,00"
+2021,Melilla,Melilla,CCAA,0,0,"17,36",0
+2021,Melilla,Melilla,State,"0,00","0,00",0,"0,00"
+2021,Melilla,Melilla,State,0,0,"9,81",0
+2021,Melilla,Melilla,provincial,"0,00","0,00",0,"0,00"
+2021,Melilla,Melilla,provincial,0,0,"0,00",0
+2021,Murcia,Murcia,CCAA,"166,99","90,11",0,"0,00"
+2021,Murcia,Murcia,CCAA,0,0,"2.512,00",0
+2021,Murcia,Murcia,State,"320,11","11,30",0,"114,64"
+2021,Murcia,Murcia,State,0,0,"135,16",0
+2021,Murcia,Murcia,provincial,"0,00","0,00",0,"0,00"
+2021,Murcia,Murcia,provincial,0,0,"0,00",0
+2021,Navarra,Navarra,CCAA,"236,81","25,60",0,"144,90"
+2021,Navarra,Navarra,CCAA,0,0,"3.454,14",0
+2021,Navarra,Navarra,State,"0,00","0,00",0,"39,03"
+2021,Navarra,Navarra,State,0,0,"0,00",0
+2021,Navarra,Navarra,provincial,"0,00","0,00",0,"0,00"
+2021,Navarra,Navarra,provincial,0,0,"0,00",0
+2021,País Vasco,Guipúzcoa,CCAA,"0,00","0,00",0,"0,00"
+2021,País Vasco,Guipúzcoa,CCAA,0,0,"0,00",0
+2021,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2021,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2021,País Vasco,Guipúzcoa,provincial,"45,04","78,38",0,"107,20"
+2021,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2021,País Vasco,Vizcaya,CCAA,"0,00","0,00",0,"0,00"
+2021,País Vasco,Vizcaya,CCAA,0,0,"0,00",0
+2021,País Vasco,Vizcaya,State,"0,00","0,00",0,"0,00"
+2021,País Vasco,Vizcaya,State,0,0,"0,00",0
+2021,País Vasco,Vizcaya,provincial,"104,49","39,89",0,"72,33"
+2021,País Vasco,Vizcaya,provincial,0,0,"1.047,77",0
+2021,País Vasco,Álava,CCAA,"0,00","0,00",0,"0,00"
+2021,País Vasco,Álava,CCAA,0,0,"0,00",0
+2021,País Vasco,Álava,State,"0,00","0,00",0,"0,00"
+2021,País Vasco,Álava,State,0,0,"0,00",0
+2021,País Vasco,Álava,provincial,"100,97","10,61",0,"69,44"
+2021,País Vasco,Álava,provincial,0,0,"1.273,66",0
+2021,La Rioja,"Rioja, La",CCAA,"0,00","3,00",0,"0,00"
+2021,La Rioja,"Rioja, La",CCAA,0,0,"1.442,00",0
+2021,La Rioja,"Rioja, La",State,"62,19","1,15",0,"119,10"
+2021,La Rioja,"Rioja, La",State,0,0,"250,79",0
+2021,La Rioja,"Rioja, La",provincial,"0,00","0,00",0,"0,00"
+2021,La Rioja,"Rioja, La",provincial,0,0,"0,00",0
+2022,Andalucía,Almería,CCAA,"117,42","6,28",0,"0,00"
+2022,Andalucía,Almería,CCAA,0,0,"688,26",0
+2022,Andalucía,Almería,State,"203,85","0,86",0,"27,40"
+2022,Andalucía,Almería,State,0,0,"126,08",0
+2022,Andalucía,Almería,provincial,"0,00","0,00",0,"0,00"
+2022,Andalucía,Almería,provincial,0,0,"1.226,00",0
+2022,Andalucía,Cádiz,CCAA,"155,39","6,46",0,"0,00"
+2022,Andalucía,Cádiz,CCAA,0,0,"870,25",0
+2022,Andalucía,Cádiz,State,"165,63","32,06",0,"4,28"
+2022,Andalucía,Cádiz,State,0,0,"120,01",0
+2022,Andalucía,Cádiz,provincial,"0,00","0,00",0,"0,00"
+2022,Andalucía,Cádiz,provincial,0,0,"806,68",0
+2022,Andalucía,Córdoba,CCAA,"9,68","17,73",0,"0,00"
+2022,Andalucía,Córdoba,CCAA,0,0,"1.613,34",0
+2022,Andalucía,Córdoba,State,"177,14","1,48",0,"0,00"
+2022,Andalucía,Córdoba,State,0,0,"439,96",0
+2022,Andalucía,Córdoba,provincial,"0,00","0,00",0,"0,00"
+2022,Andalucía,Córdoba,provincial,0,0,"1.883,26",0
+2022,Andalucía,Granada,CCAA,"235,55","11,81",0,"0,00"
+2022,Andalucía,Granada,CCAA,0,0,"1.390,06",0
+2022,Andalucía,Granada,State,"218,88","1,43",0,"0,00"
+2022,Andalucía,Granada,State,0,0,"190,14",0
+2022,Andalucía,Granada,provincial,"0,00","4,07",0,"0,00"
+2022,Andalucía,Granada,provincial,0,0,"1.260,63",0
+2022,Andalucía,Huelva,CCAA,"33,29","6,42",0,"0,00"
+2022,Andalucía,Huelva,CCAA,0,0,"731,29",0
+2022,Andalucía,Huelva,State,"137,19","11,78",0,"0,00"
+2022,Andalucía,Huelva,State,0,0,"328,45",0
+2022,Andalucía,Huelva,provincial,"0,00","0,00",0,"0,00"
+2022,Andalucía,Huelva,provincial,0,0,"832,78",0
+2022,Andalucía,Jaén,CCAA,"73,39","7,85",0,"0,00"
+2022,Andalucía,Jaén,CCAA,0,0,"1.398,16",0
+2022,Andalucía,Jaén,State,"266,63","0,00",0,"0,00"
+2022,Andalucía,Jaén,State,0,0,"240,49",0
+2022,Andalucía,Jaén,provincial,"0,00","0,00",0,"0,00"
+2022,Andalucía,Jaén,provincial,0,0,"907,16",0
+2022,Andalucía,Málaga,CCAA,"97,16","9,43",0,"0,00"
+2022,Andalucía,Málaga,CCAA,0,0,"1.146,25",0
+2022,Andalucía,Málaga,State,"240,36","22,52",0,"98,31"
+2022,Andalucía,Málaga,State,0,0,"35,59",0
+2022,Andalucía,Málaga,provincial,"0,00","0,00",0,"0,00"
+2022,Andalucía,Málaga,provincial,0,0,"859,60",0
+2022,Andalucía,Sevilla,CCAA,"156,85","48,98",0,"0,00"
+2022,Andalucía,Sevilla,CCAA,0,0,"1.706,57",0
+2022,Andalucía,Sevilla,State,"314,87","27,40",0,"0,00"
+2022,Andalucía,Sevilla,State,0,0,"131,16",0
+2022,Andalucía,Sevilla,provincial,"0,00","12,90",0,"0,00"
+2022,Andalucía,Sevilla,provincial,0,0,"1.450,10",0
+2022,Aragón,Huesca,CCAA,"0,00","0,00",0,"0,00"
+2022,Aragón,Huesca,CCAA,0,0,"2.076,00",0
+2022,Aragón,Huesca,State,"233,81","0,00",0,"0,00"
+2022,Aragón,Huesca,State,0,0,"658,22",0
+2022,Aragón,Huesca,provincial,"0,00","0,00",0,"0,00"
+2022,Aragón,Huesca,provincial,0,0,"1.709,44",0
+2022,Aragón,Teruel,CCAA,"0,00","0,00",0,"0,00"
+2022,Aragón,Teruel,CCAA,0,0,"1.628,21",0
+2022,Aragón,Teruel,State,"140,06","5,01",0,"0,00"
+2022,Aragón,Teruel,State,0,0,"531,90",0
+2022,Aragón,Teruel,provincial,"0,00","0,00",0,"0,00"
+2022,Aragón,Teruel,provincial,0,0,"975,00",0
+2022,Aragón,Zaragoza,CCAA,"0,00","9,41",0,"5,28"
+2022,Aragón,Zaragoza,CCAA,0,0,"2.043,36",0
+2022,Aragón,Zaragoza,State,"403,25","36,11",0,"54,91"
+2022,Aragón,Zaragoza,State,0,0,"471,43",0
+2022,Aragón,Zaragoza,provincial,"0,00","3,15",0,"0,00"
+2022,Aragón,Zaragoza,provincial,0,0,"1.016,75",0
+2022,Asturias,Asturias,CCAA,"74,45","7,02",0,"0,00"
+2022,Asturias,Asturias,CCAA,0,0,"4.202,00",0
+2022,Asturias,Asturias,State,"363,74","17,40",0,"19,81"
+2022,Asturias,Asturias,State,0,0,"448,14",0
+2022,Islas Baleares,Baleares,State,"0,00","0,00",0,"0,00"
+2022,Islas Baleares,Baleares,State,0,0,"0,00",0
+2022,Islas Baleares,Baleares,provincial,"94,60","116,10",0,"0,00"
+2022,Islas Baleares,Baleares,provincial,0,0,"1.943,84",0
+2022,Canarias,"Palmas, Las",State,"0,00","0,00",0,"0,00"
+2022,Canarias,"Palmas, Las",State,0,0,"0,00",0
+2022,Canarias,"Palmas, Las",provincial,"142,42","76,89",0,"0,00"
+2022,Canarias,"Palmas, Las",provincial,0,0,"1.772,45",0
+2022,Canarias,"Tenerife, S.C.",State,"0,00","0,00",0,"0,00"
+2022,Canarias,"Tenerife, S.C.",State,0,0,"0,00",0
+2022,Canarias,"Tenerife, S.C.",provincial,"141,76","44,54",0,"0,00"
+2022,Canarias,"Tenerife, S.C.",provincial,0,0,"1.998,59",0
+2022,Cantabria,Cantabria,CCAA,0,0,"1.984,26",0
+2022,Cantabria,Cantabria,State,"253,36","3,19",0,"0,00"
+2022,Cantabria,Cantabria,State,0,0,"324,93",0
+2022,Castilla-La Mancha,Albacete,CCAA,"0,00","3,97",0,"0,00"
+2022,Castilla-La Mancha,Albacete,CCAA,0,0,"1.612,62",0
+2022,Castilla-La Mancha,Albacete,State,"278,10","0,00",0,"0,00"
+2022,Castilla-La Mancha,Albacete,State,0,0,"418,40",0
+2022,Castilla-La Mancha,Albacete,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla-La Mancha,Albacete,provincial,0,0,"1.403,31",0
+2022,Castilla-La Mancha,Ciudad Real,CCAA,"80,90","3,82",0,"0,00"
+2022,Castilla-La Mancha,Ciudad Real,CCAA,0,0,"1.720,13",0
+2022,Castilla-La Mancha,Ciudad Real,State,"258,92","3,38",0,"0,00"
+2022,Castilla-La Mancha,Ciudad Real,State,0,0,"456,46",0
+2022,Castilla-La Mancha,Ciudad Real,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla-La Mancha,Ciudad Real,provincial,0,0,"1.727,00",0
+2022,Castilla-La Mancha,Cuenca,CCAA,"0,00","0,00",0,"0,00"
+2022,Castilla-La Mancha,Cuenca,CCAA,0,0,"1.718,81",0
+2022,Castilla-La Mancha,Cuenca,State,"347,50","0,00",0,"50,90"
+2022,Castilla-La Mancha,Cuenca,State,0,0,"582,43",0
+2022,Castilla-La Mancha,Cuenca,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla-La Mancha,Cuenca,provincial,0,0,"1.545,00",0
+2022,Castilla-La Mancha,Guadalajara,CCAA,"9,26","0,00",0,"0,00"
+2022,Castilla-La Mancha,Guadalajara,CCAA,0,0,"1.461,81",0
+2022,Castilla-La Mancha,Guadalajara,State,"99,74","0,57",0,"23,10"
+2022,Castilla-La Mancha,Guadalajara,State,0,0,"290,27",0
+2022,Castilla-La Mancha,Guadalajara,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla-La Mancha,Guadalajara,provincial,0,0,"1.609,70",0
+2022,Castilla-La Mancha,Toledo,CCAA,"146,31","0,00",0,"0,00"
+2022,Castilla-La Mancha,Toledo,CCAA,0,0,"1.923,40",0
+2022,Castilla-La Mancha,Toledo,State,"380,40","10,07",0,"138,40"
+2022,Castilla-La Mancha,Toledo,State,0,0,"371,27",0
+2022,Castilla-La Mancha,Toledo,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla-La Mancha,Toledo,provincial,0,0,"960,00",0
+2022,Castilla y León,Burgos,CCAA,"46,75","5,82",0,"0,00"
+2022,Castilla y León,Burgos,CCAA,0,0,"1.816,52",0
+2022,Castilla y León,Burgos,State,"293,65","17,69",0,"0,30"
+2022,Castilla y León,Burgos,State,0,0,"669,93",0
+2022,Castilla y León,Burgos,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Burgos,provincial,0,0,"2.300,00",0
+2022,Castilla y León,León,CCAA,"68,14","5,79",0,"0,00"
+2022,Castilla y León,León,CCAA,0,0,"1.807,93",0
+2022,Castilla y León,León,State,"253,74","16,05",0,"92,65"
+2022,Castilla y León,León,State,0,0,"564,50",0
+2022,Castilla y León,León,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,León,provincial,0,0,"3.320,00",0
+2022,Castilla y León,Palencia,CCAA,"62,05","0,00",0,"0,00"
+2022,Castilla y León,Palencia,CCAA,0,0,"1.531,48",0
+2022,Castilla y León,Palencia,State,"194,11","0,00",0,"0,00"
+2022,Castilla y León,Palencia,State,0,0,"245,12",0
+2022,Castilla y León,Palencia,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Palencia,provincial,0,0,"1.035,08",0
+2022,Castilla y León,Salamanca,CCAA,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Salamanca,CCAA,0,0,"1.260,10",0
+2022,Castilla y León,Salamanca,State,"305,37","7,83",0,"0,00"
+2022,Castilla y León,Salamanca,State,0,0,"270,72",0
+2022,Castilla y León,Salamanca,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Salamanca,provincial,0,0,"2.301,29",0
+2022,Castilla y León,Segovia,CCAA,"64,47","6,20",0,"0,00"
+2022,Castilla y León,Segovia,CCAA,0,0,"771,27",0
+2022,Castilla y León,Segovia,State,"64,88","0,00",0,"66,93"
+2022,Castilla y León,Segovia,State,0,0,"237,00",0
+2022,Castilla y León,Segovia,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Segovia,provincial,0,0,"1.229,35",0
+2022,Castilla y León,Soria,CCAA,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Soria,CCAA,0,0,"898,37",0
+2022,Castilla y León,Soria,State,"175,06","2,42",0,"0,00"
+2022,Castilla y León,Soria,State,0,0,"401,82",0
+2022,Castilla y León,Soria,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Soria,provincial,0,0,"1.888,74",0
+2022,Castilla y León,Valladolid,CCAA,"39,81","0,00",0,"0,00"
+2022,Castilla y León,Valladolid,CCAA,0,0,"1.100,16",0
+2022,Castilla y León,Valladolid,State,"262,11","13,70",0,"0,00"
+2022,Castilla y León,Valladolid,State,0,0,"267,21",0
+2022,Castilla y León,Valladolid,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Valladolid,provincial,0,0,"1.435,00",0
+2022,Castilla y León,Zamora,CCAA,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Zamora,CCAA,0,0,"1.136,91",0
+2022,Castilla y León,Zamora,State,"334,87","15,69",0,"0,00"
+2022,Castilla y León,Zamora,State,0,0,"422,94",0
+2022,Castilla y León,Zamora,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Zamora,provincial,0,0,"1.571,00",0
+2022,Castilla y León,Ávila,CCAA,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Ávila,CCAA,0,0,"986,83",0
+2022,Castilla y León,Ávila,State,"88,89","12,44",0,"35,32"
+2022,Castilla y León,Ávila,State,0,0,"336,53",0
+2022,Castilla y León,Ávila,provincial,"0,00","0,00",0,"0,00"
+2022,Castilla y León,Ávila,provincial,0,0,"1.065,00",0
+2022,Cataluña,Barcelona,CCAA,"354,83","59,04",0,"90,75"
+2022,Cataluña,Barcelona,CCAA,0,0,"1.548,84",0
+2022,Cataluña,Barcelona,State,"262,48","2,92",0,"4,85"
+2022,Cataluña,Barcelona,State,0,0,"42,31",0
+2022,Cataluña,Barcelona,provincial,"0,00","1,25",0,"0,00"
+2022,Cataluña,Barcelona,provincial,0,0,"1.565,59",0
+2022,Cataluña,Gerona,CCAA,"90,19","22,38",0,"0,00"
+2022,Cataluña,Gerona,CCAA,0,0,"1.114,20",0
+2022,Cataluña,Gerona,State,"128,35","5,91",0,"0,00"
+2022,Cataluña,Gerona,State,0,0,"274,48",0
+2022,Cataluña,Gerona,provincial,"0,00","2,59",0,"0,00"
+2022,Cataluña,Gerona,provincial,0,0,"786,22",0
+2022,Cataluña,Lérida,CCAA,"26,73","0,00",0,"0,00"
+2022,Cataluña,Lérida,CCAA,0,0,"1.541,35",0
+2022,Cataluña,Lérida,State,"192,61","18,06",0,"0,00"
+2022,Cataluña,Lérida,State,0,0,"295,64",0
+2022,Cataluña,Lérida,provincial,"0,00","0,00",0,"0,00"
+2022,Cataluña,Lérida,provincial,0,0,"800,00",0
+2022,Cataluña,Tarragona,CCAA,"23,24","22,28",0,"11,07"
+2022,Cataluña,Tarragona,CCAA,0,0,"1.066,03",0
+2022,Cataluña,Tarragona,State,"280,29","12,37",0,"0,00"
+2022,Cataluña,Tarragona,State,0,0,"263,11",0
+2022,Cataluña,Tarragona,provincial,"0,00","8,10",0,"0,00"
+2022,Cataluña,Tarragona,provincial,0,0,"1.072,80",0
+2022,Ceuta,Ceuta,CCAA,"0,00","0,00",0,"0,00"
+2022,Ceuta,Ceuta,CCAA,0,0,"21,02",0
+2022,Ceuta,Ceuta,State,"0,00","1,04",0,"0,00"
+2022,Ceuta,Ceuta,State,0,0,"15,19",0
+2022,C. Valenciana,Alicante,CCAA,"15,63","57,49",0,"0,00"
+2022,C. Valenciana,Alicante,CCAA,0,0,"884,84",0
+2022,C. Valenciana,Alicante,State,"360,45","73,78",0,"42,70"
+2022,C. Valenciana,Alicante,State,0,0,"178,93",0
+2022,C. Valenciana,Alicante,provincial,"0,00","5,91",0,"0,00"
+2022,C. Valenciana,Alicante,provincial,0,0,"925,83",0
+2022,C. Valenciana,Castellón,CCAA,"42,80","49,18",0,"0,00"
+2022,C. Valenciana,Castellón,CCAA,0,0,"878,03",0
+2022,C. Valenciana,Castellón,State,"193,36","1,77",0,"0,00"
+2022,C. Valenciana,Castellón,State,0,0,"263,24",0
+2022,C. Valenciana,Castellón,provincial,"0,00","0,00",0,"0,00"
+2022,C. Valenciana,Castellón,provincial,0,0,"723,23",0
+2022,C. Valenciana,Valencia,CCAA,"42,66","115,29",0,"0,00"
+2022,C. Valenciana,Valencia,CCAA,0,0,"674,69",0
+2022,C. Valenciana,Valencia,State,"464,69","6,91",0,"0,00"
+2022,C. Valenciana,Valencia,State,0,0,"319,37",0
+2022,C. Valenciana,Valencia,provincial,"0,00","10,75",0,"0,00"
+2022,C. Valenciana,Valencia,provincial,0,0,"1.750,00",0
+2022,Extremadura,Badajoz,CCAA,"17,00","15,71",0,"0,00"
+2022,Extremadura,Badajoz,CCAA,0,0,"2.050,95",0
+2022,Extremadura,Badajoz,State,"241,42","18,60",0,"0,00"
+2022,Extremadura,Badajoz,State,0,0,"621,28",0
+2022,Extremadura,Badajoz,provincial,"0,00","0,00",0,"0,00"
+2022,Extremadura,Badajoz,provincial,0,0,"1.934,99",0
+2022,Extremadura,Cáceres,CCAA,"107,10","16,45",0,"0,00"
+2022,Extremadura,Cáceres,CCAA,0,0,"1.534,67",0
+2022,Extremadura,Cáceres,State,"344,69","20,77",0,"0,00"
+2022,Extremadura,Cáceres,State,0,0,"450,61",0
+2022,Extremadura,Cáceres,provincial,"0,00","0,00",0,"0,00"
+2022,Extremadura,Cáceres,provincial,0,0,"1.869,15",0
+2022,Galicia,"Coruña, A",CCAA,"126,86","2,14",0,"32,53"
+2022,Galicia,"Coruña, A",CCAA,0,0,"1.549,41",0
+2022,Galicia,"Coruña, A",State,"123,55","48,80",0,"118,14"
+2022,Galicia,"Coruña, A",State,0,0,"278,19",0
+2022,Galicia,"Coruña, A",provincial,"0,00","0,00",0,"0,00"
+2022,Galicia,"Coruña, A",provincial,0,0,"2.055,00",0
+2022,Galicia,Lugo,CCAA,"28,26","0,00",0,"0,00"
+2022,Galicia,Lugo,CCAA,0,0,"1.445,74",0
+2022,Galicia,Lugo,State,"243,75","12,76",0,"0,00"
+2022,Galicia,Lugo,State,0,0,"516,24",0
+2022,Galicia,Lugo,provincial,"0,00","0,00",0,"0,00"
+2022,Galicia,Lugo,provincial,0,0,"4.217,00",0
+2022,Galicia,Orense,CCAA,"47,97","2,07",0,"0,00"
+2022,Galicia,Orense,CCAA,0,0,"973,68",0
+2022,Galicia,Orense,State,"168,03","9,44",0,"0,00"
+2022,Galicia,Orense,State,0,0,"322,17",0
+2022,Galicia,Orense,provincial,0,0,"1.851,99",0
+2022,Galicia,Pontevedra,CCAA,"38,97","7,01",0,"21,02"
+2022,Galicia,Pontevedra,CCAA,0,0,"1.207,65",0
+2022,Galicia,Pontevedra,State,"103,17","8,81",0,"104,36"
+2022,Galicia,Pontevedra,State,0,0,"318,46",0
+2022,Galicia,Pontevedra,provincial,"0,00","0,00",0,"0,00"
+2022,Galicia,Pontevedra,provincial,0,0,"1.616,84",0
+2022,Madrid,Madrid,CCAA,"95,36","222,45",0,"0,00"
+2022,Madrid,Madrid,CCAA,0,0,"2.178,83",0
+2022,Madrid,Madrid,State,"499,79","7,20",0,"139,36"
+2022,Madrid,Madrid,State,0,0,"96,93",0
+2022,Melilla,Melilla,CCAA,0,0,"17,36",0
+2022,Melilla,Melilla,State,"0,00","0,00",0,"0,00"
+2022,Melilla,Melilla,State,0,0,"9,81",0
+2022,Murcia,Murcia,CCAA,"167,00","90,11",0,"0,00"
+2022,Murcia,Murcia,CCAA,0,0,"2.512,00",0
+2022,Murcia,Murcia,State,"360,42","11,28",0,"73,82"
+2022,Murcia,Murcia,State,0,0,"133,63",0
+2022,Navarra,Navarra,CCAA,"236,81","26,33",0,"144,90"
+2022,Navarra,Navarra,CCAA,0,0,"3.548,58",0
+2022,Navarra,Navarra,State,"0,00","0,00",0,"39,66"
+2022,Navarra,Navarra,State,0,0,"0,00",0
+2022,País Vasco,Guipúzcoa,State,"0,00","0,00",0,"0,00"
+2022,País Vasco,Guipúzcoa,State,0,0,"0,00",0
+2022,País Vasco,Guipúzcoa,provincial,"45,04","78,38",0,"107,20"
+2022,País Vasco,Guipúzcoa,provincial,0,0,"1.183,07",0
+2022,País Vasco,Vizcaya,State,"0,00","0,00",0,"0,00"
+2022,País Vasco,Vizcaya,State,0,0,"0,00",0
+2022,País Vasco,Vizcaya,provincial,"104,51","39,62",0,"72,33"
+2022,País Vasco,Vizcaya,provincial,0,0,"1.036,87",0
+2022,País Vasco,Álava,State,"0,00","0,00",0,"0,00"
+2022,País Vasco,Álava,State,0,0,"0,00",0
+2022,País Vasco,Álava,provincial,"100,97","10,61",0,"69,44"
+2022,País Vasco,Álava,provincial,0,0,"1.273,66",0
+2022,La Rioja,"Rioja, La",CCAA,0,"3,00",0,0
+2022,La Rioja,"Rioja, La",CCAA,0,0,"1.444,00",0
+2022,La Rioja,"Rioja, La",State,"62,23","1,83",0,"119,43"
+2022,La Rioja,"Rioja, La",State,0,0,"247,92",0

@@ -1,0 +1,521 @@
+year,region,province,acc with victims,total injuried,mortals,hosp injuries,minor injuries
+2013,Andalucía,Almería,788,1321,30,121,1170
+2014,Andalucía,Almería,691,1096,19,94,983
+2015,Andalucía,Almería,733,1195,26,111,1058
+2016,Andalucía,Almería,713,1175,40,108,1027
+2017,Andalucía,Almería,1190,1904,22,137,1745
+2018,Andalucía,Almería,1194,1918,27,111,1780
+2019,Andalucía,Almería,1092,1647,35,109,1503
+2020,Andalucía,Almería,861,1242,38,92,1112
+2021,Andalucía,Almería,696,1082,34,80,968
+2022,Andalucía,Almería,1205,1719,41,119,1559
+2013,Andalucía,Cádiz,2318,3576,37,217,3322
+2014,Andalucía,Cádiz,2709,4217,41,202,3974
+2015,Andalucía,Cádiz,3080,4705,32,229,4444
+2016,Andalucía,Cádiz,2757,4194,41,211,3942
+2017,Andalucía,Cádiz,2869,4207,34,224,3949
+2018,Andalucía,Cádiz,2556,3718,36,206,3476
+2019,Andalucía,Cádiz,2765,3947,36,226,3685
+2020,Andalucía,Cádiz,2125,3032,22,203,2807
+2021,Andalucía,Cádiz,2463,3482,41,199,3242
+2022,Andalucía,Cádiz,2629,3679,40,204,3435
+2013,Andalucía,Córdoba,1323,1915,36,199,1680
+2014,Andalucía,Córdoba,1418,1997,37,151,1809
+2015,Andalucía,Córdoba,1491,2069,26,118,1925
+2016,Andalucía,Córdoba,1359,1961,22,151,1788
+2017,Andalucía,Córdoba,1170,1641,37,115,1489
+2018,Andalucía,Córdoba,1077,1576,34,122,1420
+2019,Andalucía,Córdoba,1142,1610,38,156,1416
+2020,Andalucía,Córdoba,809,1089,14,121,954
+2021,Andalucía,Córdoba,993,1401,30,141,1230
+2022,Andalucía,Córdoba,927,1314,36,131,1147
+2013,Andalucía,Granada,1820,2697,33,219,2445
+2014,Andalucía,Granada,1421,2186,49,181,1956
+2015,Andalucía,Granada,1251,1874,43,172,1659
+2016,Andalucía,Granada,1931,2814,27,196,2591
+2017,Andalucía,Granada,1839,2636,33,169,2434
+2018,Andalucía,Granada,1692,2420,31,137,2252
+2019,Andalucía,Granada,1783,2513,25,131,2357
+2020,Andalucía,Granada,1126,1510,35,108,1367
+2021,Andalucía,Granada,1416,1977,38,108,1831
+2022,Andalucía,Granada,1510,2071,38,128,1905
+2013,Andalucía,Huelva,551,898,26,70,802
+2014,Andalucía,Huelva,624,962,19,67,876
+2015,Andalucía,Huelva,721,1157,23,80,1054
+2016,Andalucía,Huelva,644,1006,19,92,895
+2017,Andalucía,Huelva,763,1256,22,116,1118
+2018,Andalucía,Huelva,718,1156,18,128,1010
+2019,Andalucía,Huelva,752,1147,22,81,1044
+2020,Andalucía,Huelva,509,772,23,70,679
+2021,Andalucía,Huelva,698,1027,31,69,927
+2022,Andalucía,Huelva,685,1024,24,65,935
+2013,Andalucía,Jaén,816,1217,24,114,1079
+2014,Andalucía,Jaén,1062,1612,30,119,1463
+2015,Andalucía,Jaén,1023,1564,23,92,1449
+2016,Andalucía,Jaén,925,1400,31,114,1255
+2017,Andalucía,Jaén,928,1386,35,81,1270
+2018,Andalucía,Jaén,855,1335,31,92,1212
+2019,Andalucía,Jaén,835,1224,24,56,1144
+2020,Andalucía,Jaén,617,849,21,55,773
+2021,Andalucía,Jaén,658,924,22,65,837
+2022,Andalucía,Jaén,796,1121,22,70,1029
+2013,Andalucía,Málaga,2711,3824,49,356,3419
+2014,Andalucía,Málaga,2579,3570,40,265,3265
+2015,Andalucía,Málaga,2514,3589,46,237,3306
+2016,Andalucía,Málaga,2215,3249,57,252,2940
+2017,Andalucía,Málaga,2035,2905,67,222,2616
+2018,Andalucía,Málaga,4265,5836,39,224,5573
+2019,Andalucía,Málaga,5006,6818,56,279,6483
+2020,Andalucía,Málaga,3544,4731,51,252,4428
+2021,Andalucía,Málaga,4475,6137,58,240,5839
+2022,Andalucía,Málaga,4961,6649,60,238,6351
+2013,Andalucía,Sevilla,3617,5492,48,319,5125
+2014,Andalucía,Sevilla,4305,6418,52,266,6100
+2015,Andalucía,Sevilla,5371,8006,43,242,7721
+2016,Andalucía,Sevilla,5033,7492,66,329,7097
+2017,Andalucía,Sevilla,4592,6673,55,308,6310
+2018,Andalucía,Sevilla,4454,6515,58,264,6193
+2019,Andalucía,Sevilla,4589,6669,68,310,6291
+2020,Andalucía,Sevilla,3201,4485,50,238,4197
+2021,Andalucía,Sevilla,4073,5850,48,273,5529
+2022,Andalucía,Sevilla,3983,5731,72,263,5396
+2013,Aragón,Huesca,422,584,22,111,451
+2014,Aragón,Huesca,387,563,24,108,431
+2015,Aragón,Huesca,482,670,17,111,542
+2016,Aragón,Huesca,463,646,21,104,521
+2017,Aragón,Huesca,498,706,25,108,573
+2018,Aragón,Huesca,380,558,27,69,462
+2019,Aragón,Huesca,441,621,29,73,519
+2020,Aragón,Huesca,340,448,20,54,374
+2021,Aragón,Huesca,392,545,13,71,461
+2022,Aragón,Huesca,435,596,28,80,488
+2013,Aragón,Teruel,148,217,6,36,175
+2014,Aragón,Teruel,195,296,14,53,229
+2015,Aragón,Teruel,148,205,16,45,144
+2016,Aragón,Teruel,182,278,9,61,208
+2017,Aragón,Teruel,214,305,18,64,223
+2018,Aragón,Teruel,185,253,10,59,184
+2019,Aragón,Teruel,185,260,7,51,202
+2020,Aragón,Teruel,170,250,10,41,199
+2021,Aragón,Teruel,177,236,10,52,174
+2022,Aragón,Teruel,227,299,7,48,244
+2013,Aragón,Zaragoza,1470,2032,40,245,1747
+2014,Aragón,Zaragoza,1518,2042,39,203,1800
+2015,Aragón,Zaragoza,1570,2158,38,229,1891
+2016,Aragón,Zaragoza,1529,2140,43,209,1888
+2017,Aragón,Zaragoza,1694,2358,37,226,2095
+2018,Aragón,Zaragoza,1585,2189,48,202,1939
+2019,Aragón,Zaragoza,1609,2201,27,201,1973
+2020,Aragón,Zaragoza,1169,1543,38,160,1345
+2021,Aragón,Zaragoza,1546,2044,28,202,1814
+2022,Aragón,Zaragoza,1589,2065,45,210,1810
+2013,Asturias,Asturias,2298,3512,46,237,3229
+2014,Asturias,Asturias,2262,3331,38,254,3039
+2015,Asturias,Asturias,2374,3461,36,230,3195
+2016,Asturias,Asturias,2224,3191,35,232,2924
+2017,Asturias,Asturias,2312,3234,37,219,2978
+2018,Asturias,Asturias,2068,2916,43,204,2669
+2019,Asturias,Asturias,1981,2751,31,192,2528
+2020,Asturias,Asturias,1552,2044,22,147,1875
+2021,Asturias,Asturias,1831,2431,30,160,2241
+2022,Asturias,Asturias,1762,2324,34,166,2124
+2013,Islas Baleares,Baleares,3431,4767,45,374,4348
+2014,Islas Baleares,Baleares,3229,4452,50,340,4062
+2015,Islas Baleares,Baleares,3460,4777,53,389,4335
+2016,Islas Baleares,Baleares,3821,5336,60,344,4932
+2017,Islas Baleares,Baleares,3783,5085,68,389,4628
+2018,Islas Baleares,Baleares,3450,4695,53,310,4332
+2019,Islas Baleares,Baleares,3356,4462,49,287,4126
+2020,Islas Baleares,Baleares,2092,2727,37,197,2493
+2021,Islas Baleares,Baleares,2748,3556,47,275,3234
+2022,Islas Baleares,Baleares,3078,3987,38,322,3627
+2013,Canarias,"Palmas, Las",698,1095,25,79,991
+2014,Canarias,"Palmas, Las",1239,1835,31,131,1673
+2015,Canarias,"Palmas, Las",1472,2138,22,145,1971
+2016,Canarias,"Palmas, Las",1314,1978,40,130,1808
+2017,Canarias,"Palmas, Las",1302,2031,30,115,1886
+2018,Canarias,"Palmas, Las",1272,1959,39,95,1825
+2019,Canarias,"Palmas, Las",2158,3129,32,99,2998
+2020,Canarias,"Palmas, Las",1790,2462,22,93,2347
+2021,Canarias,"Palmas, Las",1971,2600,25,112,2463
+2022,Canarias,"Palmas, Las",2068,2783,31,140,2612
+2013,Canarias,"Tenerife, S.C.",1653,2310,23,221,2066
+2014,Canarias,"Tenerife, S.C.",1812,2547,26,231,2290
+2015,Canarias,"Tenerife, S.C.",1797,2593,40,202,2351
+2016,Canarias,"Tenerife, S.C.",2257,3277,31,261,2985
+2017,Canarias,"Tenerife, S.C.",2216,3169,37,298,2834
+2018,Canarias,"Tenerife, S.C.",2167,3069,29,306,2734
+2019,Canarias,"Tenerife, S.C.",2242,3091,42,339,2710
+2020,Canarias,"Tenerife, S.C.",1669,2253,28,264,1961
+2021,Canarias,"Tenerife, S.C.",1994,2796,35,248,2513
+2022,Canarias,"Tenerife, S.C.",2137,2946,37,274,2635
+2013,Cantabria,Cantabria,815,1269,20,97,1152
+2014,Cantabria,Cantabria,745,1132,18,56,1058
+2015,Cantabria,Cantabria,703,1065,22,57,986
+2016,Cantabria,Cantabria,710,1089,21,67,1001
+2017,Cantabria,Cantabria,714,1039,22,68,949
+2018,Cantabria,Cantabria,628,994,23,62,909
+2019,Cantabria,Cantabria,920,1350,18,77,1255
+2020,Cantabria,Cantabria,830,1112,16,81,1015
+2021,Cantabria,Cantabria,974,1318,15,116,1187
+2022,Cantabria,Cantabria,1009,1369,21,113,1235
+2013,Castilla-La Mancha,Albacete,481,680,19,87,574
+2014,Castilla-La Mancha,Albacete,616,849,23,101,725
+2015,Castilla-La Mancha,Albacete,605,837,22,83,732
+2016,Castilla-La Mancha,Albacete,690,952,24,95,833
+2017,Castilla-La Mancha,Albacete,711,959,16,99,844
+2018,Castilla-La Mancha,Albacete,708,947,11,90,846
+2019,Castilla-La Mancha,Albacete,702,917,28,103,786
+2020,Castilla-La Mancha,Albacete,557,704,10,51,643
+2021,Castilla-La Mancha,Albacete,732,1002,11,78,913
+2022,Castilla-La Mancha,Albacete,650,849,13,83,753
+2013,Castilla-La Mancha,Ciudad Real,586,937,38,93,806
+2014,Castilla-La Mancha,Ciudad Real,635,992,19,79,894
+2015,Castilla-La Mancha,Ciudad Real,640,952,27,61,864
+2016,Castilla-La Mancha,Ciudad Real,675,1026,30,77,919
+2017,Castilla-La Mancha,Ciudad Real,563,813,33,63,717
+2018,Castilla-La Mancha,Ciudad Real,500,759,25,46,688
+2019,Castilla-La Mancha,Ciudad Real,463,667,22,35,610
+2020,Castilla-La Mancha,Ciudad Real,351,469,29,43,397
+2021,Castilla-La Mancha,Ciudad Real,385,576,24,59,493
+2022,Castilla-La Mancha,Ciudad Real,414,584,29,48,507
+2013,Castilla-La Mancha,Cuenca,374,599,30,69,500
+2014,Castilla-La Mancha,Cuenca,362,562,17,44,501
+2015,Castilla-La Mancha,Cuenca,316,488,16,57,415
+2016,Castilla-La Mancha,Cuenca,294,459,15,74,370
+2017,Castilla-La Mancha,Cuenca,282,414,18,64,332
+2018,Castilla-La Mancha,Cuenca,250,392,20,65,307
+2019,Castilla-La Mancha,Cuenca,271,394,8,61,325
+2020,Castilla-La Mancha,Cuenca,166,243,18,34,191
+2021,Castilla-La Mancha,Cuenca,286,443,27,55,361
+2022,Castilla-La Mancha,Cuenca,288,459,23,63,373
+2013,Castilla-La Mancha,Guadalajara,281,418,8,52,358
+2014,Castilla-La Mancha,Guadalajara,222,295,14,24,257
+2015,Castilla-La Mancha,Guadalajara,218,314,11,48,255
+2016,Castilla-La Mancha,Guadalajara,254,387,7,40,340
+2017,Castilla-La Mancha,Guadalajara,257,385,12,42,331
+2018,Castilla-La Mancha,Guadalajara,327,482,10,29,443
+2019,Castilla-La Mancha,Guadalajara,312,449,6,30,413
+2020,Castilla-La Mancha,Guadalajara,277,359,12,22,325
+2021,Castilla-La Mancha,Guadalajara,315,435,6,32,397
+2022,Castilla-La Mancha,Guadalajara,372,521,9,39,473
+2013,Castilla-La Mancha,Toledo,884,1348,25,142,1181
+2014,Castilla-La Mancha,Toledo,709,1130,34,117,979
+2015,Castilla-La Mancha,Toledo,849,1292,31,128,1133
+2016,Castilla-La Mancha,Toledo,906,1392,42,139,1211
+2017,Castilla-La Mancha,Toledo,836,1341,50,107,1184
+2018,Castilla-La Mancha,Toledo,709,1169,34,109,1026
+2019,Castilla-La Mancha,Toledo,777,1156,29,89,1038
+2020,Castilla-La Mancha,Toledo,595,832,27,67,738
+2021,Castilla-La Mancha,Toledo,681,978,36,87,855
+2022,Castilla-La Mancha,Toledo,880,1303,23,86,1194
+2013,Castilla y León,Burgos,836,1167,36,150,981
+2014,Castilla y León,Burgos,747,1048,24,123,901
+2015,Castilla y León,Burgos,788,1144,32,140,972
+2016,Castilla y León,Burgos,845,1235,36,149,1050
+2017,Castilla y León,Burgos,807,1084,31,120,933
+2018,Castilla y León,Burgos,749,1094,32,109,953
+2019,Castilla y León,Burgos,638,871,14,83,774
+2020,Castilla y León,Burgos,375,539,19,74,446
+2021,Castilla y León,Burgos,552,726,15,65,646
+2022,Castilla y León,Burgos,619,792,33,97,662
+2013,Castilla y León,León,827,1238,26,132,1080
+2014,Castilla y León,León,609,916,32,100,784
+2015,Castilla y León,León,810,1234,39,170,1025
+2016,Castilla y León,León,899,1284,25,189,1070
+2017,Castilla y León,León,859,1214,22,167,1025
+2018,Castilla y León,León,819,1173,35,133,1005
+2019,Castilla y León,León,745,1099,35,105,959
+2020,Castilla y León,León,471,647,25,87,535
+2021,Castilla y León,León,496,718,30,97,591
+2022,Castilla y León,León,477,656,21,96,539
+2013,Castilla y León,Palencia,270,417,15,60,342
+2014,Castilla y León,Palencia,253,411,12,58,341
+2015,Castilla y León,Palencia,264,391,6,49,336
+2016,Castilla y León,Palencia,250,360,13,50,297
+2017,Castilla y León,Palencia,239,347,13,37,297
+2018,Castilla y León,Palencia,185,274,11,50,213
+2019,Castilla y León,Palencia,163,232,12,60,160
+2020,Castilla y León,Palencia,121,166,10,27,129
+2021,Castilla y León,Palencia,151,207,11,32,164
+2022,Castilla y León,Palencia,196,274,12,56,206
+2013,Castilla y León,Salamanca,811,1150,12,87,1051
+2014,Castilla y León,Salamanca,664,982,13,103,866
+2015,Castilla y León,Salamanca,643,857,17,88,752
+2016,Castilla y León,Salamanca,662,913,10,74,829
+2017,Castilla y León,Salamanca,500,687,15,61,611
+2018,Castilla y León,Salamanca,500,683,14,51,618
+2019,Castilla y León,Salamanca,388,555,13,44,498
+2020,Castilla y León,Salamanca,266,380,20,40,320
+2021,Castilla y León,Salamanca,415,563,6,53,504
+2022,Castilla y León,Salamanca,546,689,18,55,616
+2013,Castilla y León,Segovia,309,485,8,54,423
+2014,Castilla y León,Segovia,271,398,19,38,341
+2015,Castilla y León,Segovia,324,480,16,46,418
+2016,Castilla y León,Segovia,312,460,16,38,406
+2017,Castilla y León,Segovia,295,417,10,41,366
+2018,Castilla y León,Segovia,357,534,12,40,482
+2019,Castilla y León,Segovia,325,450,9,32,409
+2020,Castilla y León,Segovia,227,288,11,19,258
+2021,Castilla y León,Segovia,221,321,7,28,286
+2022,Castilla y León,Segovia,296,423,17,36,370
+2013,Castilla y León,Soria,119,165,9,26,130
+2014,Castilla y León,Soria,118,184,14,21,149
+2015,Castilla y León,Soria,121,172,10,31,131
+2016,Castilla y León,Soria,143,226,19,41,166
+2017,Castilla y León,Soria,113,150,11,25,114
+2018,Castilla y León,Soria,144,208,15,32,161
+2019,Castilla y León,Soria,123,181,8,31,142
+2020,Castilla y León,Soria,105,147,6,20,121
+2021,Castilla y León,Soria,93,143,13,29,101
+2022,Castilla y León,Soria,105,140,15,25,100
+2013,Castilla y León,Valladolid,783,1163,22,102,1039
+2014,Castilla y León,Valladolid,791,1097,13,105,979
+2015,Castilla y León,Valladolid,836,1249,24,104,1121
+2016,Castilla y León,Valladolid,904,1265,24,92,1149
+2017,Castilla y León,Valladolid,932,1297,27,116,1154
+2018,Castilla y León,Valladolid,887,1204,23,86,1095
+2019,Castilla y León,Valladolid,895,1184,18,80,1086
+2020,Castilla y León,Valladolid,616,805,13,80,712
+2021,Castilla y León,Valladolid,813,1070,24,107,939
+2022,Castilla y León,Valladolid,790,1054,23,110,921
+2013,Castilla y León,Zamora,140,212,13,64,135
+2014,Castilla y León,Zamora,126,184,18,38,128
+2015,Castilla y León,Zamora,108,186,21,44,121
+2016,Castilla y León,Zamora,124,224,20,43,161
+2017,Castilla y León,Zamora,215,315,24,52,239
+2018,Castilla y León,Zamora,241,331,18,50,263
+2019,Castilla y León,Zamora,206,321,16,44,261
+2020,Castilla y León,Zamora,179,244,12,45,187
+2021,Castilla y León,Zamora,219,329,9,45,275
+2022,Castilla y León,Zamora,202,290,21,46,223
+2013,Castilla y León,Ávila,378,558,19,71,468
+2014,Castilla y León,Ávila,464,660,12,71,577
+2015,Castilla y León,Ávila,457,660,16,66,578
+2016,Castilla y León,Ávila,442,640,12,60,568
+2017,Castilla y León,Ávila,385,530,11,39,480
+2018,Castilla y León,Ávila,382,544,16,52,476
+2019,Castilla y León,Ávila,336,448,11,36,401
+2020,Castilla y León,Ávila,235,309,10,32,267
+2021,Castilla y León,Ávila,292,387,9,38,340
+2022,Castilla y León,Ávila,287,393,19,47,327
+2013,Cataluña,Barcelona,18402,24777,141,1158,23478
+2014,Cataluña,Barcelona,18473,24758,159,1172,23427
+2015,Cataluña,Barcelona,19625,26101,128,1145,24828
+2016,Cataluña,Barcelona,20910,27756,131,1102,26523
+2017,Cataluña,Barcelona,20986,27730,145,1036,26549
+2018,Cataluña,Barcelona,20862,27334,163,1049,26122
+2019,Cataluña,Barcelona,20591,26740,171,1007,25562
+2020,Cataluña,Barcelona,13403,17015,115,682,16218
+2021,Cataluña,Barcelona,16683,21228,117,831,20280
+2022,Cataluña,Barcelona,17394,22307,141,930,21236
+2013,Cataluña,Gerona,2265,3141,47,258,2836
+2014,Cataluña,Gerona,2329,3249,27,261,2961
+2015,Cataluña,Gerona,2409,3316,41,278,2997
+2016,Cataluña,Gerona,2701,3713,55,273,3385
+2017,Cataluña,Gerona,2676,3659,47,225,3387
+2018,Cataluña,Gerona,2550,3522,55,264,3203
+2019,Cataluña,Gerona,2520,3430,42,236,3152
+2020,Cataluña,Gerona,1843,2373,28,179,2166
+2021,Cataluña,Gerona,2027,2685,48,205,2432
+2022,Cataluña,Gerona,2135,2782,51,200,2531
+2013,Cataluña,Lérida,1195,1759,42,218,1499
+2014,Cataluña,Lérida,1144,1656,37,194,1425
+2015,Cataluña,Lérida,1251,1787,51,209,1527
+2016,Cataluña,Lérida,1316,1911,37,188,1686
+2017,Cataluña,Lérida,1391,2035,40,201,1794
+2018,Cataluña,Lérida,1431,2087,43,180,1864
+2019,Cataluña,Lérida,1352,1977,39,181,1757
+2020,Cataluña,Lérida,995,1335,21,103,1211
+2021,Cataluña,Lérida,1140,1559,44,159,1356
+2022,Cataluña,Lérida,1341,1799,20,165,1614
+2013,Cataluña,Tarragona,1969,2735,42,233,2460
+2014,Cataluña,Tarragona,1882,2654,49,224,2381
+2015,Cataluña,Tarragona,2001,2762,71,244,2447
+2016,Cataluña,Tarragona,2066,2901,59,237,2605
+2017,Cataluña,Tarragona,1999,2743,51,216,2476
+2018,Cataluña,Tarragona,2064,2809,65,201,2543
+2019,Cataluña,Tarragona,2113,2839,52,215,2572
+2020,Cataluña,Tarragona,1538,2011,40,182,1789
+2021,Cataluña,Tarragona,2045,2661,33,206,2422
+2022,Cataluña,Tarragona,2189,2809,52,241,2516
+2013,Ceuta,Ceuta,166,258,1,9,248
+2014,Ceuta,Ceuta,289,401,0,6,395
+2015,Ceuta,Ceuta,319,462,3,15,444
+2016,Ceuta,Ceuta,297,435,2,16,417
+2017,Ceuta,Ceuta,409,630,2,22,606
+2018,Ceuta,Ceuta,406,575,3,16,556
+2019,Ceuta,Ceuta,309,460,2,18,440
+2020,Ceuta,Ceuta,172,248,2,8,238
+2021,Ceuta,Ceuta,244,364,0,8,356
+2022,Ceuta,Ceuta,257,366,1,10,355
+2013,C. Valenciana,Alicante,2465,3530,42,341,3147
+2014,C. Valenciana,Alicante,2602,3650,67,268,3315
+2015,C. Valenciana,Alicante,2708,3829,62,287,3480
+2016,C. Valenciana,Alicante,3028,4208,68,291,3849
+2017,C. Valenciana,Alicante,2954,4163,64,297,3802
+2018,C. Valenciana,Alicante,3021,4127,60,349,3718
+2019,C. Valenciana,Alicante,2853,3927,80,328,3519
+2020,C. Valenciana,Alicante,1882,2517,61,258,2198
+2021,C. Valenciana,Alicante,2404,3303,66,309,2928
+2022,C. Valenciana,Alicante,3323,4406,65,336,4005
+2013,C. Valenciana,Castellón,689,998,22,116,860
+2014,C. Valenciana,Castellón,672,910,29,92,789
+2015,C. Valenciana,Castellón,708,956,28,97,831
+2016,C. Valenciana,Castellón,786,1152,43,141,968
+2017,C. Valenciana,Castellón,809,1128,39,118,971
+2018,C. Valenciana,Castellón,885,1213,35,129,1049
+2019,C. Valenciana,Castellón,878,1188,25,152,1011
+2020,C. Valenciana,Castellón,688,855,17,127,711
+2021,C. Valenciana,Castellón,811,1100,27,148,925
+2022,C. Valenciana,Castellón,990,1327,32,161,1134
+2013,C. Valenciana,Valencia,4378,5958,77,493,5388
+2014,C. Valenciana,Valencia,3914,5226,71,559,4596
+2015,C. Valenciana,Valencia,4227,5582,64,402,5116
+2016,C. Valenciana,Valencia,4402,5924,69,433,5422
+2017,C. Valenciana,Valencia,4278,5767,73,449,5245
+2018,C. Valenciana,Valencia,4280,5803,88,305,5410
+2019,C. Valenciana,Valencia,4404,5844,72,423,5349
+2020,C. Valenciana,Valencia,3114,3994,51,302,3641
+2021,C. Valenciana,Valencia,4312,5619,47,396,5176
+2022,C. Valenciana,Valencia,4771,6038,78,550,5410
+2013,Extremadura,Badajoz,755,1134,25,144,965
+2014,Extremadura,Badajoz,925,1380,40,147,1193
+2015,Extremadura,Badajoz,880,1329,37,105,1187
+2016,Extremadura,Badajoz,889,1299,38,139,1122
+2017,Extremadura,Badajoz,1013,1458,36,139,1283
+2018,Extremadura,Badajoz,951,1404,32,117,1255
+2019,Extremadura,Badajoz,881,1273,34,100,1139
+2020,Extremadura,Badajoz,651,899,25,73,801
+2021,Extremadura,Badajoz,777,1105,28,90,987
+2022,Extremadura,Badajoz,1027,1406,28,108,1270
+2013,Extremadura,Cáceres,506,724,22,65,637
+2014,Extremadura,Cáceres,472,725,16,61,648
+2015,Extremadura,Cáceres,518,755,17,50,688
+2016,Extremadura,Cáceres,419,616,24,55,537
+2017,Extremadura,Cáceres,478,741,26,56,659
+2018,Extremadura,Cáceres,504,715,19,70,626
+2019,Extremadura,Cáceres,531,750,16,69,665
+2020,Extremadura,Cáceres,378,489,15,71,403
+2021,Extremadura,Cáceres,497,670,12,64,594
+2022,Extremadura,Cáceres,451,625,13,54,558
+2013,Galicia,"Coruña, A",1256,1831,73,238,1520
+2014,Galicia,"Coruña, A",1114,1661,55,226,1380
+2015,Galicia,"Coruña, A",1443,2052,47,234,1771
+2016,Galicia,"Coruña, A",1978,2794,58,304,2432
+2017,Galicia,"Coruña, A",1876,2700,51,312,2337
+2018,Galicia,"Coruña, A",1752,2452,64,275,2113
+2019,Galicia,"Coruña, A",1816,2579,53,270,2256
+2020,Galicia,"Coruña, A",1227,1676,33,196,1447
+2021,Galicia,"Coruña, A",1458,2014,42,219,1753
+2022,Galicia,"Coruña, A",1654,2334,62,237,2035
+2013,Galicia,Lugo,522,741,14,129,598
+2014,Galicia,Lugo,546,779,33,100,646
+2015,Galicia,Lugo,549,816,22,141,653
+2016,Galicia,Lugo,611,924,32,114,778
+2017,Galicia,Lugo,547,802,22,107,673
+2018,Galicia,Lugo,532,808,26,85,697
+2019,Galicia,Lugo,453,655,22,70,563
+2020,Galicia,Lugo,381,515,16,64,435
+2021,Galicia,Lugo,412,558,12,61,485
+2022,Galicia,Lugo,449,612,20,69,523
+2013,Galicia,Orense,313,454,14,85,355
+2014,Galicia,Orense,373,513,18,88,407
+2015,Galicia,Orense,403,561,11,83,467
+2016,Galicia,Orense,422,603,15,86,502
+2017,Galicia,Orense,446,612,13,91,508
+2018,Galicia,Orense,402,588,19,103,466
+2019,Galicia,Orense,390,525,15,82,428
+2020,Galicia,Orense,352,454,16,68,370
+2021,Galicia,Orense,386,508,13,64,431
+2022,Galicia,Orense,433,539,14,57,468
+2013,Galicia,Pontevedra,1694,2711,31,227,2453
+2014,Galicia,Pontevedra,1854,2871,33,283,2555
+2015,Galicia,Pontevedra,2068,3220,43,275,2902
+2016,Galicia,Pontevedra,1726,2668,36,260,2372
+2017,Galicia,Pontevedra,1760,2719,31,181,2507
+2018,Galicia,Pontevedra,1694,2563,35,159,2369
+2019,Galicia,Pontevedra,1868,2866,37,212,2617
+2020,Galicia,Pontevedra,1491,2155,38,133,1984
+2021,Galicia,Pontevedra,1664,2401,37,143,2221
+2022,Galicia,Pontevedra,1957,2714,27,176,2511
+2013,Madrid,Madrid,14114,18730,130,1386,17214
+2014,Madrid,Madrid,15078,19942,114,1416,18412
+2015,Madrid,Madrid,15422,20114,111,1314,18689
+2016,Madrid,Madrid,16158,20780,121,1254,19405
+2017,Madrid,Madrid,16248,21065,125,1304,19636
+2018,Madrid,Madrid,16614,21399,114,1185,20100
+2019,Madrid,Madrid,16628,21291,159,864,20268
+2020,Madrid,Madrid,10766,13427,105,638,12684
+2021,Madrid,Madrid,13476,17026,127,791,16108
+2022,Madrid,Madrid,15086,19092,125,774,18193
+2013,Melilla,Melilla,407,560,0,21,539
+2014,Melilla,Melilla,507,700,0,16,684
+2015,Melilla,Melilla,594,821,2,19,800
+2016,Melilla,Melilla,562,809,1,14,794
+2017,Melilla,Melilla,466,622,2,14,606
+2018,Melilla,Melilla,350,462,3,15,444
+2019,Melilla,Melilla,376,476,0,17,459
+2020,Melilla,Melilla,242,327,1,16,310
+2021,Melilla,Melilla,339,429,1,11,417
+2022,Melilla,Melilla,300,386,4,15,367
+2013,Murcia,Murcia,863,1365,57,162,1146
+2014,Murcia,Murcia,826,1422,61,173,1188
+2015,Murcia,Murcia,1755,2561,44,219,2298
+2016,Murcia,Murcia,2304,3280,58,241,2981
+2017,Murcia,Murcia,2480,3538,85,233,3220
+2018,Murcia,Murcia,2518,3522,66,285,3171
+2019,Murcia,Murcia,2682,3843,54,259,3530
+2020,Murcia,Murcia,2048,2828,39,200,2589
+2021,Murcia,Murcia,2523,3584,49,238,3297
+2022,Murcia,Murcia,3136,4350,59,288,4003
+2013,Navarra,Navarra,396,601,31,102,468
+2014,Navarra,Navarra,457,644,41,92,511
+2015,Navarra,Navarra,450,612,26,112,474
+2016,Navarra,Navarra,731,970,26,136,808
+2017,Navarra,Navarra,872,1185,29,124,1032
+2018,Navarra,Navarra,825,1102,35,119,948
+2019,Navarra,Navarra,789,1014,31,122,861
+2020,Navarra,Navarra,576,725,20,97,608
+2021,Navarra,Navarra,880,1139,28,114,997
+2022,Navarra,Navarra,788,983,37,145,801
+2013,País Vasco,Guipúzcoa,1765,2267,24,174,2069
+2014,País Vasco,Guipúzcoa,1902,2443,16,202,2225
+2015,País Vasco,Guipúzcoa,1754,2209,38,199,1972
+2016,País Vasco,Guipúzcoa,1938,2452,17,203,2232
+2017,País Vasco,Guipúzcoa,1723,2194,27,186,1981
+2018,País Vasco,Guipúzcoa,1784,2219,13,171,2035
+2019,País Vasco,Guipúzcoa,1799,2266,23,173,2070
+2020,País Vasco,Guipúzcoa,1549,1912,20,176,1716
+2021,País Vasco,Guipúzcoa,1720,2138,22,175,1941
+2022,País Vasco,Guipúzcoa,1736,2185,23,172,1990
+2013,País Vasco,Vizcaya,1880,2716,22,168,2526
+2014,País Vasco,Vizcaya,1860,2607,15,105,2487
+2015,País Vasco,Vizcaya,1884,2690,19,108,2563
+2016,País Vasco,Vizcaya,1923,2689,26,123,2540
+2017,País Vasco,Vizcaya,2002,2756,13,148,2595
+2018,País Vasco,Vizcaya,1924,2640,21,151,2468
+2019,País Vasco,Vizcaya,2024,2709,26,147,2536
+2020,País Vasco,Vizcaya,1408,1882,17,129,1736
+2021,País Vasco,Vizcaya,1862,2429,22,160,2247
+2022,País Vasco,Vizcaya,1883,2456,21,150,2285
+2013,País Vasco,Álava,906,1216,17,86,1113
+2014,País Vasco,Álava,918,1212,5,80,1127
+2015,País Vasco,Álava,912,1150,10,84,1056
+2016,País Vasco,Álava,1006,1284,13,63,1208
+2017,País Vasco,Álava,998,1314,11,118,1185
+2018,País Vasco,Álava,1044,1341,15,106,1220
+2019,País Vasco,Álava,1029,1324,16,109,1199
+2020,País Vasco,Álava,849,1034,5,101,928
+2021,País Vasco,Álava,877,1140,13,106,1021
+2022,País Vasco,Álava,839,1139,11,135,993
+2013,La Rioja,"Rioja, La",655,931,16,69,846
+2014,La Rioja,"Rioja, La",650,953,11,66,876
+2015,La Rioja,"Rioja, La",707,977,20,71,886
+2016,La Rioja,"Rioja, La",712,983,25,60,898
+2017,La Rioja,"Rioja, La",709,943,26,77,840
+2018,La Rioja,"Rioja, La",602,829,10,68,751
+2019,La Rioja,"Rioja, La",594,773,18,59,696
+2020,La Rioja,"Rioja, La",461,580,16,61,503
+2021,La Rioja,"Rioja, La",569,731,12,70,649
+2022,La Rioja,"Rioja, La",654,817,12,71,734

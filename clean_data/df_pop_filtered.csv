@@ -1,0 +1,521 @@
+year,region,province,population
+2013,País Vasco,Álava,202969
+2013,Castilla-La Mancha,Albacete,246555
+2013,C. Valenciana,Alicante,1194721
+2013,Andalucía,Almería,448850
+2013,Castilla y León,Ávila,99333
+2013,Extremadura,Badajoz,426061
+2013,Islas Baleares,Baleares,725342
+2013,Cataluña,Barcelona,3463167
+2013,Castilla y León,Burgos,227824
+2013,Extremadura,Cáceres,248617
+2013,Andalucía,Cádiz,786918
+2013,C. Valenciana,Castellón,379331
+2013,Castilla-La Mancha,Ciudad Real,321789
+2013,Andalucía,Córdoba,491768
+2013,Galicia,"Coruña, A",703068
+2013,Castilla-La Mancha,Cuenca,126794
+2013,Cataluña,Gerona,475742
+2013,Andalucía,Granada,572911
+2013,Castilla-La Mancha,Guadalajara,163758
+2013,País Vasco,Guipúzcoa,435982
+2013,Andalucía,Huelva,331489
+2013,Aragón,Huesca,137203
+2013,Andalucía,Jaén,405207
+2013,Castilla y León,León,295321
+2013,Cataluña,Lérida,273926
+2013,La Rioja,"Rioja, La",198717
+2013,Galicia,Lugo,202791
+2013,Madrid,Madrid,4169259
+2013,Andalucía,Málaga,1038287
+2013,Murcia,Murcia,919532
+2013,Navarra,Navarra,396781
+2013,Galicia,Orense,186540
+2013,Asturias,Asturias,668373
+2013,Castilla y León,Palencia,103626
+2013,Canarias,"Palmas, Las",737713
+2013,Galicia,Pontevedra,598275
+2013,Castilla y León,Salamanca,204996
+2013,Canarias,"Tenerife, S.C.",663674
+2013,Cantabria,Cantabria,374149
+2013,Castilla y León,Segovia,97806
+2013,Andalucía,Sevilla,1218610
+2013,Castilla y León,Soria,54404
+2013,Cataluña,Tarragona,504505
+2013,Aragón,Teruel,83921
+2013,Castilla-La Mancha,Toledo,437369
+2013,C. Valenciana,Valencia,1620455
+2013,Castilla y León,Valladolid,333478
+2013,País Vasco,Vizcaya,719668
+2013,Castilla y León,Zamora,108167
+2013,Aragón,Zaragoza,607653
+2013,Ceuta,Ceuta,52354
+2013,Melilla,Melilla,51220
+2014,País Vasco,Álava,200971
+2014,Castilla-La Mancha,Albacete,243938
+2014,C. Valenciana,Alicante,1148660
+2014,Andalucía,Almería,448508
+2014,Castilla y León,Ávila,97876
+2014,Extremadura,Badajoz,424081
+2014,Islas Baleares,Baleares,716439
+2014,Cataluña,Barcelona,3423132
+2014,Castilla y León,Burgos,223226
+2014,Extremadura,Cáceres,247866
+2014,Andalucía,Cádiz,784751
+2014,C. Valenciana,Castellón,366427
+2014,Castilla-La Mancha,Ciudad Real,317872
+2014,Andalucía,Córdoba,489061
+2014,Galicia,"Coruña, A",694134
+2014,Castilla-La Mancha,Cuenca,123542
+2014,Cataluña,Gerona,468558
+2014,Andalucía,Granada,571443
+2014,Castilla-La Mancha,Guadalajara,161158
+2014,País Vasco,Guipúzcoa,432564
+2014,Andalucía,Huelva,329178
+2014,Aragón,Huesca,135412
+2014,Andalucía,Jaén,401869
+2014,Castilla y León,León,290792
+2014,Cataluña,Lérida,270435
+2014,La Rioja,"Rioja, La",195155
+2014,Galicia,Lugo,200419
+2014,Madrid,Madrid,4102512
+2014,Andalucía,Málaga,1016717
+2014,Murcia,Murcia,912621
+2014,Navarra,Navarra,390698
+2014,Galicia,Orense,183075
+2014,Asturias,Asturias,658557
+2014,Castilla y León,Palencia,102229
+2014,Canarias,"Palmas, Las",734032
+2014,Galicia,Pontevedra,591402
+2014,Castilla y León,Salamanca,202267
+2014,Canarias,"Tenerife, S.C.",657816
+2014,Cantabria,Cantabria,368900
+2014,Castilla y León,Segovia,95928
+2014,Andalucía,Sevilla,1213002
+2014,Castilla y León,Soria,53746
+2014,Cataluña,Tarragona,494118
+2014,Aragón,Teruel,82662
+2014,Castilla-La Mancha,Toledo,430368
+2014,C. Valenciana,Valencia,1596634
+2014,Castilla y León,Valladolid,327804
+2014,País Vasco,Vizcaya,709424
+2014,Castilla y León,Zamora,106017
+2014,Aragón,Zaragoza,589017
+2014,Ceuta,Ceuta,52818
+2014,Melilla,Melilla,51385
+2015,País Vasco,Álava,199636
+2015,Castilla-La Mancha,Albacete,242197
+2015,C. Valenciana,Alicante,1134954
+2015,Andalucía,Almería,446289
+2015,Castilla y León,Ávila,96264
+2015,Extremadura,Badajoz,421368
+2015,Islas Baleares,Baleares,714558
+2015,Cataluña,Barcelona,3401265
+2015,Castilla y León,Burgos,219913
+2015,Extremadura,Cáceres,246240
+2015,Andalucía,Cádiz,782125
+2015,C. Valenciana,Castellón,360284
+2015,Castilla-La Mancha,Ciudad Real,313796
+2015,Andalucía,Córdoba,486202
+2015,Galicia,"Coruña, A",685245
+2015,Castilla-La Mancha,Cuenca,120909
+2015,Cataluña,Gerona,464179
+2015,Andalucía,Granada,569004
+2015,Castilla-La Mancha,Guadalajara,159230
+2015,País Vasco,Guipúzcoa,429701
+2015,Andalucía,Huelva,328512
+2015,Aragón,Huesca,133601
+2015,Andalucía,Jaén,399588
+2015,Castilla y León,León,286238
+2015,Cataluña,Lérida,267927
+2015,La Rioja,"Rioja, La",192659
+2015,Galicia,Lugo,197617
+2015,Madrid,Madrid,4056167
+2015,Andalucía,Málaga,1015969
+2015,Murcia,Murcia,908711
+2015,Navarra,Navarra,387768
+2015,Galicia,Orense,179650
+2015,Asturias,Asturias,646295
+2015,Castilla y León,Palencia,100811
+2015,Canarias,"Palmas, Las",731131
+2015,Galicia,Pontevedra,584347
+2015,Castilla y León,Salamanca,199185
+2015,Canarias,"Tenerife, S.C.",654942
+2015,Cantabria,Cantabria,363611
+2015,Castilla y León,Segovia,94438
+2015,Andalucía,Sevilla,1208730
+2015,Castilla y León,Soria,52821
+2015,Cataluña,Tarragona,486379
+2015,Aragón,Teruel,81766
+2015,Castilla-La Mancha,Toledo,424448
+2015,C. Valenciana,Valencia,1583491
+2015,Castilla y León,Valladolid,322517
+2015,País Vasco,Vizcaya,701535
+2015,Castilla y León,Zamora,104469
+2015,Aragón,Zaragoza,582753
+2015,Ceuta,Ceuta,52084
+2015,Melilla,Melilla,51898
+2016,País Vasco,Álava,197815
+2016,Castilla-La Mancha,Albacete,240542
+2016,C. Valenciana,Alicante,1122022
+2016,Andalucía,Almería,447442
+2016,Castilla y León,Ávila,94735
+2016,Extremadura,Badajoz,420217
+2016,Islas Baleares,Baleares,714190
+2016,Cataluña,Barcelona,3400438
+2016,Castilla y León,Burgos,216550
+2016,Extremadura,Cáceres,244630
+2016,Andalucía,Cádiz,780083
+2016,C. Valenciana,Castellón,356413
+2016,Castilla-La Mancha,Ciudad Real,309114
+2016,Andalucía,Córdoba,484384
+2016,Galicia,"Coruña, A",678109
+2016,Castilla-La Mancha,Cuenca,119179
+2016,Cataluña,Gerona,462002
+2016,Andalucía,Granada,567730
+2016,Castilla-La Mancha,Guadalajara,158003
+2016,País Vasco,Guipúzcoa,427135
+2016,Andalucía,Huelva,327251
+2016,Aragón,Huesca,132236
+2016,Andalucía,Jaén,397644
+2016,Castilla y León,León,281158
+2016,Cataluña,Lérida,265869
+2016,La Rioja,"Rioja, La",190887
+2016,Galicia,Lugo,195256
+2016,Madrid,Madrid,4052330
+2016,Andalucía,Málaga,1014732
+2016,Murcia,Murcia,904882
+2016,Navarra,Navarra,385675
+2016,Galicia,Orense,176647
+2016,Asturias,Asturias,636386
+2016,Castilla y León,Palencia,99473
+2016,Canarias,"Palmas, Las",729325
+2016,Galicia,Pontevedra,578529
+2016,Castilla y León,Salamanca,196233
+2016,Canarias,"Tenerife, S.C.",655071
+2016,Cantabria,Cantabria,359023
+2016,Castilla y León,Segovia,93168
+2016,Andalucía,Sevilla,1205416
+2016,Castilla y León,Soria,52068
+2016,Cataluña,Tarragona,481965
+2016,Aragón,Teruel,80459
+2016,Castilla-La Mancha,Toledo,419924
+2016,C. Valenciana,Valencia,1576345
+2016,Castilla y León,Valladolid,318006
+2016,País Vasco,Vizcaya,695938
+2016,Castilla y León,Zamora,102460
+2016,Aragón,Zaragoza,575379
+2016,Ceuta,Ceuta,52044
+2016,Melilla,Melilla,52059
+2017,País Vasco,Álava,197802
+2017,Castilla-La Mancha,Albacete,239318
+2017,C. Valenciana,Alicante,1112362
+2017,Andalucía,Almería,447577
+2017,Castilla y León,Ávila,93445
+2017,Extremadura,Badajoz,416901
+2017,Islas Baleares,Baleares,718442
+2017,Cataluña,Barcelona,3410928
+2017,Castilla y León,Burgos,213398
+2017,Extremadura,Cáceres,242136
+2017,Andalucía,Cádiz,776449
+2017,C. Valenciana,Castellón,351908
+2017,Castilla-La Mancha,Ciudad Real,305832
+2017,Andalucía,Córdoba,481826
+2017,Galicia,"Coruña, A",672080
+2017,Castilla-La Mancha,Cuenca,117791
+2017,Cataluña,Gerona,461353
+2017,Andalucía,Granada,565403
+2017,Castilla-La Mancha,Guadalajara,157912
+2017,País Vasco,Guipúzcoa,425339
+2017,Andalucía,Huelva,325872
+2017,Aragón,Huesca,131149
+2017,Andalucía,Jaén,395205
+2017,Castilla y León,León,276680
+2017,Cataluña,Lérida,263797
+2017,La Rioja,"Rioja, La",189708
+2017,Galicia,Lugo,192961
+2017,Madrid,Madrid,4058324
+2017,Andalucía,Málaga,1013318
+2017,Murcia,Murcia,905963
+2017,Navarra,Navarra,385790
+2017,Galicia,Orense,174010
+2017,Asturias,Asturias,627081
+2017,Castilla y León,Palencia,98368
+2017,Canarias,"Palmas, Las",730399
+2017,Galicia,Pontevedra,574385
+2017,Castilla y León,Salamanca,194075
+2017,Canarias,"Tenerife, S.C.",656368
+2017,Cantabria,Cantabria,355315
+2017,Castilla y León,Segovia,92043
+2017,Andalucía,Sevilla,1200688
+2017,Castilla y León,Soria,51457
+2017,Cataluña,Tarragona,479174
+2017,Aragón,Teruel,79438
+2017,Castilla-La Mancha,Toledo,417360
+2017,C. Valenciana,Valencia,1565681
+2017,Castilla y León,Valladolid,313987
+2017,País Vasco,Vizcaya,692628
+2017,Castilla y León,Zamora,100590
+2017,Aragón,Zaragoza,574321
+2017,Ceuta,Ceuta,52176
+2017,Melilla,Melilla,51919
+2018,País Vasco,Álava,197691
+2018,Castilla-La Mancha,Albacete,238133
+2018,C. Valenciana,Alicante,1115961
+2018,Andalucía,Almería,447538
+2018,Castilla y León,Ávila,91799
+2018,Extremadura,Badajoz,414050
+2018,Islas Baleares,Baleares,725987
+2018,Cataluña,Barcelona,3423593
+2018,Castilla y León,Burgos,211686
+2018,Extremadura,Cáceres,239097
+2018,Andalucía,Cádiz,772452
+2018,C. Valenciana,Castellón,351434
+2018,Castilla-La Mancha,Ciudad Real,303225
+2018,Andalucía,Córdoba,479117
+2018,Galicia,"Coruña, A",666834
+2018,Castilla-La Mancha,Cuenca,116785
+2018,Cataluña,Gerona,463853
+2018,Andalucía,Granada,564234
+2018,Castilla-La Mancha,Guadalajara,158229
+2018,País Vasco,Guipúzcoa,423999
+2018,Andalucía,Huelva,326205
+2018,Aragón,Huesca,130476
+2018,Andalucía,Jaén,391566
+2018,Castilla y León,León,272514
+2018,Cataluña,Lérida,263013
+2018,La Rioja,"Rioja, La",189291
+2018,Galicia,Lugo,190844
+2018,Madrid,Madrid,4089450
+2018,Andalucía,Málaga,1016507
+2018,Murcia,Murcia,909657
+2018,Navarra,Navarra,387059
+2018,Galicia,Orense,171804
+2018,Asturias,Asturias,617956
+2018,Castilla y León,Palencia,96947
+2018,Canarias,"Palmas, Las",734813
+2018,Galicia,Pontevedra,570197
+2018,Castilla y León,Salamanca,192232
+2018,Canarias,"Tenerife, S.C.",662687
+2018,Cantabria,Cantabria,352783
+2018,Castilla y León,Segovia,91466
+2018,Andalucía,Sevilla,1197215
+2018,Castilla y León,Soria,51148
+2018,Cataluña,Tarragona,479747
+2018,Aragón,Teruel,78784
+2018,Castilla-La Mancha,Toledo,416698
+2018,C. Valenciana,Valencia,1564131
+2018,Castilla y León,Valladolid,311053
+2018,País Vasco,Vizcaya,689563
+2018,Castilla y León,Zamora,98480
+2018,Aragón,Zaragoza,572418
+2018,Ceuta,Ceuta,52278
+2018,Melilla,Melilla,51939
+2019,País Vasco,Álava,198373
+2019,Castilla-La Mancha,Albacete,237648
+2019,C. Valenciana,Alicante,1126713
+2019,Andalucía,Almería,451518
+2019,Castilla y León,Ávila,91054
+2019,Extremadura,Badajoz,411619
+2019,Islas Baleares,Baleares,740355
+2019,Cataluña,Barcelona,3456615
+2019,Castilla y León,Burgos,210542
+2019,Extremadura,Cáceres,236988
+2019,Andalucía,Cádiz,770368
+2019,C. Valenciana,Castellón,352780
+2019,Castilla-La Mancha,Ciudad Real,300513
+2019,Andalucía,Córdoba,476562
+2019,Galicia,"Coruña, A",663929
+2019,Castilla-La Mancha,Cuenca,116521
+2019,Cataluña,Gerona,469128
+2019,Andalucía,Granada,565225
+2019,Castilla-La Mancha,Guadalajara,160048
+2019,País Vasco,Guipúzcoa,424225
+2019,Andalucía,Huelva,327297
+2019,Aragón,Huesca,130956
+2019,Andalucía,Jaén,388229
+2019,Castilla y León,León,268912
+2019,Cataluña,Lérida,263786
+2019,La Rioja,"Rioja, La",189462
+2019,Galicia,Lugo,188881
+2019,Madrid,Madrid,4137095
+2019,Andalucía,Málaga,1027956
+2019,Murcia,Murcia,918840
+2019,Navarra,Navarra,390437
+2019,Galicia,Orense,170100
+2019,Asturias,Asturias,609779
+2019,Castilla y León,Palencia,95617
+2019,Canarias,"Palmas, Las",742203
+2019,Galicia,Pontevedra,568152
+2019,Castilla y León,Salamanca,190842
+2019,Canarias,"Tenerife, S.C.",672038
+2019,Cantabria,Cantabria,351242
+2019,Castilla y León,Segovia,91320
+2019,Andalucía,Sevilla,1195328
+2019,Castilla y León,Soria,51127
+2019,Cataluña,Tarragona,484098
+2019,Aragón,Teruel,78427
+2019,Castilla-La Mancha,Toledo,421104
+2019,C. Valenciana,Valencia,1570832
+2019,Castilla y León,Valladolid,308856
+2019,País Vasco,Vizcaya,688423
+2019,Castilla y León,Zamora,96907
+2019,Aragón,Zaragoza,578041
+2019,Ceuta,Ceuta,52023
+2019,Melilla,Melilla,52007
+2020,País Vasco,Álava,198978
+2020,Castilla-La Mancha,Albacete,238018
+2020,C. Valenciana,Alicante,1139374
+2020,Andalucía,Almería,457956
+2020,Castilla y León,Ávila,90838
+2020,Extremadura,Badajoz,410587
+2020,Islas Baleares,Baleares,756163
+2020,Cataluña,Barcelona,3511690
+2020,Castilla y León,Burgos,210180
+2020,Extremadura,Cáceres,234854
+2020,Andalucía,Cádiz,771181
+2020,C. Valenciana,Castellón,356029
+2020,Castilla-La Mancha,Ciudad Real,300216
+2020,Andalucía,Córdoba,474852
+2020,Galicia,"Coruña, A",662543
+2020,Castilla-La Mancha,Cuenca,116995
+2020,Cataluña,Gerona,475416
+2020,Andalucía,Granada,567334
+2020,Castilla-La Mancha,Guadalajara,162873
+2020,País Vasco,Guipúzcoa,425666
+2020,Andalucía,Huelva,328454
+2020,Aragón,Huesca,132361
+2020,Andalucía,Jaén,386915
+2020,Castilla y León,León,265480
+2020,Cataluña,Lérida,265739
+2020,La Rioja,"Rioja, La",191117
+2020,Galicia,Lugo,187237
+2020,Madrid,Madrid,4215657
+2020,Andalucía,Málaga,1042378
+2020,Murcia,Murcia,930276
+2020,Navarra,Navarra,394319
+2020,Galicia,Orense,169042
+2020,Asturias,Asturias,603360
+2020,Castilla y León,Palencia,94654
+2020,Canarias,"Palmas, Las",749594
+2020,Galicia,Pontevedra,567844
+2020,Castilla y León,Salamanca,189814
+2020,Canarias,"Tenerife, S.C.",680261
+2020,Cantabria,Cantabria,350739
+2020,Castilla y León,Segovia,91432
+2020,Andalucía,Sevilla,1199185
+2020,Castilla y León,Soria,51359
+2020,Cataluña,Tarragona,490988
+2020,Aragón,Teruel,78557
+2020,Castilla-La Mancha,Toledo,426484
+2020,C. Valenciana,Valencia,1586773
+2020,Castilla y León,Valladolid,308055
+2020,País Vasco,Vizcaya,691261
+2020,Castilla y León,Zamora,95395
+2020,Aragón,Zaragoza,582445
+2020,Ceuta,Ceuta,51695
+2020,Melilla,Melilla,52147
+2021,País Vasco,Álava,198216
+2021,Castilla-La Mancha,Albacete,237644
+2021,C. Valenciana,Alicante,1139937
+2021,Andalucía,Almería,459604
+2021,Castilla y León,Ávila,91627
+2021,Extremadura,Badajoz,409336
+2021,Islas Baleares,Baleares,755255
+2021,Cataluña,Barcelona,3497821
+2021,Castilla y León,Burgos,209223
+2021,Extremadura,Cáceres,233573
+2021,Andalucía,Cádiz,771691
+2021,C. Valenciana,Castellón,356622
+2021,Castilla-La Mancha,Ciudad Real,299845
+2021,Andalucía,Córdoba,471709
+2021,Galicia,"Coruña, A",659456
+2021,Castilla-La Mancha,Cuenca,117390
+2021,Cataluña,Gerona,478341
+2021,Andalucía,Granada,569580
+2021,Castilla-La Mancha,Guadalajara,165773
+2021,País Vasco,Guipúzcoa,424415
+2021,Andalucía,Huelva,328920
+2021,Aragón,Huesca,133634
+2021,Andalucía,Jaén,385086
+2021,Castilla y León,León,262359
+2021,Cataluña,Lérida,266574
+2021,La Rioja,"Rioja, La",190822
+2021,Galicia,Lugo,185573
+2021,Madrid,Madrid,4201225
+2021,Andalucía,Málaga,1047935
+2021,Murcia,Murcia,935190
+2021,Navarra,Navarra,394345
+2021,Galicia,Orense,168130
+2021,Asturias,Asturias,596300
+2021,Castilla y León,Palencia,93440
+2021,Canarias,"Palmas, Las",747475
+2021,Galicia,Pontevedra,565545
+2021,Castilla y León,Salamanca,188864
+2021,Canarias,"Tenerife, S.C.",679010
+2021,Cantabria,Cantabria,350763
+2021,Castilla y León,Segovia,91987
+2021,Andalucía,Sevilla,1197241
+2021,Castilla y León,Soria,51636
+2021,Cataluña,Tarragona,494173
+2021,Aragón,Teruel,79057
+2021,Castilla-La Mancha,Toledo,431529
+2021,C. Valenciana,Valencia,1584105
+2021,Castilla y León,Valladolid,306606
+2021,País Vasco,Vizcaya,686006
+2021,Castilla y León,Zamora,94384
+2021,Aragón,Zaragoza,578554
+2021,Ceuta,Ceuta,51439
+2021,Melilla,Melilla,51789
+2022,País Vasco,Álava,197716
+2022,Castilla-La Mancha,Albacete,237025
+2022,C. Valenciana,Alicante,1148829
+2022,Andalucía,Almería,464984
+2022,Castilla y León,Ávila,91134
+2022,Extremadura,Badajoz,407094
+2022,Islas Baleares,Baleares,754802
+2022,Cataluña,Barcelona,3503649
+2022,Castilla y León,Burgos,207692
+2022,Extremadura,Cáceres,231702
+2022,Andalucía,Cádiz,771236
+2022,C. Valenciana,Castellón,358429
+2022,Castilla-La Mancha,Ciudad Real,298282
+2022,Andalucía,Córdoba,467855
+2022,Galicia,"Coruña, A",656131
+2022,Castilla-La Mancha,Cuenca,117112
+2022,Cataluña,Gerona,482091
+2022,Andalucía,Granada,568552
+2022,Castilla-La Mancha,Guadalajara,167355
+2022,País Vasco,Guipúzcoa,422052
+2022,Andalucía,Huelva,331016
+2022,Aragón,Huesca,134166
+2022,Andalucía,Jaén,381995
+2022,Castilla y León,León,258422
+2022,Cataluña,Lérida,267382
+2022,La Rioja,"Rioja, La",190169
+2022,Galicia,Lugo,183328
+2022,Madrid,Madrid,4190203
+2022,Andalucía,Málaga,1059748
+2022,Murcia,Murcia,943793
+2022,Navarra,Navarra,394803
+2022,Galicia,Orense,166930
+2022,Asturias,Asturias,587377
+2022,Castilla y León,Palencia,92015
+2022,Canarias,"Palmas, Las",746744
+2022,Galicia,Pontevedra,562605
+2022,Castilla y León,Salamanca,187018
+2022,Canarias,"Tenerife, S.C.",680052
+2022,Cantabria,Cantabria,349478
+2022,Castilla y León,Segovia,91843
+2022,Andalucía,Sevilla,1196864
+2022,Castilla y León,Soria,51304
+2022,Cataluña,Tarragona,498113
+2022,Aragón,Teruel,78748
+2022,Castilla-La Mancha,Toledo,433338
+2022,C. Valenciana,Valencia,1593601
+2022,Castilla y León,Valladolid,303867
+2022,País Vasco,Vizcaya,680078
+2022,Castilla y León,Zamora,92999
+2022,Aragón,Zaragoza,576511
+2022,Ceuta,Ceuta,51147
+2022,Melilla,Melilla,51380
